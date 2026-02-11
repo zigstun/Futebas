@@ -1,0 +1,2281 @@
+season,round,position,team_id,team_name,played,wins,draws,losses,goals_for,goals_against,goal_diff,points
+2022,Regular Season - 1,1,124,Fluminense,1,0,1,0,0,0,0,1
+2022,Regular Season - 1,2,128,Santos,1,0,1,0,0,0,0,1
+2022,Regular Season - 1,3,119,Internacional,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,4,120,Botafogo,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,5,121,Palmeiras,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,6,125,America Mineiro,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,7,126,Sao Paulo,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,8,127,Flamengo,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,9,129,Ceara,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,10,131,Corinthians,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,11,134,Atletico Paranaense,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,12,144,Atletico Goianiense,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,13,145,Avai,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,14,147,Coritiba,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,15,151,Goias,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,16,152,Juventude,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,17,154,Fortaleza EC,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,18,794,RB Bragantino,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,19,1062,Atletico-MG,0,0,0,0,0,0,0,0
+2022,Regular Season - 1,20,1193,Cuiaba,0,0,0,0,0,0,0,0
+2022,Regular Season - 2,1,126,Sao Paulo,1,1,0,0,4,0,4,3
+2022,Regular Season - 2,2,147,Coritiba,1,1,0,0,3,0,3,3
+2022,Regular Season - 2,3,131,Corinthians,1,1,0,0,3,1,2,3
+2022,Regular Season - 2,4,1062,Atletico-MG,1,1,0,0,2,0,2,3
+2022,Regular Season - 2,5,129,Ceara,1,1,0,0,3,2,1,3
+2022,Regular Season - 2,6,145,Avai,1,1,0,0,1,0,1,3
+2022,Regular Season - 2,7,1193,Cuiaba,1,1,0,0,1,0,1,3
+2022,Regular Season - 2,8,124,Fluminense,1,0,1,0,0,0,0,1
+2022,Regular Season - 2,9,127,Flamengo,1,0,1,0,1,1,0,1
+2022,Regular Season - 2,10,128,Santos,1,0,1,0,0,0,0,1
+2022,Regular Season - 2,11,144,Atletico Goianiense,1,0,1,0,1,1,0,1
+2022,Regular Season - 2,12,152,Juventude,1,0,1,0,2,2,0,1
+2022,Regular Season - 2,13,794,RB Bragantino,1,0,1,0,2,2,0,1
+2022,Regular Season - 2,14,121,Palmeiras,2,0,1,1,3,4,-1,1
+2022,Regular Season - 2,15,151,Goias,2,0,1,1,1,4,-3,1
+2022,Regular Season - 2,16,125,America Mineiro,1,0,0,1,0,1,-1,0
+2022,Regular Season - 2,17,154,Fortaleza EC,1,0,0,1,0,1,-1,0
+2022,Regular Season - 2,18,119,Internacional,1,0,0,1,0,2,-2,0
+2022,Regular Season - 2,19,120,Botafogo,1,0,0,1,1,3,-2,0
+2022,Regular Season - 2,20,134,Atletico Paranaense,1,0,0,1,0,4,-4,0
+2022,Regular Season - 3,1,131,Corinthians,2,2,0,0,6,1,5,6
+2022,Regular Season - 3,2,1062,Atletico-MG,2,2,0,0,3,0,3,6
+2022,Regular Season - 3,3,127,Flamengo,4,1,2,1,4,3,1,5
+2022,Regular Season - 3,4,794,RB Bragantino,2,1,1,0,6,2,4,4
+2022,Regular Season - 3,5,124,Fluminense,2,1,1,0,1,0,1,4
+2022,Regular Season - 3,6,128,Santos,2,1,1,0,2,1,1,4
+2022,Regular Season - 3,7,125,America Mineiro,2,1,0,1,4,2,2,3
+2022,Regular Season - 3,8,126,Sao Paulo,2,1,0,1,5,3,2,3
+2022,Regular Season - 3,9,147,Coritiba,2,1,0,1,4,2,2,3
+2022,Regular Season - 3,10,120,Botafogo,2,1,0,1,4,4,0,3
+2022,Regular Season - 3,11,1193,Cuiaba,2,1,0,1,1,1,0,3
+2022,Regular Season - 3,12,119,Internacional,2,1,0,1,2,3,-1,3
+2022,Regular Season - 3,13,129,Ceara,2,1,0,1,4,5,-1,3
+2022,Regular Season - 3,14,145,Avai,2,1,0,1,1,3,-2,3
+2022,Regular Season - 3,15,134,Atletico Paranaense,3,1,0,2,1,5,-4,3
+2022,Regular Season - 3,16,121,Palmeiras,3,0,2,1,3,4,-1,2
+2022,Regular Season - 3,17,151,Goias,2,0,1,1,1,4,-3,1
+2022,Regular Season - 3,18,152,Juventude,2,0,1,1,3,6,-3,1
+2022,Regular Season - 3,19,144,Atletico Goianiense,2,0,1,1,1,5,-4,1
+2022,Regular Season - 3,20,154,Fortaleza EC,2,0,0,2,1,3,-2,0
+2022,Regular Season - 4,1,131,Corinthians,2,2,0,0,6,1,5,6
+2022,Regular Season - 4,2,1062,Atletico-MG,2,2,0,0,3,0,3,6
+2022,Regular Season - 4,3,127,Flamengo,3,1,2,0,4,2,2,5
+2022,Regular Season - 4,4,794,RB Bragantino,2,1,1,0,6,2,4,4
+2022,Regular Season - 4,5,124,Fluminense,2,1,1,0,1,0,1,4
+2022,Regular Season - 4,6,128,Santos,2,1,1,0,2,1,1,4
+2022,Regular Season - 4,7,125,America Mineiro,2,1,0,1,4,2,2,3
+2022,Regular Season - 4,8,126,Sao Paulo,2,1,0,1,5,3,2,3
+2022,Regular Season - 4,9,147,Coritiba,2,1,0,1,4,2,2,3
+2022,Regular Season - 4,10,120,Botafogo,2,1,0,1,4,4,0,3
+2022,Regular Season - 4,11,1193,Cuiaba,2,1,0,1,1,1,0,3
+2022,Regular Season - 4,12,119,Internacional,2,1,0,1,2,3,-1,3
+2022,Regular Season - 4,13,129,Ceara,2,1,0,1,4,5,-1,3
+2022,Regular Season - 4,14,145,Avai,2,1,0,1,1,3,-2,3
+2022,Regular Season - 4,15,121,Palmeiras,3,0,2,1,3,4,-1,2
+2022,Regular Season - 4,16,151,Goias,2,0,1,1,1,4,-3,1
+2022,Regular Season - 4,17,152,Juventude,2,0,1,1,3,6,-3,1
+2022,Regular Season - 4,18,144,Atletico Goianiense,2,0,1,1,1,5,-4,1
+2022,Regular Season - 4,19,154,Fortaleza EC,2,0,0,2,1,3,-2,0
+2022,Regular Season - 4,20,134,Atletico Paranaense,2,0,0,2,0,5,-5,0
+2022,Regular Season - 5,1,131,Corinthians,4,3,0,1,7,4,3,9
+2022,Regular Season - 5,2,125,America Mineiro,5,3,0,2,7,6,1,9
+2022,Regular Season - 5,3,794,RB Bragantino,4,2,2,0,8,3,5,8
+2022,Regular Season - 5,4,1062,Atletico-MG,5,2,2,1,8,6,2,8
+2022,Regular Season - 5,5,126,Sao Paulo,4,2,1,1,8,5,3,7
+2022,Regular Season - 5,6,128,Santos,4,2,1,1,6,3,3,7
+2022,Regular Season - 5,7,147,Coritiba,4,2,1,1,9,6,3,7
+2022,Regular Season - 5,8,1193,Cuiaba,4,2,1,1,3,2,1,7
+2022,Regular Season - 5,9,119,Internacional,4,2,1,1,3,3,0,7
+2022,Regular Season - 5,10,145,Avai,4,2,1,1,4,5,-1,7
+2022,Regular Season - 5,11,121,Palmeiras,4,1,2,1,6,4,2,5
+2022,Regular Season - 5,12,127,Flamengo,4,1,2,1,4,3,1,5
+2022,Regular Season - 5,13,120,Botafogo,4,1,2,1,6,6,0,5
+2022,Regular Season - 5,14,124,Fluminense,4,1,1,2,3,4,-1,4
+2022,Regular Season - 5,15,129,Ceara,3,1,0,2,4,6,-2,3
+2022,Regular Season - 5,16,144,Atletico Goianiense,4,0,3,1,3,7,-4,3
+2022,Regular Season - 5,17,134,Atletico Paranaense,4,1,0,3,1,6,-5,3
+2022,Regular Season - 5,18,151,Goias,4,0,2,2,5,9,-4,2
+2022,Regular Season - 5,19,152,Juventude,4,0,2,2,4,8,-4,2
+2022,Regular Season - 5,20,154,Fortaleza EC,3,0,0,3,1,4,-3,0
+2022,Regular Season - 6,1,131,Corinthians,5,4,0,1,8,4,4,12
+2022,Regular Season - 6,2,128,Santos,5,3,1,1,10,4,6,10
+2022,Regular Season - 6,3,145,Avai,5,3,1,1,6,6,0,10
+2022,Regular Season - 6,4,121,Palmeiras,6,2,3,1,9,5,4,9
+2022,Regular Season - 6,5,794,RB Bragantino,7,2,3,2,9,7,2,9
+2022,Regular Season - 6,6,1062,Atletico-MG,6,2,3,1,9,7,2,9
+2022,Regular Season - 6,7,125,America Mineiro,5,3,0,2,7,6,1,9
+2022,Regular Season - 6,8,126,Sao Paulo,5,2,2,1,9,6,3,8
+2022,Regular Season - 6,9,120,Botafogo,5,2,2,1,7,6,1,8
+2022,Regular Season - 6,10,119,Internacional,5,2,2,1,4,4,0,8
+2022,Regular Season - 6,11,147,Coritiba,5,2,1,2,10,8,2,7
+2022,Regular Season - 6,12,1193,Cuiaba,5,2,1,2,4,6,-2,7
+2022,Regular Season - 6,13,134,Atletico Paranaense,5,2,0,3,2,6,-4,6
+2022,Regular Season - 6,14,127,Flamengo,5,1,2,2,4,4,0,5
+2022,Regular Season - 6,15,124,Fluminense,5,1,2,2,4,5,-1,5
+2022,Regular Season - 6,16,151,Goias,5,1,2,2,6,9,-3,5
+2022,Regular Season - 6,17,129,Ceara,4,1,0,3,4,7,-3,3
+2022,Regular Season - 6,18,152,Juventude,5,0,3,2,5,9,-4,3
+2022,Regular Season - 6,19,144,Atletico Goianiense,5,0,3,2,3,8,-5,3
+2022,Regular Season - 6,20,154,Fortaleza EC,4,0,1,3,2,5,-3,1
+2022,Regular Season - 7,1,131,Corinthians,5,4,0,1,8,4,4,12
+2022,Regular Season - 7,2,128,Santos,5,3,1,1,10,4,6,10
+2022,Regular Season - 7,3,145,Avai,5,3,1,1,6,6,0,10
+2022,Regular Season - 7,4,794,RB Bragantino,6,2,3,1,9,5,4,9
+2022,Regular Season - 7,5,1062,Atletico-MG,6,2,3,1,9,7,2,9
+2022,Regular Season - 7,6,125,America Mineiro,5,3,0,2,7,6,1,9
+2022,Regular Season - 7,7,126,Sao Paulo,5,2,2,1,9,6,3,8
+2022,Regular Season - 7,8,120,Botafogo,5,2,2,1,7,6,1,8
+2022,Regular Season - 7,9,119,Internacional,5,2,2,1,4,4,0,8
+2022,Regular Season - 7,10,147,Coritiba,5,2,1,2,10,8,2,7
+2022,Regular Season - 7,11,1193,Cuiaba,5,2,1,2,4,6,-2,7
+2022,Regular Season - 7,12,121,Palmeiras,5,1,3,1,7,5,2,6
+2022,Regular Season - 7,13,134,Atletico Paranaense,5,2,0,3,2,6,-4,6
+2022,Regular Season - 7,14,127,Flamengo,5,1,2,2,4,4,0,5
+2022,Regular Season - 7,15,124,Fluminense,5,1,2,2,4,5,-1,5
+2022,Regular Season - 7,16,151,Goias,5,1,2,2,6,9,-3,5
+2022,Regular Season - 7,17,129,Ceara,4,1,0,3,4,7,-3,3
+2022,Regular Season - 7,18,152,Juventude,5,0,3,2,5,9,-4,3
+2022,Regular Season - 7,19,144,Atletico Goianiense,5,0,3,2,3,8,-5,3
+2022,Regular Season - 7,20,154,Fortaleza EC,4,0,1,3,2,5,-3,1
+2022,Regular Season - 8,1,131,Corinthians,7,4,2,1,11,7,4,14
+2022,Regular Season - 8,2,121,Palmeiras,7,3,3,1,12,5,7,12
+2022,Regular Season - 8,3,126,Sao Paulo,7,3,3,1,12,8,4,12
+2022,Regular Season - 8,4,1062,Atletico-MG,7,3,3,1,11,7,4,12
+2022,Regular Season - 8,5,120,Botafogo,7,3,3,1,11,8,3,12
+2022,Regular Season - 8,6,128,Santos,7,3,2,2,10,5,5,11
+2022,Regular Season - 8,7,124,Fluminense,7,3,2,2,7,6,1,11
+2022,Regular Season - 8,8,794,RB Bragantino,8,2,4,2,10,8,2,10
+2022,Regular Season - 8,9,147,Coritiba,7,3,1,3,11,10,1,10
+2022,Regular Season - 8,10,119,Internacional,7,2,4,1,7,7,0,10
+2022,Regular Season - 8,11,125,America Mineiro,7,3,1,3,8,8,0,10
+2022,Regular Season - 8,12,145,Avai,7,3,1,3,8,10,-2,10
+2022,Regular Season - 8,13,127,Flamengo,7,2,3,2,7,6,1,9
+2022,Regular Season - 8,14,151,Goias,8,2,3,3,8,11,-3,9
+2022,Regular Season - 8,15,134,Atletico Paranaense,7,3,0,4,5,9,-4,9
+2022,Regular Season - 8,16,1193,Cuiaba,7,2,2,3,6,9,-3,8
+2022,Regular Season - 8,17,144,Atletico Goianiense,7,1,3,3,5,10,-5,6
+2022,Regular Season - 8,18,152,Juventude,7,1,3,3,7,13,-6,6
+2022,Regular Season - 8,19,129,Ceara,6,1,2,3,6,9,-3,5
+2022,Regular Season - 8,20,154,Fortaleza EC,6,0,1,5,3,9,-6,1
+2022,Regular Season - 9,1,121,Palmeiras,8,4,3,1,13,5,8,15
+2022,Regular Season - 9,2,1062,Atletico-MG,8,4,3,1,13,8,5,15
+2022,Regular Season - 9,3,131,Corinthians,8,4,3,1,12,8,4,15
+2022,Regular Season - 9,4,125,America Mineiro,9,4,2,3,11,10,1,14
+2022,Regular Season - 9,5,126,Sao Paulo,8,3,4,1,14,10,4,13
+2022,Regular Season - 9,6,147,Coritiba,8,4,1,3,12,10,2,13
+2022,Regular Season - 9,7,120,Botafogo,8,3,3,2,11,9,2,12
+2022,Regular Season - 9,8,127,Flamengo,8,3,3,2,9,7,2,12
+2022,Regular Season - 9,9,134,Atletico Paranaense,8,4,0,4,6,9,-3,12
+2022,Regular Season - 9,10,128,Santos,8,3,2,3,10,6,4,11
+2022,Regular Season - 9,11,119,Internacional,8,2,5,1,8,8,0,11
+2022,Regular Season - 9,12,124,Fluminense,8,3,2,3,8,8,0,11
+2022,Regular Season - 9,13,794,RB Bragantino,8,2,4,2,10,8,2,10
+2022,Regular Season - 9,14,145,Avai,8,3,1,4,9,12,-3,10
+2022,Regular Season - 9,15,129,Ceara,8,2,3,3,9,11,-2,9
+2022,Regular Season - 9,16,151,Goias,8,2,3,3,8,11,-3,9
+2022,Regular Season - 9,17,1193,Cuiaba,9,2,2,5,7,12,-5,8
+2022,Regular Season - 9,18,144,Atletico Goianiense,8,1,4,3,6,11,-5,7
+2022,Regular Season - 9,19,152,Juventude,8,1,4,3,8,14,-6,7
+2022,Regular Season - 9,20,154,Fortaleza EC,8,0,2,6,4,11,-7,2
+2022,Regular Season - 10,1,131,Corinthians,10,5,3,2,13,9,4,18
+2022,Regular Season - 10,2,121,Palmeiras,9,4,4,1,13,5,8,16
+2022,Regular Season - 10,3,1062,Atletico-MG,9,4,4,1,13,8,5,16
+2022,Regular Season - 10,4,126,Sao Paulo,9,3,5,1,15,11,4,14
+2022,Regular Season - 10,5,119,Internacional,9,3,5,1,10,8,2,14
+2022,Regular Season - 10,6,147,Coritiba,9,4,2,3,13,11,2,14
+2022,Regular Season - 10,7,125,America Mineiro,9,4,2,3,11,10,1,14
+2022,Regular Season - 10,8,134,Atletico Paranaense,9,4,1,4,8,11,-3,13
+2022,Regular Season - 10,9,128,Santos,9,3,3,3,12,8,4,12
+2022,Regular Season - 10,10,120,Botafogo,9,3,3,3,12,11,1,12
+2022,Regular Season - 10,11,127,Flamengo,9,3,3,3,10,9,1,12
+2022,Regular Season - 10,12,151,Goias,9,3,3,3,10,12,-2,12
+2022,Regular Season - 10,13,124,Fluminense,9,3,2,4,8,9,-1,11
+2022,Regular Season - 10,14,145,Avai,9,3,2,4,10,13,-3,11
+2022,Regular Season - 10,15,1193,Cuiaba,10,3,2,5,8,12,-4,11
+2022,Regular Season - 10,16,794,RB Bragantino,9,2,4,3,10,10,0,10
+2022,Regular Season - 10,17,129,Ceara,9,2,4,3,10,12,-2,10
+2022,Regular Season - 10,18,152,Juventude,9,2,4,3,9,14,-5,10
+2022,Regular Season - 10,19,144,Atletico Goianiense,9,1,4,4,6,12,-6,7
+2022,Regular Season - 10,20,154,Fortaleza EC,9,1,2,6,6,12,-6,5
+2022,Regular Season - 11,1,131,Corinthians,11,6,3,2,15,9,6,21
+2022,Regular Season - 11,2,121,Palmeiras,10,5,4,1,17,5,12,19
+2022,Regular Season - 11,3,1062,Atletico-MG,10,4,4,2,16,13,3,16
+2022,Regular Season - 11,4,134,Atletico Paranaense,10,5,1,4,11,12,-1,16
+2022,Regular Season - 11,5,126,Sao Paulo,10,3,6,1,16,12,4,15
+2022,Regular Season - 11,6,119,Internacional,10,3,6,1,11,9,2,15
+2022,Regular Season - 11,7,147,Coritiba,10,4,3,3,14,12,2,15
+2022,Regular Season - 11,8,124,Fluminense,10,4,2,4,13,12,1,14
+2022,Regular Season - 11,9,125,America Mineiro,10,4,2,4,11,12,-1,14
+2022,Regular Season - 11,10,128,Santos,10,3,4,3,13,9,4,13
+2022,Regular Season - 11,11,794,RB Bragantino,10,3,4,3,11,10,1,13
+2022,Regular Season - 11,12,129,Ceara,10,3,4,3,12,12,0,13
+2022,Regular Season - 11,13,151,Goias,10,3,4,3,11,13,-2,13
+2022,Regular Season - 11,14,127,Flamengo,10,3,3,4,10,10,0,12
+2022,Regular Season - 11,15,120,Botafogo,10,3,3,4,12,15,-3,12
+2022,Regular Season - 11,16,145,Avai,10,3,2,5,11,15,-4,11
+2022,Regular Season - 11,17,1193,Cuiaba,10,3,2,5,8,12,-4,11
+2022,Regular Season - 11,18,144,Atletico Goianiense,10,2,4,4,8,13,-5,10
+2022,Regular Season - 11,19,152,Juventude,11,2,4,5,10,19,-9,10
+2022,Regular Season - 11,20,154,Fortaleza EC,10,1,3,6,7,13,-6,6
+2022,Regular Season - 12,1,121,Palmeiras,11,6,4,1,19,5,14,22
+2022,Regular Season - 12,2,131,Corinthians,11,6,3,2,15,9,6,21
+2022,Regular Season - 12,3,126,Sao Paulo,11,4,6,1,17,12,5,18
+2022,Regular Season - 12,4,119,Internacional,11,4,6,1,14,10,4,18
+2022,Regular Season - 12,5,128,Santos,12,4,5,3,16,11,5,17
+2022,Regular Season - 12,6,1062,Atletico-MG,11,4,5,2,17,14,3,17
+2022,Regular Season - 12,7,134,Atletico Paranaense,11,5,2,4,11,12,-1,17
+2022,Regular Season - 12,8,147,Coritiba,11,4,3,4,14,14,0,15
+2022,Regular Season - 12,9,794,RB Bragantino,11,3,5,3,12,11,1,14
+2022,Regular Season - 12,10,129,Ceara,11,3,5,3,13,13,0,14
+2022,Regular Season - 12,11,124,Fluminense,11,4,2,5,13,14,-1,14
+2022,Regular Season - 12,12,125,America Mineiro,11,4,2,5,11,13,-2,14
+2022,Regular Season - 12,13,151,Goias,11,3,5,3,12,14,-2,14
+2022,Regular Season - 12,14,145,Avai,11,4,2,5,12,15,-3,14
+2022,Regular Season - 12,15,144,Atletico Goianiense,11,3,4,4,10,13,-3,13
+2022,Regular Season - 12,16,127,Flamengo,11,3,3,5,11,13,-2,12
+2022,Regular Season - 12,17,120,Botafogo,11,3,3,5,12,16,-4,12
+2022,Regular Season - 12,18,1193,Cuiaba,11,3,3,5,9,13,-4,12
+2022,Regular Season - 12,19,152,Juventude,12,2,4,6,11,21,-10,10
+2022,Regular Season - 12,20,154,Fortaleza EC,11,1,4,6,7,13,-6,7
+2022,Regular Season - 13,1,121,Palmeiras,12,7,4,1,23,7,16,25
+2022,Regular Season - 13,2,131,Corinthians,12,6,4,2,16,10,6,22
+2022,Regular Season - 13,3,119,Internacional,12,5,6,1,16,11,5,21
+2022,Regular Season - 13,4,126,Sao Paulo,12,4,6,2,17,13,4,18
+2022,Regular Season - 13,5,1062,Atletico-MG,12,4,6,2,17,14,3,18
+2022,Regular Season - 13,6,134,Atletico Paranaense,12,5,3,4,12,13,-1,18
+2022,Regular Season - 13,7,128,Santos,12,4,5,3,16,11,5,17
+2022,Regular Season - 13,8,794,RB Bragantino,12,4,5,3,16,13,3,17
+2022,Regular Season - 13,9,145,Avai,12,5,2,5,15,17,-2,17
+2022,Regular Season - 13,10,129,Ceara,13,3,7,3,13,13,0,16
+2022,Regular Season - 13,11,127,Flamengo,12,4,3,5,13,13,0,15
+2022,Regular Season - 13,12,124,Fluminense,12,4,3,5,13,14,-1,15
+2022,Regular Season - 13,13,125,America Mineiro,12,4,3,5,11,13,-2,15
+2022,Regular Season - 13,14,147,Coritiba,12,4,3,5,16,18,-2,15
+2022,Regular Season - 13,15,120,Botafogo,12,4,3,5,13,16,-3,15
+2022,Regular Season - 13,16,151,Goias,12,3,5,4,13,16,-3,14
+2022,Regular Season - 13,17,144,Atletico Goianiense,12,3,4,5,12,17,-5,13
+2022,Regular Season - 13,18,1193,Cuiaba,13,3,4,6,9,15,-6,13
+2022,Regular Season - 13,19,152,Juventude,12,2,4,6,11,21,-10,10
+2022,Regular Season - 13,20,154,Fortaleza EC,12,1,4,7,9,16,-7,7
+2022,Regular Season - 14,1,121,Palmeiras,13,8,4,1,25,8,17,28
+2022,Regular Season - 14,2,131,Corinthians,13,7,4,2,17,10,7,25
+2022,Regular Season - 14,3,119,Internacional,14,6,6,2,21,14,7,24
+2022,Regular Season - 14,4,1062,Atletico-MG,13,5,6,2,19,14,5,21
+2022,Regular Season - 14,5,134,Atletico Paranaense,13,6,3,4,13,13,0,21
+2022,Regular Season - 14,6,128,Santos,13,4,6,3,18,13,5,18
+2022,Regular Season - 14,7,126,Sao Paulo,13,4,6,3,18,15,3,18
+2022,Regular Season - 14,8,794,RB Bragantino,13,4,6,3,18,15,3,18
+2022,Regular Season - 14,9,124,Fluminense,13,5,3,5,15,14,1,18
+2022,Regular Season - 14,10,120,Botafogo,13,5,3,5,16,18,-2,18
+2022,Regular Season - 14,11,145,Avai,13,5,2,6,15,19,-4,17
+2022,Regular Season - 14,12,129,Ceara,13,3,7,3,13,13,0,16
+2022,Regular Season - 14,13,144,Atletico Goianiense,13,4,4,5,15,18,-3,16
+2022,Regular Season - 14,14,127,Flamengo,13,4,3,6,13,15,-2,15
+2022,Regular Season - 14,15,125,America Mineiro,13,4,3,6,11,14,-3,15
+2022,Regular Season - 14,16,147,Coritiba,14,4,3,7,16,22,-6,15
+2022,Regular Season - 14,17,151,Goias,13,3,5,5,13,17,-4,14
+2022,Regular Season - 14,18,1193,Cuiaba,13,3,4,6,9,15,-6,13
+2022,Regular Season - 14,19,154,Fortaleza EC,13,2,4,7,10,16,-6,10
+2022,Regular Season - 14,20,152,Juventude,13,2,4,7,12,24,-12,10
+2022,Regular Season - 15,1,121,Palmeiras,14,8,5,1,27,10,17,29
+2022,Regular Season - 15,2,131,Corinthians,15,7,5,3,17,14,3,26
+2022,Regular Season - 15,3,119,Internacional,14,6,6,2,21,14,7,24
+2022,Regular Season - 15,4,124,Fluminense,15,7,3,5,20,14,6,24
+2022,Regular Season - 15,5,1062,Atletico-MG,14,6,6,2,22,16,6,24
+2022,Regular Season - 15,6,134,Atletico Paranaense,14,7,3,4,17,15,2,24
+2022,Regular Season - 15,7,128,Santos,14,4,7,3,18,13,5,19
+2022,Regular Season - 15,8,126,Sao Paulo,14,4,7,3,18,15,3,19
+2022,Regular Season - 15,9,127,Flamengo,14,5,3,6,16,15,1,18
+2022,Regular Season - 15,10,794,RB Bragantino,14,4,6,4,20,19,1,18
+2022,Regular Season - 15,11,120,Botafogo,14,5,3,6,16,19,-3,18
+2022,Regular Season - 15,12,145,Avai,14,5,3,6,17,21,-4,18
+2022,Regular Season - 15,13,129,Ceara,14,3,8,3,14,14,0,17
+2022,Regular Season - 15,14,144,Atletico Goianiense,14,4,5,5,16,19,-3,17
+2022,Regular Season - 15,15,151,Goias,14,4,5,5,14,17,-3,17
+2022,Regular Season - 15,16,125,America Mineiro,14,4,3,7,11,17,-6,15
+2022,Regular Season - 15,17,147,Coritiba,14,4,3,7,16,22,-6,15
+2022,Regular Season - 15,18,1193,Cuiaba,14,3,4,7,9,16,-7,13
+2022,Regular Season - 15,19,152,Juventude,14,2,5,7,12,24,-12,11
+2022,Regular Season - 15,20,154,Fortaleza EC,14,2,4,8,12,19,-7,10
+2022,Regular Season - 16,1,121,Palmeiras,15,8,5,2,27,12,15,29
+2022,Regular Season - 16,2,1062,Atletico-MG,15,7,6,2,24,17,7,27
+2022,Regular Season - 16,3,134,Atletico Paranaense,15,8,3,4,19,15,4,27
+2022,Regular Season - 16,4,131,Corinthians,15,7,5,3,17,14,3,26
+2022,Regular Season - 16,5,119,Internacional,15,6,7,2,22,15,7,25
+2022,Regular Season - 16,6,124,Fluminense,15,7,3,5,20,14,6,24
+2022,Regular Season - 16,7,126,Sao Paulo,15,5,7,3,20,16,4,22
+2022,Regular Season - 16,8,794,RB Bragantino,16,5,6,5,24,20,4,21
+2022,Regular Season - 16,9,127,Flamengo,15,6,3,6,18,16,2,21
+2022,Regular Season - 16,10,120,Botafogo,15,6,3,6,17,19,-2,21
+2022,Regular Season - 16,11,128,Santos,15,4,7,4,19,15,4,19
+2022,Regular Season - 16,12,129,Ceara,15,3,9,3,15,15,0,18
+2022,Regular Season - 16,13,125,America Mineiro,15,5,3,7,12,17,-5,18
+2022,Regular Season - 16,14,147,Coritiba,15,5,3,7,18,23,-5,18
+2022,Regular Season - 16,15,145,Avai,16,5,3,8,18,27,-9,18
+2022,Regular Season - 16,16,144,Atletico Goianiense,15,4,5,6,17,21,-4,17
+2022,Regular Season - 16,17,151,Goias,15,4,5,6,14,18,-4,17
+2022,Regular Season - 16,18,1193,Cuiaba,15,4,4,7,11,17,-6,16
+2022,Regular Season - 16,19,152,Juventude,15,2,5,8,13,26,-13,11
+2022,Regular Season - 16,20,154,Fortaleza EC,15,2,4,9,13,21,-8,10
+2022,Regular Season - 17,1,121,Palmeiras,16,8,6,2,27,12,15,30
+2022,Regular Season - 17,2,119,Internacional,17,7,8,2,23,15,8,29
+2022,Regular Season - 17,3,131,Corinthians,16,8,5,3,18,14,4,29
+2022,Regular Season - 17,4,1062,Atletico-MG,16,7,7,2,24,17,7,28
+2022,Regular Season - 17,5,134,Atletico Paranaense,17,8,4,5,20,17,3,28
+2022,Regular Season - 17,6,124,Fluminense,16,8,3,5,22,15,7,27
+2022,Regular Season - 17,7,126,Sao Paulo,16,5,8,3,20,16,4,23
+2022,Regular Season - 17,8,128,Santos,16,5,7,4,20,15,5,22
+2022,Regular Season - 17,9,794,RB Bragantino,16,5,6,5,24,20,4,21
+2022,Regular Season - 17,10,127,Flamengo,16,6,3,7,18,17,1,21
+2022,Regular Season - 17,11,120,Botafogo,16,6,3,7,17,21,-4,21
+2022,Regular Season - 17,12,151,Goias,16,5,5,6,16,19,-3,20
+2022,Regular Season - 17,13,1193,Cuiaba,16,5,4,7,13,17,-4,19
+2022,Regular Season - 17,14,147,Coritiba,16,5,4,7,20,25,-5,19
+2022,Regular Season - 17,15,129,Ceara,16,3,9,4,16,17,-1,18
+2022,Regular Season - 17,16,125,America Mineiro,16,5,3,8,12,18,-6,18
+2022,Regular Season - 17,17,145,Avai,16,5,3,8,18,27,-9,18
+2022,Regular Season - 17,18,144,Atletico Goianiense,16,4,5,7,17,22,-5,17
+2022,Regular Season - 17,19,152,Juventude,16,2,6,8,15,28,-13,12
+2022,Regular Season - 17,20,154,Fortaleza EC,16,2,5,9,13,21,-8,11
+2022,Regular Season - 18,1,121,Palmeiras,17,9,6,2,28,12,16,33
+2022,Regular Season - 18,2,1062,Atletico-MG,17,8,7,2,25,17,8,31
+2022,Regular Season - 18,3,119,Internacional,17,7,8,2,23,15,8,29
+2022,Regular Season - 18,4,131,Corinthians,17,8,5,4,19,17,2,29
+2022,Regular Season - 18,5,124,Fluminense,17,8,4,5,24,17,7,28
+2022,Regular Season - 18,6,134,Atletico Paranaense,17,8,4,5,20,17,3,28
+2022,Regular Season - 18,7,794,RB Bragantino,17,6,6,5,27,20,7,24
+2022,Regular Season - 18,8,126,Sao Paulo,17,5,9,3,22,18,4,24
+2022,Regular Season - 18,9,127,Flamengo,17,7,3,7,20,17,3,24
+2022,Regular Season - 18,10,129,Ceara,18,5,9,4,20,18,2,24
+2022,Regular Season - 18,11,128,Santos,17,5,7,5,20,16,4,22
+2022,Regular Season - 18,12,151,Goias,17,5,6,6,16,19,-3,21
+2022,Regular Season - 18,13,120,Botafogo,17,6,3,8,17,22,-5,21
+2022,Regular Season - 18,14,145,Avai,18,6,3,9,19,28,-9,21
+2022,Regular Season - 18,15,1193,Cuiaba,17,5,4,8,13,18,-5,19
+2022,Regular Season - 18,16,147,Coritiba,17,5,4,8,20,27,-7,19
+2022,Regular Season - 18,17,125,America Mineiro,17,5,3,9,12,21,-9,18
+2022,Regular Season - 18,18,144,Atletico Goianiense,17,4,5,8,17,23,-6,17
+2022,Regular Season - 18,19,154,Fortaleza EC,17,3,5,9,14,21,-7,14
+2022,Regular Season - 18,20,152,Juventude,17,2,7,8,15,28,-13,13
+2022,Regular Season - 19,1,121,Palmeiras,18,10,6,2,29,12,17,36
+2022,Regular Season - 19,2,1062,Atletico-MG,18,8,8,2,26,18,8,32
+2022,Regular Season - 19,3,131,Corinthians,18,9,5,4,22,18,4,32
+2022,Regular Season - 19,4,124,Fluminense,18,9,4,5,27,19,8,31
+2022,Regular Season - 19,5,134,Atletico Paranaense,18,9,4,5,24,18,6,31
+2022,Regular Season - 19,6,119,Internacional,18,7,9,2,26,18,8,30
+2022,Regular Season - 19,7,794,RB Bragantino,18,7,6,5,29,21,8,27
+2022,Regular Season - 19,8,127,Flamengo,18,8,3,7,24,17,7,27
+2022,Regular Season - 19,9,126,Sao Paulo,19,5,11,3,28,24,4,26
+2022,Regular Season - 19,10,128,Santos,18,6,7,5,22,16,6,25
+2022,Regular Season - 19,11,129,Ceara,18,5,9,4,20,18,2,24
+2022,Regular Season - 19,12,151,Goias,19,5,7,7,21,25,-4,22
+2022,Regular Season - 19,13,120,Botafogo,18,6,3,9,17,24,-7,21
+2022,Regular Season - 19,14,145,Avai,18,6,3,9,19,28,-9,21
+2022,Regular Season - 19,15,1193,Cuiaba,18,5,5,8,14,19,-5,20
+2022,Regular Season - 19,16,147,Coritiba,18,5,4,9,21,30,-9,19
+2022,Regular Season - 19,17,125,America Mineiro,18,5,3,10,12,22,-10,18
+2022,Regular Season - 19,18,144,Atletico Goianiense,18,4,5,9,18,27,-9,17
+2022,Regular Season - 19,19,154,Fortaleza EC,18,3,5,10,15,23,-8,14
+2022,Regular Season - 19,20,152,Juventude,18,2,7,9,15,32,-17,13
+2022,Regular Season - 20,1,121,Palmeiras,20,12,6,2,33,14,19,42
+2022,Regular Season - 20,2,131,Corinthians,19,10,5,4,24,19,5,35
+2022,Regular Season - 20,3,124,Fluminense,19,10,4,5,29,20,9,34
+2022,Regular Season - 20,4,1062,Atletico-MG,19,8,8,3,27,20,7,32
+2022,Regular Season - 20,5,134,Atletico Paranaense,19,9,4,6,24,20,4,31
+2022,Regular Season - 20,6,127,Flamengo,19,9,3,7,26,18,8,30
+2022,Regular Season - 20,7,119,Internacional,19,7,9,3,27,20,7,30
+2022,Regular Season - 20,8,794,RB Bragantino,19,7,6,6,30,23,7,27
+2022,Regular Season - 20,9,128,Santos,19,6,8,5,22,16,6,26
+2022,Regular Season - 20,10,126,Sao Paulo,19,5,11,3,28,24,4,26
+2022,Regular Season - 20,11,129,Ceara,20,5,9,6,21,21,0,24
+2022,Regular Season - 20,12,120,Botafogo,19,7,3,9,19,24,-5,24
+2022,Regular Season - 20,13,151,Goias,19,5,7,7,21,25,-4,22
+2022,Regular Season - 20,14,147,Coritiba,19,6,4,9,22,30,-8,22
+2022,Regular Season - 20,15,125,America Mineiro,19,6,3,10,13,22,-9,21
+2022,Regular Season - 20,16,145,Avai,19,6,3,10,20,30,-10,21
+2022,Regular Season - 20,17,1193,Cuiaba,19,5,5,9,14,20,-6,20
+2022,Regular Season - 20,18,144,Atletico Goianiense,19,4,5,10,18,28,-10,17
+2022,Regular Season - 20,19,152,Juventude,19,3,7,9,16,32,-16,16
+2022,Regular Season - 20,20,154,Fortaleza EC,19,3,6,10,15,23,-8,15
+2022,Regular Season - 21,1,121,Palmeiras,20,12,6,2,33,14,19,42
+2022,Regular Season - 21,2,131,Corinthians,20,11,5,4,25,19,6,38
+2022,Regular Season - 21,3,124,Fluminense,20,10,5,5,31,22,9,35
+2022,Regular Season - 21,4,134,Atletico Paranaense,20,10,4,6,25,20,5,34
+2022,Regular Season - 21,5,127,Flamengo,20,10,3,7,30,19,11,33
+2022,Regular Season - 21,6,119,Internacional,20,8,9,3,30,20,10,33
+2022,Regular Season - 21,7,1062,Atletico-MG,20,8,8,4,27,23,4,32
+2022,Regular Season - 21,8,794,RB Bragantino,20,8,6,6,31,23,8,30
+2022,Regular Season - 21,9,128,Santos,20,6,9,5,24,18,6,27
+2022,Regular Season - 21,10,126,Sao Paulo,20,5,11,4,28,25,3,26
+2022,Regular Season - 21,11,129,Ceara,21,5,10,6,22,22,0,25
+2022,Regular Season - 21,12,151,Goias,20,6,7,7,22,25,-3,25
+2022,Regular Season - 21,13,120,Botafogo,21,7,4,10,20,26,-6,25
+2022,Regular Season - 21,14,125,America Mineiro,20,7,3,10,16,23,-7,24
+2022,Regular Season - 21,15,147,Coritiba,20,6,4,10,22,31,-9,22
+2022,Regular Season - 21,16,145,Avai,20,6,3,11,21,33,-12,21
+2022,Regular Season - 21,17,1193,Cuiaba,20,5,5,10,14,21,-7,20
+2022,Regular Season - 21,18,154,Fortaleza EC,20,4,6,10,16,23,-7,18
+2022,Regular Season - 21,19,144,Atletico Goianiense,20,4,5,11,19,32,-13,17
+2022,Regular Season - 21,20,152,Juventude,20,3,7,10,16,33,-17,16
+2022,Regular Season - 22,1,121,Palmeiras,21,13,6,2,36,14,22,45
+2022,Regular Season - 22,2,131,Corinthians,21,11,6,4,26,20,6,39
+2022,Regular Season - 22,3,124,Fluminense,21,11,5,5,32,22,10,38
+2022,Regular Season - 22,4,134,Atletico Paranaense,21,11,4,6,28,22,6,37
+2022,Regular Season - 22,5,127,Flamengo,21,11,3,7,32,19,13,36
+2022,Regular Season - 22,6,119,Internacional,21,8,9,4,30,23,7,33
+2022,Regular Season - 22,7,1062,Atletico-MG,21,8,8,5,29,26,3,32
+2022,Regular Season - 22,8,128,Santos,21,7,9,5,26,19,7,30
+2022,Regular Season - 22,9,794,RB Bragantino,21,8,6,7,32,25,7,30
+2022,Regular Season - 22,10,125,America Mineiro,21,8,3,10,17,23,-6,27
+2022,Regular Season - 22,11,126,Sao Paulo,21,5,11,5,28,27,1,26
+2022,Regular Season - 22,12,151,Goias,22,6,8,8,23,29,-6,26
+2022,Regular Season - 22,13,129,Ceara,21,5,10,6,22,22,0,25
+2022,Regular Season - 22,14,120,Botafogo,21,7,4,10,20,26,-6,25
+2022,Regular Season - 22,15,145,Avai,22,6,5,11,23,35,-12,23
+2022,Regular Season - 22,16,147,Coritiba,21,6,4,11,23,33,-10,22
+2022,Regular Season - 22,17,154,Fortaleza EC,21,5,6,10,19,23,-4,21
+2022,Regular Season - 22,18,1193,Cuiaba,21,5,5,11,14,22,-8,20
+2022,Regular Season - 22,19,144,Atletico Goianiense,21,5,5,11,21,33,-12,20
+2022,Regular Season - 22,20,152,Juventude,21,3,7,11,16,34,-18,16
+2022,Regular Season - 23,1,121,Palmeiras,22,14,6,2,37,14,23,48
+2022,Regular Season - 23,2,127,Flamengo,22,12,3,7,37,19,18,39
+2022,Regular Season - 23,3,131,Corinthians,22,11,6,5,26,21,5,39
+2022,Regular Season - 23,4,124,Fluminense,22,11,5,6,32,25,7,38
+2022,Regular Season - 23,5,134,Atletico Paranaense,22,11,4,7,28,27,1,37
+2022,Regular Season - 23,6,119,Internacional,22,9,9,4,33,23,10,36
+2022,Regular Season - 23,7,1062,Atletico-MG,23,9,8,6,30,27,3,35
+2022,Regular Season - 23,8,128,Santos,22,7,9,6,26,20,6,30
+2022,Regular Season - 23,9,794,RB Bragantino,22,8,6,8,32,28,4,30
+2022,Regular Season - 23,10,125,America Mineiro,22,9,3,10,18,23,-5,30
+2022,Regular Season - 23,11,126,Sao Paulo,22,6,11,5,31,27,4,29
+2022,Regular Season - 23,12,151,Goias,23,7,8,8,24,29,-5,29
+2022,Regular Season - 23,13,120,Botafogo,22,7,5,10,20,26,-6,26
+2022,Regular Season - 23,14,129,Ceara,22,5,10,7,22,23,-1,25
+2022,Regular Season - 23,15,154,Fortaleza EC,22,6,6,10,20,23,-3,24
+2022,Regular Season - 23,16,1193,Cuiaba,22,6,5,11,15,22,-7,23
+2022,Regular Season - 23,17,145,Avai,22,6,5,11,23,35,-12,23
+2022,Regular Season - 23,18,147,Coritiba,22,6,4,12,23,34,-11,22
+2022,Regular Season - 23,19,144,Atletico Goianiense,22,5,6,11,21,33,-12,21
+2022,Regular Season - 23,20,152,Juventude,22,3,7,12,16,35,-19,16
+2022,Regular Season - 24,1,121,Palmeiras,23,14,7,2,38,15,23,49
+2022,Regular Season - 24,2,124,Fluminense,23,12,5,6,37,27,10,41
+2022,Regular Season - 24,3,127,Flamengo,23,12,4,7,38,20,18,40
+2022,Regular Season - 24,4,119,Internacional,23,10,9,4,34,23,11,39
+2022,Regular Season - 24,5,131,Corinthians,23,11,6,6,26,22,4,39
+2022,Regular Season - 24,6,134,Atletico Paranaense,23,11,5,7,29,28,1,38
+2022,Regular Season - 24,7,1062,Atletico-MG,23,9,8,6,30,27,3,35
+2022,Regular Season - 24,8,128,Santos,23,8,9,6,27,20,7,33
+2022,Regular Season - 24,9,794,RB Bragantino,23,8,7,8,33,29,4,31
+2022,Regular Season - 24,10,125,America Mineiro,23,9,4,10,19,24,-5,31
+2022,Regular Season - 24,11,126,Sao Paulo,23,6,11,6,31,28,3,29
+2022,Regular Season - 24,12,151,Goias,23,7,8,8,24,29,-5,29
+2022,Regular Season - 24,13,154,Fortaleza EC,23,7,6,10,21,23,-2,27
+2022,Regular Season - 24,14,120,Botafogo,23,7,6,10,22,28,-6,27
+2022,Regular Season - 24,15,129,Ceara,23,5,11,7,23,24,-1,26
+2022,Regular Season - 24,16,147,Coritiba,24,7,4,13,26,39,-13,25
+2022,Regular Season - 24,17,1193,Cuiaba,23,6,6,11,16,23,-7,24
+2022,Regular Season - 24,18,145,Avai,24,6,5,13,23,37,-14,23
+2022,Regular Season - 24,19,144,Atletico Goianiense,23,5,7,11,22,34,-12,22
+2022,Regular Season - 24,20,152,Juventude,23,3,8,12,18,37,-19,17
+2022,Regular Season - 25,1,121,Palmeiras,24,14,8,2,39,16,23,50
+2022,Regular Season - 25,2,127,Flamengo,24,13,4,7,39,20,19,43
+2022,Regular Season - 25,3,119,Internacional,24,11,9,4,38,23,15,42
+2022,Regular Season - 25,4,124,Fluminense,24,12,6,6,38,28,10,42
+2022,Regular Season - 25,5,131,Corinthians,24,12,6,6,27,22,5,42
+2022,Regular Season - 25,6,134,Atletico Paranaense,24,11,6,7,29,28,1,39
+2022,Regular Season - 25,7,1062,Atletico-MG,24,9,9,6,31,28,3,36
+2022,Regular Season - 25,8,128,Santos,24,8,10,6,27,20,7,34
+2022,Regular Season - 25,9,151,Goias,24,8,8,8,26,30,-4,32
+2022,Regular Season - 25,10,125,America Mineiro,24,9,5,10,20,25,-5,32
+2022,Regular Season - 25,11,794,RB Bragantino,24,8,7,9,33,30,3,31
+2022,Regular Season - 25,12,154,Fortaleza EC,24,8,6,10,22,23,-1,30
+2022,Regular Season - 25,13,126,Sao Paulo,24,6,11,7,31,29,2,29
+2022,Regular Season - 25,14,129,Ceara,24,5,12,7,23,24,-1,27
+2022,Regular Season - 25,15,120,Botafogo,24,7,6,11,22,29,-7,27
+2022,Regular Season - 25,16,1193,Cuiaba,24,6,7,11,16,23,-7,25
+2022,Regular Season - 25,17,147,Coritiba,24,7,4,13,26,39,-13,25
+2022,Regular Season - 25,18,145,Avai,25,6,6,13,24,38,-14,24
+2022,Regular Season - 25,19,144,Atletico Goianiense,24,5,7,12,23,36,-13,22
+2022,Regular Season - 25,20,152,Juventude,25,3,9,13,19,42,-23,18
+2022,Regular Season - 26,1,121,Palmeiras,25,14,9,2,41,18,23,51
+2022,Regular Season - 26,2,127,Flamengo,25,13,5,7,40,21,19,44
+2022,Regular Season - 26,3,119,Internacional,25,11,10,4,40,25,15,43
+2022,Regular Season - 26,4,131,Corinthians,25,12,7,6,29,24,5,43
+2022,Regular Season - 26,5,124,Fluminense,25,12,6,7,38,29,9,42
+2022,Regular Season - 26,6,134,Atletico Paranaense,25,12,6,7,30,28,2,42
+2022,Regular Season - 26,7,1062,Atletico-MG,26,10,10,6,34,29,5,40
+2022,Regular Season - 26,8,125,America Mineiro,25,10,5,10,22,25,-3,35
+2022,Regular Season - 26,9,151,Goias,25,9,8,8,28,31,-3,35
+2022,Regular Season - 26,10,128,Santos,25,8,10,7,28,22,6,34
+2022,Regular Season - 26,11,794,RB Bragantino,26,8,9,9,36,33,3,33
+2022,Regular Season - 26,12,126,Sao Paulo,25,6,12,7,32,30,2,30
+2022,Regular Season - 26,13,154,Fortaleza EC,25,8,6,11,23,26,-3,30
+2022,Regular Season - 26,14,120,Botafogo,25,8,6,11,25,30,-5,30
+2022,Regular Season - 26,15,129,Ceara,25,5,13,7,24,25,-1,28
+2022,Regular Season - 26,16,1193,Cuiaba,25,6,8,11,17,24,-7,26
+2022,Regular Season - 26,17,147,Coritiba,25,7,4,14,26,41,-15,25
+2022,Regular Season - 26,18,145,Avai,25,6,6,13,24,38,-14,24
+2022,Regular Season - 26,19,144,Atletico Goianiense,25,5,7,13,23,38,-15,22
+2022,Regular Season - 26,20,152,Juventude,25,3,9,13,19,42,-23,18
+2022,Regular Season - 27,1,121,Palmeiras,26,15,9,2,43,19,24,54
+2022,Regular Season - 27,2,119,Internacional,26,12,10,4,41,25,16,46
+2022,Regular Season - 27,3,127,Flamengo,26,13,6,7,41,22,19,45
+2022,Regular Season - 27,4,124,Fluminense,26,13,6,7,40,30,10,45
+2022,Regular Season - 27,5,131,Corinthians,26,12,8,6,30,25,5,44
+2022,Regular Season - 27,6,134,Atletico Paranaense,26,12,7,7,31,29,2,43
+2022,Regular Season - 27,7,1062,Atletico-MG,27,10,10,7,34,30,4,40
+2022,Regular Season - 27,8,125,America Mineiro,26,10,6,10,22,25,-3,36
+2022,Regular Season - 27,9,151,Goias,26,9,9,8,29,32,-3,36
+2022,Regular Season - 27,10,128,Santos,26,8,10,8,29,24,5,34
+2022,Regular Season - 27,11,794,RB Bragantino,26,8,9,9,36,33,3,33
+2022,Regular Season - 27,12,126,Sao Paulo,26,6,13,7,33,31,2,31
+2022,Regular Season - 27,13,129,Ceara,26,6,13,7,26,26,0,31
+2022,Regular Season - 27,14,120,Botafogo,26,8,7,11,25,30,-5,31
+2022,Regular Season - 27,15,154,Fortaleza EC,26,8,6,12,24,28,-4,30
+2022,Regular Season - 27,16,145,Avai,27,7,7,13,26,39,-13,28
+2022,Regular Season - 27,17,147,Coritiba,26,8,4,14,28,41,-13,28
+2022,Regular Season - 27,18,1193,Cuiaba,26,6,8,12,17,25,-8,26
+2022,Regular Season - 27,19,144,Atletico Goianiense,26,5,7,14,23,40,-17,22
+2022,Regular Season - 27,20,152,Juventude,26,3,9,14,20,44,-24,18
+2022,Regular Season - 28,1,121,Palmeiras,27,16,9,2,44,19,25,57
+2022,Regular Season - 28,2,119,Internacional,27,13,10,4,43,26,17,49
+2022,Regular Season - 28,3,124,Fluminense,27,14,6,7,42,31,11,48
+2022,Regular Season - 28,4,127,Flamengo,27,13,6,8,42,24,18,45
+2022,Regular Season - 28,5,131,Corinthians,27,12,8,7,30,26,4,44
+2022,Regular Season - 28,6,134,Atletico Paranaense,27,12,8,7,33,31,2,44
+2022,Regular Season - 28,7,1062,Atletico-MG,27,10,10,7,34,30,4,40
+2022,Regular Season - 28,8,125,America Mineiro,27,11,6,10,23,25,-2,39
+2022,Regular Season - 28,9,126,Sao Paulo,28,8,13,7,39,31,8,37
+2022,Regular Season - 28,10,151,Goias,27,9,10,8,30,33,-3,37
+2022,Regular Season - 28,11,128,Santos,27,8,10,9,29,25,4,34
+2022,Regular Season - 28,12,794,RB Bragantino,27,8,10,9,37,34,3,34
+2022,Regular Season - 28,13,120,Botafogo,27,9,7,11,27,30,-3,34
+2022,Regular Season - 28,14,129,Ceara,27,6,13,8,26,28,-2,31
+2022,Regular Season - 28,15,154,Fortaleza EC,27,8,7,12,25,29,-4,31
+2022,Regular Season - 28,16,147,Coritiba,27,8,4,15,28,43,-15,28
+2022,Regular Season - 28,17,145,Avai,28,7,7,14,26,43,-17,28
+2022,Regular Season - 28,18,1193,Cuiaba,27,6,9,12,19,27,-8,27
+2022,Regular Season - 28,19,144,Atletico Goianiense,27,5,7,15,24,42,-18,22
+2022,Regular Season - 28,20,152,Juventude,27,3,10,14,21,45,-24,19
+2022,Regular Season - 29,1,121,Palmeiras,28,17,9,2,45,19,26,60
+2022,Regular Season - 29,2,119,Internacional,29,14,11,4,44,26,18,53
+2022,Regular Season - 29,3,124,Fluminense,28,15,6,7,46,31,15,51
+2022,Regular Season - 29,4,131,Corinthians,28,13,8,7,32,27,5,47
+2022,Regular Season - 29,5,127,Flamengo,28,13,6,9,44,27,17,45
+2022,Regular Season - 29,6,134,Atletico Paranaense,28,12,8,8,33,33,0,44
+2022,Regular Season - 29,7,1062,Atletico-MG,28,10,10,8,34,31,3,40
+2022,Regular Season - 29,8,125,America Mineiro,28,11,6,11,24,27,-3,39
+2022,Regular Season - 29,9,126,Sao Paulo,28,8,13,7,39,31,8,37
+2022,Regular Season - 29,10,128,Santos,29,9,10,10,31,26,5,37
+2022,Regular Season - 29,11,120,Botafogo,28,10,7,11,28,30,-2,37
+2022,Regular Season - 29,12,151,Goias,28,9,10,9,30,34,-4,37
+2022,Regular Season - 29,13,794,RB Bragantino,28,8,11,9,37,34,3,35
+2022,Regular Season - 29,14,154,Fortaleza EC,28,9,7,12,28,31,-3,34
+2022,Regular Season - 29,15,129,Ceara,28,6,13,9,26,29,-3,31
+2022,Regular Season - 29,16,147,Coritiba,28,9,4,15,29,43,-14,31
+2022,Regular Season - 29,17,1193,Cuiaba,28,7,9,12,21,28,-7,30
+2022,Regular Season - 29,18,145,Avai,28,7,7,14,26,43,-17,28
+2022,Regular Season - 29,19,144,Atletico Goianiense,28,5,7,16,25,44,-19,22
+2022,Regular Season - 29,20,152,Juventude,28,3,10,15,21,49,-28,19
+2022,Regular Season - 30,1,121,Palmeiras,29,18,9,2,48,20,28,63
+2022,Regular Season - 30,2,119,Internacional,29,14,11,4,44,26,18,53
+2022,Regular Season - 30,3,124,Fluminense,29,15,6,8,46,33,13,51
+2022,Regular Season - 30,4,131,Corinthians,30,14,9,7,36,29,7,51
+2022,Regular Season - 30,5,127,Flamengo,29,14,6,9,48,28,20,48
+2022,Regular Season - 30,6,134,Atletico Paranaense,29,13,8,8,35,33,2,47
+2022,Regular Season - 30,7,1062,Atletico-MG,29,11,10,8,36,31,5,43
+2022,Regular Season - 30,8,125,America Mineiro,29,12,6,11,26,28,-2,42
+2022,Regular Season - 30,9,126,Sao Paulo,28,8,13,7,39,31,8,37
+2022,Regular Season - 30,10,128,Santos,29,9,10,10,31,26,5,37
+2022,Regular Season - 30,11,154,Fortaleza EC,29,10,7,12,29,31,-2,37
+2022,Regular Season - 30,12,120,Botafogo,29,10,7,12,29,33,-4,37
+2022,Regular Season - 30,13,151,Goias,29,9,10,10,30,35,-5,37
+2022,Regular Season - 30,14,794,RB Bragantino,29,8,11,10,38,38,0,35
+2022,Regular Season - 30,15,129,Ceara,29,6,13,10,27,31,-4,31
+2022,Regular Season - 30,16,147,Coritiba,28,9,4,15,29,43,-14,31
+2022,Regular Season - 30,17,1193,Cuiaba,29,7,9,13,21,30,-9,30
+2022,Regular Season - 30,18,145,Avai,29,7,7,15,27,45,-18,28
+2022,Regular Season - 30,19,144,Atletico Goianiense,29,6,7,16,27,45,-18,25
+2022,Regular Season - 30,20,152,Juventude,30,3,11,16,23,53,-30,20
+2022,Regular Season - 31,1,121,Palmeiras,30,19,9,2,52,20,32,66
+2022,Regular Season - 31,2,119,Internacional,30,14,12,4,44,26,18,54
+2022,Regular Season - 31,3,127,Flamengo,31,15,7,9,50,29,21,52
+2022,Regular Season - 31,4,124,Fluminense,30,15,6,9,48,36,12,51
+2022,Regular Season - 31,5,131,Corinthians,30,14,9,7,36,29,7,51
+2022,Regular Season - 31,6,134,Atletico Paranaense,30,13,9,8,36,34,2,48
+2022,Regular Season - 31,7,1062,Atletico-MG,30,12,10,8,38,32,6,46
+2022,Regular Season - 31,8,125,America Mineiro,30,12,6,12,27,30,-3,42
+2022,Regular Season - 31,9,126,Sao Paulo,29,9,13,7,41,32,9,40
+2022,Regular Season - 31,10,120,Botafogo,30,11,7,12,31,34,-3,40
+2022,Regular Season - 31,11,794,RB Bragantino,30,9,11,10,40,39,1,38
+2022,Regular Season - 31,12,154,Fortaleza EC,30,10,8,12,30,32,-2,38
+2022,Regular Season - 31,13,151,Goias,30,9,11,10,31,36,-5,38
+2022,Regular Season - 31,14,128,Santos,30,9,10,11,32,28,4,37
+2022,Regular Season - 31,15,129,Ceara,30,6,14,10,28,32,-4,32
+2022,Regular Season - 31,16,147,Coritiba,29,9,4,16,29,47,-18,31
+2022,Regular Season - 31,17,1193,Cuiaba,31,7,9,15,23,34,-11,30
+2022,Regular Season - 31,18,144,Atletico Goianiense,30,7,7,16,30,47,-17,28
+2022,Regular Season - 31,19,145,Avai,30,7,7,16,28,47,-19,28
+2022,Regular Season - 31,20,152,Juventude,30,3,11,16,23,53,-30,20
+2022,Regular Season - 32,1,121,Palmeiras,31,19,10,2,53,21,32,67
+2022,Regular Season - 32,2,119,Internacional,31,15,12,4,48,28,20,57
+2022,Regular Season - 32,3,131,Corinthians,31,15,9,7,38,30,8,54
+2022,Regular Season - 32,4,127,Flamengo,31,15,7,9,50,29,21,52
+2022,Regular Season - 32,5,124,Fluminense,31,15,6,10,48,38,10,51
+2022,Regular Season - 32,6,134,Atletico Paranaense,31,13,9,9,37,36,1,48
+2022,Regular Season - 32,7,1062,Atletico-MG,31,12,11,8,38,32,6,47
+2022,Regular Season - 32,8,125,America Mineiro,32,13,6,13,30,32,-2,45
+2022,Regular Season - 32,9,154,Fortaleza EC,32,12,8,12,34,33,1,44
+2022,Regular Season - 32,10,120,Botafogo,31,12,7,12,32,34,-2,43
+2022,Regular Season - 32,11,126,Sao Paulo,30,9,13,8,41,33,8,40
+2022,Regular Season - 32,12,128,Santos,31,10,10,11,36,29,7,40
+2022,Regular Season - 32,13,794,RB Bragantino,31,9,11,11,41,41,0,38
+2022,Regular Season - 32,14,151,Goias,31,9,11,11,33,40,-7,38
+2022,Regular Season - 32,15,147,Coritiba,30,10,4,16,31,48,-17,34
+2022,Regular Season - 32,16,129,Ceara,31,6,15,10,28,32,-4,33
+2022,Regular Season - 32,17,1193,Cuiaba,31,7,9,15,23,34,-11,30
+2022,Regular Season - 32,18,144,Atletico Goianiense,31,7,8,16,31,48,-17,29
+2022,Regular Season - 32,19,145,Avai,31,7,7,17,28,49,-21,28
+2022,Regular Season - 32,20,152,Juventude,31,3,11,17,24,57,-33,20
+2022,Regular Season - 33,1,121,Palmeiras,32,19,11,2,53,21,32,68
+2022,Regular Season - 33,2,119,Internacional,32,16,12,4,49,28,21,60
+2022,Regular Season - 33,3,127,Flamengo,32,16,7,9,51,29,22,55
+2022,Regular Season - 33,4,124,Fluminense,32,16,6,10,51,38,13,54
+2022,Regular Season - 33,5,131,Corinthians,31,15,9,7,38,30,8,54
+2022,Regular Season - 33,6,134,Atletico Paranaense,33,14,9,10,40,40,0,51
+2022,Regular Season - 33,7,1062,Atletico-MG,32,12,11,9,38,33,5,47
+2022,Regular Season - 33,8,125,America Mineiro,32,13,6,13,30,32,-2,45
+2022,Regular Season - 33,9,126,Sao Paulo,32,10,14,8,44,34,10,44
+2022,Regular Season - 33,10,154,Fortaleza EC,32,12,8,12,34,33,1,44
+2022,Regular Season - 33,11,128,Santos,32,11,10,11,38,29,9,43
+2022,Regular Season - 33,12,120,Botafogo,32,12,7,13,32,35,-3,43
+2022,Regular Season - 33,13,794,RB Bragantino,33,10,11,12,45,45,0,41
+2022,Regular Season - 33,14,151,Goias,31,9,11,11,33,40,-7,38
+2022,Regular Season - 33,15,129,Ceara,32,6,16,10,29,33,-4,34
+2022,Regular Season - 33,16,147,Coritiba,32,10,4,18,32,52,-20,34
+2022,Regular Season - 33,17,1193,Cuiaba,32,7,10,15,24,35,-11,31
+2022,Regular Season - 33,18,144,Atletico Goianiense,32,7,9,16,32,49,-17,30
+2022,Regular Season - 33,19,145,Avai,32,7,7,18,28,52,-24,28
+2022,Regular Season - 33,20,152,Juventude,32,3,12,17,25,58,-33,21
+2022,Regular Season - 34,1,121,Palmeiras,33,20,11,2,56,21,35,71
+2022,Regular Season - 34,2,127,Flamengo,34,18,7,9,56,32,24,61
+2022,Regular Season - 34,3,119,Internacional,33,16,13,4,50,29,21,61
+2022,Regular Season - 34,4,131,Corinthians,32,16,9,7,39,30,9,57
+2022,Regular Season - 34,5,124,Fluminense,33,16,7,10,53,40,13,55
+2022,Regular Season - 34,6,134,Atletico Paranaense,33,14,9,10,40,40,0,51
+2022,Regular Season - 34,7,1062,Atletico-MG,33,12,12,9,38,33,5,48
+2022,Regular Season - 34,8,126,Sao Paulo,33,11,14,8,46,35,11,47
+2022,Regular Season - 34,9,154,Fortaleza EC,33,12,9,12,34,33,1,45
+2022,Regular Season - 34,10,125,America Mineiro,33,13,6,14,31,34,-3,45
+2022,Regular Season - 34,11,120,Botafogo,33,12,8,13,34,37,-3,44
+2022,Regular Season - 34,12,128,Santos,34,11,10,13,40,33,7,43
+2022,Regular Season - 34,13,794,RB Bragantino,33,10,11,12,45,45,0,41
+2022,Regular Season - 34,14,151,Goias,32,10,11,11,35,41,-6,41
+2022,Regular Season - 34,15,147,Coritiba,33,10,5,18,33,53,-20,35
+2022,Regular Season - 34,16,129,Ceara,33,6,16,11,29,34,-5,34
+2022,Regular Season - 34,17,144,Atletico Goianiense,33,8,9,16,33,49,-16,33
+2022,Regular Season - 34,18,1193,Cuiaba,33,7,10,16,25,37,-12,31
+2022,Regular Season - 34,19,145,Avai,33,7,7,19,28,55,-27,28
+2022,Regular Season - 34,20,152,Juventude,33,3,12,18,26,60,-34,21
+2022,Regular Season - 35,1,121,Palmeiras,34,21,11,2,59,22,37,74
+2022,Regular Season - 35,2,119,Internacional,34,17,13,4,52,30,22,64
+2022,Regular Season - 35,3,127,Flamengo,34,18,7,9,56,32,24,61
+2022,Regular Season - 35,4,124,Fluminense,34,17,7,10,55,40,15,58
+2022,Regular Season - 35,5,131,Corinthians,34,16,10,8,39,32,7,58
+2022,Regular Season - 35,6,1062,Atletico-MG,34,13,12,9,39,33,6,51
+2022,Regular Season - 35,7,134,Atletico Paranaense,34,14,9,11,41,43,-2,51
+2022,Regular Season - 35,8,126,Sao Paulo,34,12,14,8,48,36,12,50
+2022,Regular Season - 35,9,154,Fortaleza EC,34,13,9,12,37,34,3,48
+2022,Regular Season - 35,10,120,Botafogo,35,13,8,14,36,40,-4,47
+2022,Regular Season - 35,11,125,America Mineiro,34,13,7,14,33,36,-3,46
+2022,Regular Season - 35,12,128,Santos,34,11,10,13,40,33,7,43
+2022,Regular Season - 35,13,151,Goias,34,10,13,11,37,43,-6,43
+2022,Regular Season - 35,14,794,RB Bragantino,34,10,11,13,46,47,-1,41
+2022,Regular Season - 35,15,1193,Cuiaba,35,9,10,16,28,37,-9,37
+2022,Regular Season - 35,16,147,Coritiba,34,10,5,19,34,56,-22,35
+2022,Regular Season - 35,17,129,Ceara,34,6,16,12,30,36,-6,34
+2022,Regular Season - 35,18,144,Atletico Goianiense,34,8,9,17,34,51,-17,33
+2022,Regular Season - 35,19,145,Avai,34,7,7,20,28,56,-28,28
+2022,Regular Season - 35,20,152,Juventude,34,3,12,19,26,61,-35,21
+2022,Regular Season - 36,1,121,Palmeiras,35,22,11,2,63,22,41,77
+2022,Regular Season - 36,2,119,Internacional,35,17,13,5,52,31,21,64
+2022,Regular Season - 36,3,127,Flamengo,35,18,7,10,57,34,23,61
+2022,Regular Season - 36,4,124,Fluminense,35,18,7,10,56,40,16,61
+2022,Regular Season - 36,5,131,Corinthians,35,17,10,8,41,33,8,61
+2022,Regular Season - 36,6,134,Atletico Paranaense,35,15,9,11,44,45,-1,54
+2022,Regular Season - 36,7,1062,Atletico-MG,35,13,13,9,41,35,6,52
+2022,Regular Season - 36,8,126,Sao Paulo,35,12,15,8,50,38,12,51
+2022,Regular Season - 36,9,125,America Mineiro,35,14,7,14,34,36,-2,49
+2022,Regular Season - 36,10,154,Fortaleza EC,35,13,9,13,37,38,-1,48
+2022,Regular Season - 36,11,120,Botafogo,35,13,8,14,36,40,-4,47
+2022,Regular Season - 36,12,128,Santos,35,12,10,13,43,35,8,46
+2022,Regular Season - 36,13,151,Goias,36,11,13,12,40,46,-6,46
+2022,Regular Season - 36,14,794,RB Bragantino,35,11,11,13,48,48,0,44
+2022,Regular Season - 36,15,147,Coritiba,35,11,5,19,35,56,-21,38
+2022,Regular Season - 36,16,1193,Cuiaba,35,9,10,16,28,37,-9,37
+2022,Regular Season - 36,17,129,Ceara,35,6,16,13,30,37,-7,34
+2022,Regular Season - 36,18,144,Atletico Goianiense,35,8,9,18,36,54,-18,33
+2022,Regular Season - 36,19,145,Avai,35,7,7,21,29,58,-29,28
+2022,Regular Season - 36,20,152,Juventude,36,3,12,21,26,63,-37,21
+2022,Regular Season - 37,1,121,Palmeiras,36,22,12,2,64,23,41,78
+2022,Regular Season - 37,2,119,Internacional,36,18,13,5,54,31,23,67
+2022,Regular Season - 37,3,124,Fluminense,37,20,7,10,62,41,21,67
+2022,Regular Season - 37,4,131,Corinthians,36,18,10,8,42,33,9,64
+2022,Regular Season - 37,5,127,Flamengo,36,18,7,11,57,35,22,61
+2022,Regular Season - 37,6,134,Atletico Paranaense,36,15,9,12,44,47,-3,54
+2022,Regular Season - 37,7,1062,Atletico-MG,36,13,13,10,41,37,4,52
+2022,Regular Season - 37,8,125,America Mineiro,36,15,7,14,38,37,1,52
+2022,Regular Season - 37,9,126,Sao Paulo,36,12,15,9,51,41,10,51
+2022,Regular Season - 37,10,120,Botafogo,36,14,8,14,38,40,-2,50
+2022,Regular Season - 37,11,154,Fortaleza EC,36,13,10,13,38,39,-1,49
+2022,Regular Season - 37,12,128,Santos,36,12,11,13,44,36,8,47
+2022,Regular Season - 37,13,151,Goias,37,11,13,13,40,49,-9,46
+2022,Regular Season - 37,14,794,RB Bragantino,36,11,11,14,49,52,-3,44
+2022,Regular Season - 37,15,147,Coritiba,36,12,5,19,36,56,-20,41
+2022,Regular Season - 37,16,1193,Cuiaba,36,9,11,16,29,38,-9,38
+2022,Regular Season - 37,17,129,Ceara,36,6,16,14,30,38,-8,34
+2022,Regular Season - 37,18,144,Atletico Goianiense,36,8,10,18,37,55,-18,34
+2022,Regular Season - 37,19,145,Avai,36,7,8,21,30,59,-29,29
+2022,Regular Season - 37,20,152,Juventude,36,3,12,21,26,63,-37,21
+2022,Regular Season - 38,1,121,Palmeiras,37,23,12,2,66,24,42,81
+2022,Regular Season - 38,2,119,Internacional,37,19,13,5,55,31,24,70
+2022,Regular Season - 38,3,124,Fluminense,37,20,7,10,62,41,21,67
+2022,Regular Season - 38,4,131,Corinthians,37,18,11,8,44,35,9,65
+2022,Regular Season - 38,5,127,Flamengo,38,18,8,12,60,39,21,62
+2022,Regular Season - 38,6,1062,Atletico-MG,37,14,13,10,44,37,7,55
+2022,Regular Season - 38,7,134,Atletico Paranaense,37,15,10,12,45,48,-3,55
+2022,Regular Season - 38,8,120,Botafogo,37,15,8,14,41,40,1,53
+2022,Regular Season - 38,9,154,Fortaleza EC,37,14,10,13,44,39,5,52
+2022,Regular Season - 38,10,125,America Mineiro,37,15,7,15,39,39,0,52
+2022,Regular Season - 38,11,126,Sao Paulo,37,12,15,10,51,42,9,51
+2022,Regular Season - 38,12,128,Santos,37,12,11,14,44,39,5,47
+2022,Regular Season - 38,13,151,Goias,37,11,13,13,40,49,-9,46
+2022,Regular Season - 38,14,794,RB Bragantino,37,11,11,15,49,58,-9,44
+2022,Regular Season - 38,15,147,Coritiba,37,12,6,19,38,58,-20,42
+2022,Regular Season - 38,16,1193,Cuiaba,37,9,11,17,29,41,-12,38
+2022,Regular Season - 38,17,144,Atletico Goianiense,37,8,11,18,38,56,-18,35
+2022,Regular Season - 38,18,145,Avai,38,9,8,21,34,60,-26,35
+2022,Regular Season - 38,19,129,Ceara,37,6,16,15,30,40,-10,34
+2022,Regular Season - 38,20,152,Juventude,37,3,13,21,28,65,-37,22
+2023,Regular Season - 1,1,121,Palmeiras,1,1,0,0,2,1,1,3
+2023,Regular Season - 1,2,118,Bahia,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,3,119,Internacional,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,4,120,Botafogo,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,5,124,Fluminense,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,6,125,America Mineiro,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,7,126,Sao Paulo,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,8,127,Flamengo,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,9,128,Santos,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,10,130,Gremio,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,11,131,Corinthians,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,12,133,Vasco DA Gama,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,13,134,Atletico Paranaense,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,14,135,Cruzeiro,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,15,147,Coritiba,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,16,151,Goias,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,17,154,Fortaleza EC,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,18,794,RB Bragantino,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,19,1062,Atletico-MG,0,0,0,0,0,0,0,0
+2023,Regular Season - 1,20,1193,Cuiaba,1,0,0,1,1,2,-1,0
+2023,Regular Season - 2,1,124,Fluminense,2,2,0,0,5,0,5,6
+2023,Regular Season - 2,2,127,Flamengo,1,1,0,0,3,0,3,3
+2023,Regular Season - 2,3,120,Botafogo,1,1,0,0,2,1,1,3
+2023,Regular Season - 2,4,121,Palmeiras,1,1,0,0,2,1,1,3
+2023,Regular Season - 2,5,130,Gremio,1,1,0,0,1,0,1,3
+2023,Regular Season - 2,6,131,Corinthians,1,1,0,0,2,1,1,3
+2023,Regular Season - 2,7,133,Vasco DA Gama,1,1,0,0,2,1,1,3
+2023,Regular Season - 2,8,794,RB Bragantino,1,1,0,0,2,1,1,3
+2023,Regular Season - 2,9,134,Atletico Paranaense,2,1,0,1,2,2,0,3
+2023,Regular Season - 2,10,119,Internacional,1,0,1,0,1,1,0,1
+2023,Regular Season - 2,11,154,Fortaleza EC,1,0,1,0,1,1,0,1
+2023,Regular Season - 2,12,118,Bahia,1,0,0,1,1,2,-1,0
+2023,Regular Season - 2,13,126,Sao Paulo,1,0,0,1,1,2,-1,0
+2023,Regular Season - 2,14,128,Santos,1,0,0,1,0,1,-1,0
+2023,Regular Season - 2,15,135,Cruzeiro,1,0,0,1,1,2,-1,0
+2023,Regular Season - 2,16,1062,Atletico-MG,1,0,0,1,1,2,-1,0
+2023,Regular Season - 2,17,1193,Cuiaba,1,0,0,1,1,2,-1,0
+2023,Regular Season - 2,18,151,Goias,1,0,0,1,0,2,-2,0
+2023,Regular Season - 2,19,125,America Mineiro,1,0,0,1,0,3,-3,0
+2023,Regular Season - 2,20,147,Coritiba,1,0,0,1,0,3,-3,0
+2023,Regular Season - 3,1,124,Fluminense,2,2,0,0,5,0,5,6
+2023,Regular Season - 3,2,120,Botafogo,2,2,0,0,4,2,2,6
+2023,Regular Season - 3,3,154,Fortaleza EC,2,1,1,0,4,1,3,4
+2023,Regular Season - 3,4,126,Sao Paulo,3,1,1,1,5,3,2,4
+2023,Regular Season - 3,5,119,Internacional,2,1,1,0,3,2,1,4
+2023,Regular Season - 3,6,121,Palmeiras,2,1,1,0,4,3,1,4
+2023,Regular Season - 3,7,133,Vasco DA Gama,2,1,1,0,4,3,1,4
+2023,Regular Season - 3,8,794,RB Bragantino,2,1,1,0,3,2,1,4
+2023,Regular Season - 3,9,127,Flamengo,2,1,0,1,4,2,2,3
+2023,Regular Season - 3,10,130,Gremio,2,1,0,1,1,1,0,3
+2023,Regular Season - 3,11,134,Atletico Paranaense,2,1,0,1,2,2,0,3
+2023,Regular Season - 3,12,135,Cruzeiro,2,1,0,1,2,2,0,3
+2023,Regular Season - 3,13,151,Goias,2,1,0,1,3,3,0,3
+2023,Regular Season - 3,14,131,Corinthians,2,1,0,1,3,4,-1,3
+2023,Regular Season - 3,15,128,Santos,2,0,1,1,0,1,-1,1
+2023,Regular Season - 3,16,1062,Atletico-MG,2,0,1,1,1,2,-1,1
+2023,Regular Season - 3,17,1193,Cuiaba,2,0,1,1,2,3,-1,1
+2023,Regular Season - 3,18,147,Coritiba,3,0,1,2,1,7,-6,1
+2023,Regular Season - 3,19,118,Bahia,2,0,0,2,2,4,-2,0
+2023,Regular Season - 3,20,125,America Mineiro,2,0,0,2,0,6,-6,0
+2023,Regular Season - 4,1,135,Cruzeiro,4,3,0,1,7,3,4,9
+2023,Regular Season - 4,2,120,Botafogo,3,3,0,0,7,4,3,9
+2023,Regular Season - 4,3,154,Fortaleza EC,3,2,1,0,8,3,5,7
+2023,Regular Season - 4,4,119,Internacional,3,2,1,0,4,2,2,7
+2023,Regular Season - 4,5,121,Palmeiras,3,2,1,0,6,4,2,7
+2023,Regular Season - 4,6,124,Fluminense,3,2,0,1,7,4,3,6
+2023,Regular Season - 4,7,130,Gremio,3,2,0,1,3,2,1,6
+2023,Regular Season - 4,8,126,Sao Paulo,3,1,1,1,5,3,2,4
+2023,Regular Season - 4,9,133,Vasco DA Gama,3,1,1,1,4,4,0,4
+2023,Regular Season - 4,10,1062,Atletico-MG,3,1,1,1,3,3,0,4
+2023,Regular Season - 4,11,128,Santos,4,1,1,2,4,5,-1,4
+2023,Regular Season - 4,12,794,RB Bragantino,3,1,1,1,3,5,-2,4
+2023,Regular Season - 4,13,127,Flamengo,3,1,0,2,6,5,1,3
+2023,Regular Season - 4,14,118,Bahia,3,1,0,2,3,4,-1,3
+2023,Regular Season - 4,15,134,Atletico Paranaense,3,1,0,2,3,4,-1,3
+2023,Regular Season - 4,16,151,Goias,3,1,0,2,3,4,-1,3
+2023,Regular Season - 4,17,131,Corinthians,3,1,0,2,4,6,-2,3
+2023,Regular Season - 4,18,1193,Cuiaba,3,0,1,2,3,5,-2,1
+2023,Regular Season - 4,19,147,Coritiba,3,0,1,2,1,7,-6,1
+2023,Regular Season - 4,20,125,America Mineiro,3,0,0,3,2,9,-7,0
+2023,Regular Season - 5,1,120,Botafogo,4,4,0,0,9,4,5,12
+2023,Regular Season - 5,2,121,Palmeiras,4,3,1,0,11,4,7,10
+2023,Regular Season - 5,3,135,Cruzeiro,4,3,0,1,7,3,4,9
+2023,Regular Season - 5,4,134,Atletico Paranaense,5,3,0,2,7,5,2,9
+2023,Regular Season - 5,5,154,Fortaleza EC,4,2,2,0,9,4,5,8
+2023,Regular Season - 5,6,126,Sao Paulo,4,2,1,1,7,3,4,7
+2023,Regular Season - 5,7,124,Fluminense,4,2,1,1,8,5,3,7
+2023,Regular Season - 5,8,130,Gremio,4,2,1,1,6,5,1,7
+2023,Regular Season - 5,9,119,Internacional,5,2,1,2,4,6,-2,7
+2023,Regular Season - 5,10,118,Bahia,4,2,0,2,6,5,1,6
+2023,Regular Season - 5,11,133,Vasco DA Gama,4,1,2,1,5,5,0,5
+2023,Regular Season - 5,12,794,RB Bragantino,4,1,2,1,6,8,-2,5
+2023,Regular Season - 5,13,128,Santos,4,1,1,2,4,5,-1,4
+2023,Regular Season - 5,14,1193,Cuiaba,4,1,1,2,5,6,-1,4
+2023,Regular Season - 5,15,131,Corinthians,4,1,1,2,5,7,-2,4
+2023,Regular Season - 5,16,1062,Atletico-MG,4,1,1,2,3,5,-2,4
+2023,Regular Season - 5,17,127,Flamengo,4,1,0,3,7,7,0,3
+2023,Regular Season - 5,18,151,Goias,4,1,0,3,3,9,-6,3
+2023,Regular Season - 5,19,147,Coritiba,4,0,1,3,2,10,-8,1
+2023,Regular Season - 5,20,125,America Mineiro,4,0,0,4,3,11,-8,0
+2023,Regular Season - 6,1,120,Botafogo,5,5,0,0,12,4,8,15
+2023,Regular Season - 6,2,121,Palmeiras,5,4,1,0,15,5,10,13
+2023,Regular Season - 6,3,124,Fluminense,5,3,1,1,10,5,5,10
+2023,Regular Season - 6,4,154,Fortaleza EC,5,2,3,0,9,4,5,9
+2023,Regular Season - 6,5,127,Flamengo,6,3,0,3,12,9,3,9
+2023,Regular Season - 6,6,134,Atletico Paranaense,5,3,0,2,7,5,2,9
+2023,Regular Season - 6,7,135,Cruzeiro,5,3,0,2,7,5,2,9
+2023,Regular Season - 6,8,126,Sao Paulo,5,2,2,1,7,3,4,8
+2023,Regular Season - 6,9,128,Santos,5,2,1,2,7,5,2,7
+2023,Regular Season - 6,10,1062,Atletico-MG,5,2,1,2,7,5,2,7
+2023,Regular Season - 6,11,119,Internacional,5,2,1,2,4,6,-2,7
+2023,Regular Season - 6,12,130,Gremio,5,2,1,2,7,9,-2,7
+2023,Regular Season - 6,13,133,Vasco DA Gama,5,1,3,1,6,6,0,6
+2023,Regular Season - 6,14,794,RB Bragantino,5,1,3,1,8,10,-2,6
+2023,Regular Season - 6,15,118,Bahia,6,2,0,4,8,11,-3,6
+2023,Regular Season - 6,16,131,Corinthians,5,1,1,3,5,10,-5,4
+2023,Regular Season - 6,17,1193,Cuiaba,5,1,1,3,5,10,-5,4
+2023,Regular Season - 6,18,151,Goias,5,1,0,4,3,11,-8,3
+2023,Regular Season - 6,19,147,Coritiba,5,0,2,3,3,11,-8,2
+2023,Regular Season - 6,20,125,America Mineiro,5,0,1,4,5,13,-8,1
+2023,Regular Season - 7,1,120,Botafogo,6,5,0,1,13,6,7,15
+2023,Regular Season - 7,2,121,Palmeiras,6,4,2,0,16,6,10,14
+2023,Regular Season - 7,3,124,Fluminense,6,4,1,1,12,5,7,13
+2023,Regular Season - 7,4,135,Cruzeiro,6,4,0,2,11,5,6,12
+2023,Regular Season - 7,5,134,Atletico Paranaense,6,4,0,2,10,7,3,12
+2023,Regular Season - 7,6,154,Fortaleza EC,6,2,4,0,9,4,5,10
+2023,Regular Season - 7,7,1062,Atletico-MG,6,3,1,2,9,5,4,10
+2023,Regular Season - 7,8,128,Santos,6,3,1,2,8,5,3,10
+2023,Regular Season - 7,9,126,Sao Paulo,6,2,3,1,8,4,4,9
+2023,Regular Season - 7,10,127,Flamengo,6,3,0,3,12,9,3,9
+2023,Regular Season - 7,11,130,Gremio,6,2,2,2,7,9,-2,8
+2023,Regular Season - 7,12,794,RB Bragantino,6,1,4,1,9,11,-2,7
+2023,Regular Season - 7,13,118,Bahia,7,2,1,4,9,12,-3,7
+2023,Regular Season - 7,14,119,Internacional,6,2,1,3,4,8,-4,7
+2023,Regular Season - 7,15,151,Goias,7,2,1,4,6,13,-7,7
+2023,Regular Season - 7,16,133,Vasco DA Gama,6,1,3,2,6,7,-1,6
+2023,Regular Season - 7,17,131,Corinthians,6,1,2,3,6,11,-5,5
+2023,Regular Season - 7,18,1193,Cuiaba,6,1,1,4,5,12,-7,4
+2023,Regular Season - 7,19,147,Coritiba,6,0,2,4,5,14,-9,2
+2023,Regular Season - 7,20,125,America Mineiro,6,0,1,5,5,17,-12,1
+2023,Regular Season - 8,1,120,Botafogo,7,6,0,1,14,6,8,18
+2023,Regular Season - 8,2,121,Palmeiras,7,4,3,0,16,6,10,15
+2023,Regular Season - 8,3,130,Gremio,8,4,2,2,12,11,1,14
+2023,Regular Season - 8,4,124,Fluminense,7,4,1,2,12,6,6,13
+2023,Regular Season - 8,5,1062,Atletico-MG,7,4,1,2,11,6,5,13
+2023,Regular Season - 8,6,126,Sao Paulo,7,3,3,1,12,6,6,12
+2023,Regular Season - 8,7,135,Cruzeiro,7,4,0,3,11,6,5,12
+2023,Regular Season - 8,8,127,Flamengo,7,4,0,3,13,9,4,12
+2023,Regular Season - 8,9,134,Atletico Paranaense,8,4,0,4,11,11,0,12
+2023,Regular Season - 8,10,128,Santos,7,3,2,2,8,5,3,11
+2023,Regular Season - 8,11,154,Fortaleza EC,7,2,4,1,10,6,4,10
+2023,Regular Season - 8,12,794,RB Bragantino,7,2,4,1,11,11,0,10
+2023,Regular Season - 8,13,118,Bahia,7,2,1,4,9,12,-3,7
+2023,Regular Season - 8,14,119,Internacional,7,2,1,4,5,11,-6,7
+2023,Regular Season - 8,15,1193,Cuiaba,7,2,1,4,6,12,-6,7
+2023,Regular Season - 8,16,151,Goias,7,2,1,4,6,13,-7,7
+2023,Regular Season - 8,17,133,Vasco DA Gama,7,1,3,3,8,11,-3,6
+2023,Regular Season - 8,18,131,Corinthians,7,1,2,4,6,12,-6,5
+2023,Regular Season - 8,19,125,America Mineiro,7,1,1,5,7,18,-11,4
+2023,Regular Season - 8,20,147,Coritiba,7,0,2,5,6,16,-10,2
+2023,Regular Season - 9,1,120,Botafogo,8,7,0,1,16,6,10,21
+2023,Regular Season - 9,2,121,Palmeiras,8,4,4,0,17,7,10,16
+2023,Regular Season - 9,3,126,Sao Paulo,8,4,3,1,14,7,7,15
+2023,Regular Season - 9,4,154,Fortaleza EC,9,3,5,1,12,6,6,14
+2023,Regular Season - 9,5,1062,Atletico-MG,8,4,2,2,12,7,5,14
+2023,Regular Season - 9,6,130,Gremio,8,4,2,2,12,11,1,14
+2023,Regular Season - 9,7,135,Cruzeiro,8,4,1,3,12,7,5,13
+2023,Regular Season - 9,8,124,Fluminense,8,4,1,3,12,8,4,13
+2023,Regular Season - 9,9,127,Flamengo,8,4,1,3,14,10,4,13
+2023,Regular Season - 9,10,794,RB Bragantino,8,3,4,1,13,11,2,13
+2023,Regular Season - 9,11,134,Atletico Paranaense,8,4,0,4,11,11,0,12
+2023,Regular Season - 9,12,128,Santos,8,3,2,3,8,7,1,11
+2023,Regular Season - 9,13,119,Internacional,8,3,1,4,7,11,-4,10
+2023,Regular Season - 9,14,131,Corinthians,8,2,2,4,8,12,-4,8
+2023,Regular Season - 9,15,118,Bahia,9,2,2,5,9,14,-5,8
+2023,Regular Season - 9,16,1193,Cuiaba,8,2,2,4,7,13,-6,8
+2023,Regular Season - 9,17,151,Goias,8,2,1,5,7,15,-8,7
+2023,Regular Season - 9,18,133,Vasco DA Gama,8,1,3,4,8,13,-5,6
+2023,Regular Season - 9,19,125,America Mineiro,8,1,1,6,7,20,-13,4
+2023,Regular Season - 9,20,147,Coritiba,8,0,3,5,7,17,-10,3
+2023,Regular Season - 10,1,120,Botafogo,9,7,0,2,16,7,9,21
+2023,Regular Season - 10,2,121,Palmeiras,9,5,4,0,20,8,12,19
+2023,Regular Season - 10,3,1062,Atletico-MG,9,5,2,2,13,7,6,17
+2023,Regular Season - 10,4,130,Gremio,9,5,2,2,14,12,2,17
+2023,Regular Season - 10,5,127,Flamengo,9,5,1,3,18,11,7,16
+2023,Regular Season - 10,6,124,Fluminense,9,5,1,3,14,9,5,16
+2023,Regular Season - 10,7,126,Sao Paulo,9,4,3,2,15,9,6,15
+2023,Regular Season - 10,8,134,Atletico Paranaense,9,5,0,4,12,11,1,15
+2023,Regular Season - 10,9,154,Fortaleza EC,9,3,5,1,12,6,6,14
+2023,Regular Season - 10,10,135,Cruzeiro,9,4,1,4,12,8,4,13
+2023,Regular Season - 10,11,128,Santos,10,3,4,3,9,8,1,13
+2023,Regular Season - 10,12,794,RB Bragantino,9,3,4,2,14,13,1,13
+2023,Regular Season - 10,13,119,Internacional,9,3,2,4,8,12,-4,11
+2023,Regular Season - 10,14,1193,Cuiaba,9,3,2,4,8,13,-5,11
+2023,Regular Season - 10,15,118,Bahia,9,2,2,5,9,14,-5,8
+2023,Regular Season - 10,16,131,Corinthians,9,2,2,5,8,14,-6,8
+2023,Regular Season - 10,17,151,Goias,9,2,1,6,7,16,-9,7
+2023,Regular Season - 10,18,125,America Mineiro,9,2,1,6,9,20,-11,7
+2023,Regular Season - 10,19,133,Vasco DA Gama,9,1,3,5,9,17,-8,6
+2023,Regular Season - 10,20,147,Coritiba,10,0,4,6,8,20,-12,4
+2023,Regular Season - 11,1,120,Botafogo,10,8,0,2,18,7,11,24
+2023,Regular Season - 11,2,121,Palmeiras,10,6,4,0,22,8,14,22
+2023,Regular Season - 11,3,127,Flamengo,10,6,1,3,21,11,10,19
+2023,Regular Season - 11,4,1062,Atletico-MG,10,5,3,2,14,8,6,18
+2023,Regular Season - 11,5,126,Sao Paulo,11,5,3,3,17,12,5,18
+2023,Regular Season - 11,6,124,Fluminense,10,5,2,3,16,11,5,17
+2023,Regular Season - 11,7,130,Gremio,10,5,2,3,14,15,-1,17
+2023,Regular Season - 11,8,134,Atletico Paranaense,11,5,1,5,15,15,0,16
+2023,Regular Season - 11,9,135,Cruzeiro,10,4,2,4,14,10,4,14
+2023,Regular Season - 11,10,154,Fortaleza EC,10,3,5,2,12,8,4,14
+2023,Regular Season - 11,11,794,RB Bragantino,10,3,5,2,15,14,1,14
+2023,Regular Season - 11,12,119,Internacional,10,4,2,4,10,13,-3,14
+2023,Regular Season - 11,13,128,Santos,10,3,4,3,9,8,1,13
+2023,Regular Season - 11,14,1193,Cuiaba,10,3,3,4,9,14,-5,12
+2023,Regular Season - 11,15,118,Bahia,10,2,3,5,11,16,-5,9
+2023,Regular Season - 11,16,131,Corinthians,10,2,3,5,9,15,-6,9
+2023,Regular Season - 11,17,151,Goias,10,2,2,6,9,18,-9,8
+2023,Regular Season - 11,18,125,America Mineiro,10,2,2,6,11,22,-11,8
+2023,Regular Season - 11,19,133,Vasco DA Gama,10,1,3,6,10,19,-9,6
+2023,Regular Season - 11,20,147,Coritiba,10,0,4,6,8,20,-12,4
+2023,Regular Season - 12,1,120,Botafogo,11,9,0,2,19,7,12,27
+2023,Regular Season - 12,2,121,Palmeiras,11,6,4,1,22,9,13,22
+2023,Regular Season - 12,3,130,Gremio,11,6,2,3,17,16,1,20
+2023,Regular Season - 12,4,127,Flamengo,11,6,1,4,21,15,6,19
+2023,Regular Season - 12,5,1062,Atletico-MG,11,5,4,2,15,9,6,19
+2023,Regular Season - 12,6,134,Atletico Paranaense,12,6,1,5,16,15,1,19
+2023,Regular Season - 12,7,124,Fluminense,11,5,3,3,17,12,5,18
+2023,Regular Season - 12,8,126,Sao Paulo,11,5,3,3,17,12,5,18
+2023,Regular Season - 12,9,154,Fortaleza EC,11,4,5,2,13,8,5,17
+2023,Regular Season - 12,10,794,RB Bragantino,11,4,5,2,19,14,5,17
+2023,Regular Season - 12,11,119,Internacional,11,5,2,4,11,13,-2,17
+2023,Regular Season - 12,12,135,Cruzeiro,11,4,2,5,14,11,3,14
+2023,Regular Season - 12,13,128,Santos,11,3,4,4,9,10,-1,13
+2023,Regular Season - 12,14,118,Bahia,11,3,3,5,12,16,-4,12
+2023,Regular Season - 12,15,131,Corinthians,12,3,3,6,11,16,-5,12
+2023,Regular Season - 12,16,1193,Cuiaba,11,3,3,5,9,15,-6,12
+2023,Regular Season - 12,17,151,Goias,11,3,2,6,10,18,-8,11
+2023,Regular Season - 12,18,125,America Mineiro,11,2,2,7,12,25,-13,8
+2023,Regular Season - 12,19,133,Vasco DA Gama,11,1,3,7,10,20,-10,6
+2023,Regular Season - 12,20,147,Coritiba,11,0,4,7,8,21,-13,4
+2023,Regular Season - 13,1,120,Botafogo,12,10,0,2,20,7,13,30
+2023,Regular Season - 13,2,130,Gremio,12,7,2,3,22,17,5,23
+2023,Regular Season - 13,3,121,Palmeiras,12,6,4,2,22,10,12,22
+2023,Regular Season - 13,4,127,Flamengo,12,7,1,4,24,17,7,22
+2023,Regular Season - 13,5,124,Fluminense,13,6,3,4,19,14,5,21
+2023,Regular Season - 13,6,126,Sao Paulo,13,6,3,4,18,13,5,21
+2023,Regular Season - 13,7,794,RB Bragantino,12,5,5,2,21,14,7,20
+2023,Regular Season - 13,8,154,Fortaleza EC,12,5,5,2,15,9,6,20
+2023,Regular Season - 13,9,119,Internacional,12,6,2,4,13,14,-1,20
+2023,Regular Season - 13,10,1062,Atletico-MG,12,5,4,3,16,11,5,19
+2023,Regular Season - 13,11,134,Atletico Paranaense,12,6,1,5,16,15,1,19
+2023,Regular Season - 13,12,135,Cruzeiro,12,5,2,5,15,11,4,17
+2023,Regular Season - 13,13,128,Santos,12,3,4,5,11,13,-2,13
+2023,Regular Season - 13,14,118,Bahia,12,3,3,6,13,18,-5,12
+2023,Regular Season - 13,15,131,Corinthians,12,3,3,6,11,16,-5,12
+2023,Regular Season - 13,16,1193,Cuiaba,12,3,3,6,9,16,-7,12
+2023,Regular Season - 13,17,151,Goias,12,3,2,7,10,20,-10,11
+2023,Regular Season - 13,18,133,Vasco DA Gama,12,2,3,7,11,20,-9,9
+2023,Regular Season - 13,19,125,America Mineiro,12,2,2,8,13,27,-14,8
+2023,Regular Season - 13,20,147,Coritiba,12,0,4,8,9,26,-17,4
+2023,Regular Season - 14,1,120,Botafogo,13,11,0,2,22,7,15,33
+2023,Regular Season - 14,2,130,Gremio,13,8,2,3,24,18,6,26
+2023,Regular Season - 14,3,127,Flamengo,13,8,1,4,26,17,9,25
+2023,Regular Season - 14,4,121,Palmeiras,13,6,5,2,24,12,12,23
+2023,Regular Season - 14,5,794,RB Bragantino,13,6,5,2,22,14,8,23
+2023,Regular Season - 14,6,124,Fluminense,13,6,3,4,19,14,5,21
+2023,Regular Season - 14,7,126,Sao Paulo,13,6,3,4,18,13,5,21
+2023,Regular Season - 14,8,135,Cruzeiro,14,6,3,5,16,11,5,21
+2023,Regular Season - 14,9,119,Internacional,13,6,3,4,13,14,-1,21
+2023,Regular Season - 14,10,1062,Atletico-MG,13,5,5,3,18,13,5,20
+2023,Regular Season - 14,11,154,Fortaleza EC,13,5,5,3,15,11,4,20
+2023,Regular Season - 14,12,134,Atletico Paranaense,13,6,2,5,18,17,1,20
+2023,Regular Season - 14,13,1193,Cuiaba,13,4,3,6,12,16,-4,15
+2023,Regular Season - 14,14,128,Santos,13,3,4,6,11,16,-5,13
+2023,Regular Season - 14,15,118,Bahia,13,3,3,7,14,20,-6,12
+2023,Regular Season - 14,16,131,Corinthians,13,3,3,7,11,17,-6,12
+2023,Regular Season - 14,17,151,Goias,13,3,2,8,11,22,-11,11
+2023,Regular Season - 14,18,133,Vasco DA Gama,14,2,3,9,11,23,-12,9
+2023,Regular Season - 14,19,125,America Mineiro,13,2,3,8,15,29,-14,9
+2023,Regular Season - 14,20,147,Coritiba,13,1,4,8,11,27,-16,7
+2023,Regular Season - 15,1,120,Botafogo,15,13,0,2,26,7,19,39
+2023,Regular Season - 15,2,127,Flamengo,14,8,2,4,27,18,9,26
+2023,Regular Season - 15,3,130,Gremio,14,8,2,4,24,20,4,26
+2023,Regular Season - 15,4,121,Palmeiras,14,6,6,2,25,13,12,24
+2023,Regular Season - 15,5,124,Fluminense,14,7,3,4,21,14,7,24
+2023,Regular Season - 15,6,794,RB Bragantino,15,6,6,3,22,16,6,24
+2023,Regular Season - 15,7,154,Fortaleza EC,14,6,5,3,16,11,5,23
+2023,Regular Season - 15,8,126,Sao Paulo,14,6,4,4,18,13,5,22
+2023,Regular Season - 15,9,135,Cruzeiro,14,6,3,5,16,11,5,21
+2023,Regular Season - 15,10,119,Internacional,14,6,3,5,13,16,-3,21
+2023,Regular Season - 15,11,1062,Atletico-MG,14,5,5,4,18,14,4,20
+2023,Regular Season - 15,12,134,Atletico Paranaense,14,6,2,6,18,18,0,20
+2023,Regular Season - 15,13,128,Santos,14,4,4,6,15,19,-4,16
+2023,Regular Season - 15,14,1193,Cuiaba,14,4,4,6,13,17,-4,16
+2023,Regular Season - 15,15,131,Corinthians,14,4,3,7,12,17,-5,15
+2023,Regular Season - 15,16,118,Bahia,14,3,4,7,15,21,-6,13
+2023,Regular Season - 15,17,151,Goias,14,3,2,9,14,26,-12,11
+2023,Regular Season - 15,18,147,Coritiba,14,2,4,8,14,28,-14,10
+2023,Regular Season - 15,19,133,Vasco DA Gama,14,2,3,9,11,23,-12,9
+2023,Regular Season - 15,20,125,America Mineiro,14,2,3,9,16,32,-16,9
+2023,Regular Season - 16,1,120,Botafogo,15,13,0,2,26,7,19,39
+2023,Regular Season - 16,2,121,Palmeiras,16,7,7,2,28,14,14,28
+2023,Regular Season - 16,3,127,Flamengo,15,8,3,4,27,18,9,27
+2023,Regular Season - 16,4,130,Gremio,14,8,2,4,24,20,4,26
+2023,Regular Season - 16,5,126,Sao Paulo,15,7,4,4,22,14,8,25
+2023,Regular Season - 16,6,124,Fluminense,15,7,4,4,21,14,7,25
+2023,Regular Season - 16,7,794,RB Bragantino,15,6,6,3,22,16,6,24
+2023,Regular Season - 16,8,134,Atletico Paranaense,15,7,2,6,20,18,2,23
+2023,Regular Season - 16,9,154,Fortaleza EC,16,6,5,5,17,15,2,23
+2023,Regular Season - 16,10,135,Cruzeiro,15,6,4,5,16,11,5,22
+2023,Regular Season - 16,11,119,Internacional,15,6,4,5,13,16,-3,22
+2023,Regular Season - 16,12,1062,Atletico-MG,15,5,6,4,18,14,4,21
+2023,Regular Season - 16,13,1193,Cuiaba,15,5,4,6,14,17,-3,19
+2023,Regular Season - 16,14,128,Santos,15,4,4,7,16,23,-7,16
+2023,Regular Season - 16,15,131,Corinthians,14,4,3,7,12,17,-5,15
+2023,Regular Season - 16,16,118,Bahia,15,3,4,8,15,23,-8,13
+2023,Regular Season - 16,17,151,Goias,15,3,3,9,14,26,-12,12
+2023,Regular Season - 16,18,147,Coritiba,15,2,5,8,14,28,-14,11
+2023,Regular Season - 16,19,133,Vasco DA Gama,14,2,3,9,11,23,-12,9
+2023,Regular Season - 16,20,125,America Mineiro,14,2,3,9,16,32,-16,9
+2023,Regular Season - 17,1,120,Botafogo,16,13,1,2,28,9,19,40
+2023,Regular Season - 17,2,130,Gremio,15,9,2,4,25,20,5,29
+2023,Regular Season - 17,3,121,Palmeiras,16,7,7,2,28,14,14,28
+2023,Regular Season - 17,4,127,Flamengo,16,8,4,4,28,19,9,28
+2023,Regular Season - 17,5,134,Atletico Paranaense,16,8,2,6,22,18,4,26
+2023,Regular Season - 17,6,126,Sao Paulo,16,7,4,5,23,16,7,25
+2023,Regular Season - 17,7,794,RB Bragantino,16,6,7,3,22,16,6,25
+2023,Regular Season - 17,8,124,Fluminense,16,7,4,5,21,16,5,25
+2023,Regular Season - 17,9,1193,Cuiaba,17,7,4,6,18,19,-1,25
+2023,Regular Season - 17,10,154,Fortaleza EC,16,6,5,5,17,15,2,23
+2023,Regular Season - 17,11,119,Internacional,17,6,5,6,14,18,-4,23
+2023,Regular Season - 17,12,135,Cruzeiro,16,6,4,6,16,12,4,22
+2023,Regular Season - 17,13,1062,Atletico-MG,16,5,6,5,18,15,3,21
+2023,Regular Season - 17,14,128,Santos,16,4,5,7,18,25,-7,17
+2023,Regular Season - 17,15,131,Corinthians,15,4,4,7,12,17,-5,16
+2023,Regular Season - 17,16,151,Goias,16,4,3,9,15,26,-11,15
+2023,Regular Season - 17,17,118,Bahia,16,3,5,8,15,23,-8,14
+2023,Regular Season - 17,18,147,Coritiba,16,3,5,8,16,28,-12,14
+2023,Regular Season - 17,19,125,America Mineiro,15,2,4,9,17,33,-16,10
+2023,Regular Season - 17,20,133,Vasco DA Gama,15,2,3,10,11,25,-14,9
+2023,Regular Season - 18,1,120,Botafogo,17,14,1,2,32,10,22,43
+2023,Regular Season - 18,2,121,Palmeiras,17,8,7,2,32,15,17,31
+2023,Regular Season - 18,3,127,Flamengo,17,9,4,4,30,20,10,31
+2023,Regular Season - 18,4,130,Gremio,16,9,3,4,26,21,5,30
+2023,Regular Season - 18,5,794,RB Bragantino,17,7,7,3,25,16,9,28
+2023,Regular Season - 18,6,124,Fluminense,17,8,4,5,22,16,6,28
+2023,Regular Season - 18,7,134,Atletico Paranaense,18,8,4,6,26,22,4,28
+2023,Regular Season - 18,8,126,Sao Paulo,17,7,5,5,23,16,7,26
+2023,Regular Season - 18,9,1193,Cuiaba,17,7,4,6,18,19,-1,25
+2023,Regular Season - 18,10,135,Cruzeiro,17,6,5,6,19,15,4,23
+2023,Regular Season - 18,11,154,Fortaleza EC,17,6,5,6,17,18,-1,23
+2023,Regular Season - 18,12,119,Internacional,17,6,5,6,14,18,-4,23
+2023,Regular Season - 18,13,1062,Atletico-MG,17,5,6,6,19,17,2,21
+2023,Regular Season - 18,14,131,Corinthians,16,5,4,7,15,18,-3,19
+2023,Regular Season - 18,15,128,Santos,18,4,6,8,19,27,-8,18
+2023,Regular Season - 18,16,151,Goias,17,4,4,9,16,27,-11,16
+2023,Regular Season - 18,17,118,Bahia,17,3,6,8,15,23,-8,15
+2023,Regular Season - 18,18,147,Coritiba,17,3,5,9,17,32,-15,14
+2023,Regular Season - 18,19,125,America Mineiro,16,2,4,10,18,37,-19,10
+2023,Regular Season - 18,20,133,Vasco DA Gama,16,2,3,11,12,28,-16,9
+2023,Regular Season - 19,1,120,Botafogo,19,15,2,2,35,11,24,47
+2023,Regular Season - 19,2,121,Palmeiras,18,8,7,3,33,17,16,31
+2023,Regular Season - 19,3,794,RB Bragantino,18,8,7,3,26,16,10,31
+2023,Regular Season - 19,4,124,Fluminense,18,9,4,5,24,17,7,31
+2023,Regular Season - 19,5,127,Flamengo,18,9,4,5,30,23,7,31
+2023,Regular Season - 19,6,130,Gremio,17,9,3,5,26,22,4,30
+2023,Regular Season - 19,7,134,Atletico Paranaense,18,8,4,6,26,22,4,28
+2023,Regular Season - 19,8,1193,Cuiaba,18,8,4,6,21,19,2,28
+2023,Regular Season - 19,9,126,Sao Paulo,18,7,5,6,23,18,5,26
+2023,Regular Season - 19,10,135,Cruzeiro,18,6,6,6,19,15,4,24
+2023,Regular Season - 19,11,1062,Atletico-MG,18,6,6,6,21,17,4,24
+2023,Regular Season - 19,12,119,Internacional,19,6,6,7,17,23,-6,24
+2023,Regular Season - 19,13,154,Fortaleza EC,18,6,5,7,17,19,-2,23
+2023,Regular Season - 19,14,131,Corinthians,17,5,5,7,17,20,-3,20
+2023,Regular Season - 19,15,151,Goias,18,5,4,9,17,27,-10,19
+2023,Regular Season - 19,16,118,Bahia,18,4,6,8,18,24,-6,18
+2023,Regular Season - 19,17,128,Santos,18,4,6,8,19,27,-8,18
+2023,Regular Season - 19,18,147,Coritiba,18,3,5,10,17,33,-16,14
+2023,Regular Season - 19,19,133,Vasco DA Gama,17,3,3,11,13,28,-15,12
+2023,Regular Season - 19,20,125,America Mineiro,17,2,4,11,19,40,-21,10
+2023,Regular Season - 20,1,120,Botafogo,19,15,2,2,35,11,24,47
+2023,Regular Season - 20,2,121,Palmeiras,19,9,7,3,34,17,17,34
+2023,Regular Season - 20,3,130,Gremio,18,10,3,5,28,23,5,33
+2023,Regular Season - 20,4,794,RB Bragantino,19,8,8,3,27,17,10,32
+2023,Regular Season - 20,5,127,Flamengo,19,9,5,5,31,24,7,32
+2023,Regular Season - 20,6,124,Fluminense,19,9,4,6,25,19,6,31
+2023,Regular Season - 20,7,134,Atletico Paranaense,19,9,4,6,28,22,6,31
+2023,Regular Season - 20,8,154,Fortaleza EC,20,8,5,7,22,19,3,29
+2023,Regular Season - 20,9,1193,Cuiaba,19,8,4,7,21,21,0,28
+2023,Regular Season - 20,10,126,Sao Paulo,19,7,6,6,24,19,5,27
+2023,Regular Season - 20,11,1062,Atletico-MG,19,7,6,6,22,17,5,27
+2023,Regular Season - 20,12,135,Cruzeiro,19,6,6,7,19,16,3,24
+2023,Regular Season - 20,13,119,Internacional,20,6,6,8,17,24,-7,24
+2023,Regular Season - 20,14,131,Corinthians,18,6,5,7,20,21,-1,23
+2023,Regular Season - 20,15,151,Goias,19,6,4,9,18,27,-9,22
+2023,Regular Season - 20,16,118,Bahia,19,4,6,9,18,25,-7,18
+2023,Regular Season - 20,17,128,Santos,19,4,6,9,19,31,-12,18
+2023,Regular Season - 20,18,147,Coritiba,19,3,5,11,18,36,-18,14
+2023,Regular Season - 20,19,133,Vasco DA Gama,18,3,4,11,14,29,-15,13
+2023,Regular Season - 20,20,125,America Mineiro,18,2,4,12,19,41,-22,10
+2023,Regular Season - 21,1,120,Botafogo,20,15,3,2,35,11,24,48
+2023,Regular Season - 21,2,121,Palmeiras,20,10,7,3,36,17,19,37
+2023,Regular Season - 21,3,127,Flamengo,21,10,6,5,34,26,8,36
+2023,Regular Season - 21,4,124,Fluminense,20,10,4,6,28,20,8,34
+2023,Regular Season - 21,5,130,Gremio,19,10,3,6,29,25,4,33
+2023,Regular Season - 21,6,134,Atletico Paranaense,20,9,5,6,29,23,6,32
+2023,Regular Season - 21,7,794,RB Bragantino,20,8,8,4,27,21,6,32
+2023,Regular Season - 21,8,154,Fortaleza EC,20,8,5,7,22,19,3,29
+2023,Regular Season - 21,9,126,Sao Paulo,20,7,7,6,24,19,5,28
+2023,Regular Season - 21,10,1193,Cuiaba,20,8,4,8,21,23,-2,28
+2023,Regular Season - 21,11,1062,Atletico-MG,20,7,6,7,22,18,4,27
+2023,Regular Season - 21,12,135,Cruzeiro,20,6,7,7,20,17,3,25
+2023,Regular Season - 21,13,119,Internacional,21,6,7,8,17,24,-7,25
+2023,Regular Season - 21,14,131,Corinthians,19,6,6,7,21,22,-1,24
+2023,Regular Season - 21,15,151,Goias,20,6,5,9,19,28,-9,23
+2023,Regular Season - 21,16,118,Bahia,20,5,6,9,22,25,-3,21
+2023,Regular Season - 21,17,128,Santos,20,5,6,9,21,32,-11,21
+2023,Regular Season - 21,18,133,Vasco DA Gama,19,4,4,11,15,29,-14,16
+2023,Regular Season - 21,19,147,Coritiba,20,3,5,12,20,39,-19,14
+2023,Regular Season - 21,20,125,America Mineiro,19,2,4,13,20,44,-24,10
+2023,Regular Season - 22,1,120,Botafogo,21,16,3,2,38,11,27,51
+2023,Regular Season - 22,2,121,Palmeiras,21,11,7,3,37,17,20,40
+2023,Regular Season - 22,3,127,Flamengo,21,10,6,5,34,26,8,36
+2023,Regular Season - 22,4,130,Gremio,20,11,3,6,32,25,7,36
+2023,Regular Season - 22,5,124,Fluminense,21,10,5,6,30,22,8,35
+2023,Regular Season - 22,6,794,RB Bragantino,21,9,8,4,29,21,8,35
+2023,Regular Season - 22,7,134,Atletico Paranaense,22,9,7,6,32,26,6,34
+2023,Regular Season - 22,8,154,Fortaleza EC,21,9,5,7,25,20,5,32
+2023,Regular Season - 22,9,1062,Atletico-MG,22,8,7,7,25,19,6,31
+2023,Regular Season - 22,10,126,Sao Paulo,21,7,7,7,25,21,4,28
+2023,Regular Season - 22,11,1193,Cuiaba,21,8,4,9,21,25,-4,28
+2023,Regular Season - 22,12,135,Cruzeiro,21,6,7,8,20,20,0,25
+2023,Regular Season - 22,13,131,Corinthians,20,6,7,7,22,23,-1,25
+2023,Regular Season - 22,14,119,Internacional,21,6,7,8,17,24,-7,25
+2023,Regular Season - 22,15,151,Goias,21,6,6,9,20,29,-9,24
+2023,Regular Season - 22,16,118,Bahia,21,5,6,10,22,28,-6,21
+2023,Regular Season - 22,17,128,Santos,21,5,6,10,21,34,-13,21
+2023,Regular Season - 22,18,133,Vasco DA Gama,20,4,4,12,15,30,-15,16
+2023,Regular Season - 22,19,147,Coritiba,21,3,5,13,21,42,-21,14
+2023,Regular Season - 22,20,125,America Mineiro,20,3,4,13,22,45,-23,13
+2023,Regular Season - 23,1,120,Botafogo,22,16,3,3,39,13,26,51
+2023,Regular Season - 23,2,121,Palmeiras,22,11,8,3,37,17,20,41
+2023,Regular Season - 23,3,127,Flamengo,22,11,6,5,36,27,9,39
+2023,Regular Season - 23,4,130,Gremio,21,12,3,6,34,25,9,39
+2023,Regular Season - 23,5,124,Fluminense,22,11,5,6,31,22,9,38
+2023,Regular Season - 23,6,794,RB Bragantino,22,9,9,4,29,21,8,36
+2023,Regular Season - 23,7,134,Atletico Paranaense,22,9,7,6,32,26,6,34
+2023,Regular Season - 23,8,154,Fortaleza EC,22,9,5,8,25,21,4,32
+2023,Regular Season - 23,9,1062,Atletico-MG,22,8,7,7,25,19,6,31
+2023,Regular Season - 23,10,119,Internacional,23,7,8,8,19,25,-6,29
+2023,Regular Season - 23,11,126,Sao Paulo,22,7,7,8,26,23,3,28
+2023,Regular Season - 23,12,1193,Cuiaba,22,8,4,10,21,27,-6,28
+2023,Regular Season - 23,13,135,Cruzeiro,22,6,8,8,20,20,0,26
+2023,Regular Season - 23,14,131,Corinthians,21,6,8,7,22,23,-1,26
+2023,Regular Season - 23,15,151,Goias,22,6,7,9,20,29,-9,25
+2023,Regular Season - 23,16,118,Bahia,22,5,7,10,23,29,-6,22
+2023,Regular Season - 23,17,128,Santos,22,5,6,11,21,36,-15,21
+2023,Regular Season - 23,18,133,Vasco DA Gama,21,4,5,12,16,31,-15,17
+2023,Regular Season - 23,19,125,America Mineiro,21,4,4,13,24,45,-21,16
+2023,Regular Season - 23,20,147,Coritiba,21,3,5,13,21,42,-21,14
+2023,Regular Season - 24,1,120,Botafogo,23,16,3,4,39,14,25,51
+2023,Regular Season - 24,2,121,Palmeiras,23,12,8,3,38,17,21,44
+2023,Regular Season - 24,3,794,RB Bragantino,23,10,9,4,31,21,10,39
+2023,Regular Season - 24,4,130,Gremio,22,12,3,7,34,27,7,39
+2023,Regular Season - 24,5,127,Flamengo,23,11,6,6,36,30,6,39
+2023,Regular Season - 24,6,124,Fluminense,23,11,5,7,33,26,7,38
+2023,Regular Season - 24,7,134,Atletico Paranaense,23,10,7,6,35,26,9,37
+2023,Regular Season - 24,8,154,Fortaleza EC,23,10,5,8,27,22,5,35
+2023,Regular Season - 24,9,1062,Atletico-MG,23,9,7,7,26,19,7,34
+2023,Regular Season - 24,10,135,Cruzeiro,23,7,8,8,23,20,3,29
+2023,Regular Season - 24,11,119,Internacional,23,7,8,8,19,25,-6,29
+2023,Regular Season - 24,12,1193,Cuiaba,23,8,5,10,23,29,-6,29
+2023,Regular Season - 24,13,126,Sao Paulo,22,7,7,8,26,23,3,28
+2023,Regular Season - 24,14,131,Corinthians,22,6,8,8,23,25,-2,26
+2023,Regular Season - 24,15,118,Bahia,24,6,7,11,28,33,-5,25
+2023,Regular Season - 24,16,151,Goias,23,6,7,10,20,30,-10,25
+2023,Regular Season - 24,17,128,Santos,24,6,6,12,23,40,-17,24
+2023,Regular Season - 24,18,133,Vasco DA Gama,22,5,5,12,20,33,-13,20
+2023,Regular Season - 24,19,125,America Mineiro,22,4,5,13,26,47,-21,17
+2023,Regular Season - 24,20,147,Coritiba,22,3,5,14,23,46,-23,14
+2023,Regular Season - 25,1,120,Botafogo,24,16,3,5,39,15,24,51
+2023,Regular Season - 25,2,121,Palmeiras,24,12,8,4,38,18,20,44
+2023,Regular Season - 25,3,130,Gremio,24,13,4,7,39,31,8,43
+2023,Regular Season - 25,4,127,Flamengo,25,12,7,6,37,30,7,43
+2023,Regular Season - 25,5,794,RB Bragantino,24,11,9,4,33,21,12,42
+2023,Regular Season - 25,6,124,Fluminense,24,12,5,7,34,26,8,41
+2023,Regular Season - 25,7,134,Atletico Paranaense,24,11,7,6,37,27,10,40
+2023,Regular Season - 25,8,154,Fortaleza EC,24,11,5,8,29,23,6,38
+2023,Regular Season - 25,9,1062,Atletico-MG,24,10,7,7,27,19,8,37
+2023,Regular Season - 25,10,126,Sao Paulo,24,8,7,9,29,26,3,31
+2023,Regular Season - 25,11,131,Corinthians,24,7,9,8,28,29,-1,30
+2023,Regular Season - 25,12,135,Cruzeiro,24,7,8,9,23,21,2,29
+2023,Regular Season - 25,13,119,Internacional,24,7,8,9,20,27,-7,29
+2023,Regular Season - 25,14,1193,Cuiaba,24,8,5,11,23,30,-7,29
+2023,Regular Season - 25,15,133,Vasco DA Gama,24,7,5,12,26,34,-8,26
+2023,Regular Season - 25,16,151,Goias,24,6,8,10,20,30,-10,26
+2023,Regular Season - 25,17,118,Bahia,25,6,7,12,28,34,-6,25
+2023,Regular Season - 25,18,128,Santos,24,6,6,12,23,40,-17,24
+2023,Regular Season - 25,19,125,America Mineiro,24,4,5,15,26,50,-24,17
+2023,Regular Season - 25,20,147,Coritiba,24,3,5,16,25,53,-28,14
+2023,Regular Season - 26,1,120,Botafogo,25,16,4,5,40,16,24,52
+2023,Regular Season - 26,2,794,RB Bragantino,25,12,9,4,35,22,13,45
+2023,Regular Season - 26,3,121,Palmeiras,25,12,8,5,39,20,19,44
+2023,Regular Season - 26,4,130,Gremio,25,13,5,7,40,32,8,44
+2023,Regular Season - 26,5,127,Flamengo,25,12,7,6,37,30,7,43
+2023,Regular Season - 26,6,124,Fluminense,25,12,5,8,34,29,5,41
+2023,Regular Season - 26,7,1062,Atletico-MG,25,11,7,7,29,19,10,40
+2023,Regular Season - 26,8,134,Atletico Paranaense,25,11,7,7,37,29,8,40
+2023,Regular Season - 26,9,154,Fortaleza EC,25,11,6,8,30,24,6,39
+2023,Regular Season - 26,10,126,Sao Paulo,25,9,7,9,31,27,4,34
+2023,Regular Season - 26,11,1193,Cuiaba,25,9,5,11,26,30,-4,32
+2023,Regular Season - 26,12,135,Cruzeiro,25,7,9,9,24,22,2,30
+2023,Regular Season - 26,13,131,Corinthians,25,7,9,9,29,31,-2,30
+2023,Regular Season - 26,14,119,Internacional,25,7,8,10,20,29,-9,29
+2023,Regular Season - 26,15,118,Bahia,26,7,7,12,34,38,-4,28
+2023,Regular Season - 26,16,151,Goias,26,6,9,11,25,37,-12,27
+2023,Regular Season - 26,17,128,Santos,25,7,6,12,27,41,-14,27
+2023,Regular Season - 26,18,133,Vasco DA Gama,25,7,5,13,27,38,-11,26
+2023,Regular Season - 26,19,125,America Mineiro,25,4,6,15,27,51,-24,18
+2023,Regular Season - 26,20,147,Coritiba,25,4,5,16,27,53,-26,17
+2023,Regular Season - 27,1,120,Botafogo,26,17,4,5,42,16,26,55
+2023,Regular Season - 27,2,794,RB Bragantino,26,12,10,4,36,23,13,46
+2023,Regular Season - 27,3,121,Palmeiras,26,12,8,6,40,22,18,44
+2023,Regular Season - 27,4,134,Atletico Paranaense,27,12,8,7,40,31,9,44
+2023,Regular Season - 27,5,127,Flamengo,26,12,8,6,38,31,7,44
+2023,Regular Season - 27,6,130,Gremio,27,13,5,9,43,37,6,44
+2023,Regular Season - 27,7,154,Fortaleza EC,26,12,6,8,33,26,7,42
+2023,Regular Season - 27,8,124,Fluminense,26,12,5,9,34,31,3,41
+2023,Regular Season - 27,9,1062,Atletico-MG,26,11,7,8,30,21,9,40
+2023,Regular Season - 27,10,126,Sao Paulo,26,9,8,9,31,27,4,35
+2023,Regular Season - 27,11,1193,Cuiaba,26,9,6,11,26,30,-4,33
+2023,Regular Season - 27,12,119,Internacional,26,8,8,10,23,31,-8,32
+2023,Regular Season - 27,13,135,Cruzeiro,26,7,10,9,24,22,2,31
+2023,Regular Season - 27,14,131,Corinthians,26,7,10,9,30,32,-2,31
+2023,Regular Season - 27,15,128,Santos,26,8,6,12,29,42,-13,30
+2023,Regular Season - 27,16,118,Bahia,26,7,7,12,34,38,-4,28
+2023,Regular Season - 27,17,133,Vasco DA Gama,26,7,6,13,27,38,-11,27
+2023,Regular Season - 27,18,151,Goias,26,6,9,11,25,37,-12,27
+2023,Regular Season - 27,19,147,Coritiba,26,5,5,16,29,54,-25,20
+2023,Regular Season - 27,20,125,America Mineiro,26,4,6,16,29,54,-25,18
+2023,Regular Season - 28,1,120,Botafogo,27,18,4,5,44,17,27,58
+2023,Regular Season - 28,2,794,RB Bragantino,27,13,10,4,39,24,15,49
+2023,Regular Season - 28,3,127,Flamengo,27,13,8,6,40,31,9,47
+2023,Regular Season - 28,4,121,Palmeiras,27,12,8,7,40,24,16,44
+2023,Regular Season - 28,5,134,Atletico Paranaense,27,12,8,7,40,31,9,44
+2023,Regular Season - 28,6,130,Gremio,27,13,5,9,43,37,6,44
+2023,Regular Season - 28,7,1062,Atletico-MG,27,12,7,8,32,21,11,43
+2023,Regular Season - 28,8,154,Fortaleza EC,28,12,6,10,33,29,4,42
+2023,Regular Season - 28,9,124,Fluminense,27,12,6,9,37,34,3,42
+2023,Regular Season - 28,10,1193,Cuiaba,27,10,6,11,29,30,-1,36
+2023,Regular Season - 28,11,126,Sao Paulo,27,9,8,10,31,29,2,35
+2023,Regular Season - 28,12,118,Bahia,28,9,7,12,37,38,-1,34
+2023,Regular Season - 28,13,131,Corinthians,27,7,11,9,33,35,-2,32
+2023,Regular Season - 28,14,119,Internacional,27,8,8,11,23,32,-9,32
+2023,Regular Season - 28,15,135,Cruzeiro,27,7,10,10,24,24,0,31
+2023,Regular Season - 28,16,133,Vasco DA Gama,27,8,6,13,28,38,-10,30
+2023,Regular Season - 28,17,151,Goias,27,7,9,11,27,37,-10,30
+2023,Regular Season - 28,18,128,Santos,27,8,6,13,30,45,-15,30
+2023,Regular Season - 28,19,147,Coritiba,27,5,5,17,29,57,-28,20
+2023,Regular Season - 28,20,125,America Mineiro,27,4,6,17,30,56,-26,18
+2023,Regular Season - 29,1,120,Botafogo,28,18,5,5,45,18,27,59
+2023,Regular Season - 29,2,794,RB Bragantino,28,14,10,4,40,24,16,52
+2023,Regular Season - 29,3,121,Palmeiras,29,14,8,7,47,24,23,50
+2023,Regular Season - 29,4,127,Flamengo,28,14,8,6,41,31,10,50
+2023,Regular Season - 29,5,134,Atletico Paranaense,28,12,9,7,41,32,9,45
+2023,Regular Season - 29,6,130,Gremio,28,13,5,10,43,40,3,44
+2023,Regular Season - 29,7,1062,Atletico-MG,28,12,7,9,32,22,10,43
+2023,Regular Season - 29,8,154,Fortaleza EC,28,12,6,10,33,29,4,42
+2023,Regular Season - 29,9,124,Fluminense,28,12,6,10,37,35,2,42
+2023,Regular Season - 29,10,126,Sao Paulo,29,10,8,11,34,34,0,38
+2023,Regular Season - 29,11,1193,Cuiaba,28,10,7,11,30,31,-1,37
+2023,Regular Season - 29,12,119,Internacional,28,9,8,11,30,33,-3,35
+2023,Regular Season - 29,13,135,Cruzeiro,28,8,10,10,25,24,1,34
+2023,Regular Season - 29,14,118,Bahia,28,9,7,12,37,38,-1,34
+2023,Regular Season - 29,15,131,Corinthians,28,7,12,9,34,36,-2,33
+2023,Regular Season - 29,16,151,Goias,28,7,10,11,28,38,-10,31
+2023,Regular Season - 29,17,133,Vasco DA Gama,28,8,6,14,28,39,-11,30
+2023,Regular Season - 29,18,128,Santos,28,8,6,14,31,52,-21,30
+2023,Regular Season - 29,19,147,Coritiba,28,5,5,18,29,59,-30,20
+2023,Regular Season - 29,20,125,America Mineiro,28,4,7,17,31,57,-26,19
+2023,Regular Season - 30,1,120,Botafogo,28,18,5,5,45,18,27,59
+2023,Regular Season - 30,2,121,Palmeiras,30,15,8,7,48,24,24,53
+2023,Regular Season - 30,3,794,RB Bragantino,29,14,10,5,41,26,15,52
+2023,Regular Season - 30,4,127,Flamengo,29,14,8,7,43,34,9,50
+2023,Regular Season - 30,5,134,Atletico Paranaense,29,13,9,7,44,34,10,48
+2023,Regular Season - 30,6,130,Gremio,29,14,5,10,46,42,4,47
+2023,Regular Season - 30,7,1062,Atletico-MG,29,13,7,9,34,23,11,46
+2023,Regular Season - 30,8,124,Fluminense,29,13,6,10,42,38,4,45
+2023,Regular Season - 30,9,154,Fortaleza EC,28,12,6,10,33,29,4,42
+2023,Regular Season - 30,10,126,Sao Paulo,29,10,8,11,34,34,0,38
+2023,Regular Season - 30,11,119,Internacional,29,10,8,11,32,34,-2,38
+2023,Regular Season - 30,12,135,Cruzeiro,29,9,10,10,28,24,4,37
+2023,Regular Season - 30,13,1193,Cuiaba,29,10,7,12,30,32,-2,37
+2023,Regular Season - 30,14,131,Corinthians,29,8,12,9,35,36,-1,36
+2023,Regular Season - 30,15,118,Bahia,30,9,7,14,37,42,-5,34
+2023,Regular Season - 30,16,128,Santos,29,9,6,14,33,53,-20,33
+2023,Regular Season - 30,17,151,Goias,29,7,10,12,31,43,-12,31
+2023,Regular Season - 30,18,133,Vasco DA Gama,29,8,6,15,29,41,-12,30
+2023,Regular Season - 30,19,147,Coritiba,29,5,5,19,30,61,-31,20
+2023,Regular Season - 30,20,125,America Mineiro,29,4,7,18,33,60,-27,19
+2023,Regular Season - 31,1,120,Botafogo,29,18,5,6,45,19,26,59
+2023,Regular Season - 31,2,121,Palmeiras,30,15,8,7,48,24,24,53
+2023,Regular Season - 31,3,794,RB Bragantino,29,14,10,5,41,26,15,52
+2023,Regular Season - 31,4,127,Flamengo,29,14,8,7,43,34,9,50
+2023,Regular Season - 31,5,130,Gremio,30,15,5,10,50,45,5,50
+2023,Regular Season - 31,6,1062,Atletico-MG,30,14,7,9,36,23,13,49
+2023,Regular Season - 31,7,134,Atletico Paranaense,30,13,10,7,45,35,10,49
+2023,Regular Season - 31,8,124,Fluminense,31,13,6,12,42,41,1,45
+2023,Regular Season - 31,9,154,Fortaleza EC,28,12,6,10,33,29,4,42
+2023,Regular Season - 31,10,1193,Cuiaba,30,11,7,12,31,32,-1,40
+2023,Regular Season - 31,11,126,Sao Paulo,30,10,9,11,35,35,0,39
+2023,Regular Season - 31,12,119,Internacional,30,10,8,12,35,38,-3,38
+2023,Regular Season - 31,13,135,Cruzeiro,29,9,10,10,28,24,4,37
+2023,Regular Season - 31,14,131,Corinthians,30,8,13,9,36,37,-1,37
+2023,Regular Season - 31,15,118,Bahia,31,10,7,14,38,42,-4,37
+2023,Regular Season - 31,16,128,Santos,30,9,7,14,34,54,-20,34
+2023,Regular Season - 31,17,151,Goias,30,7,11,12,32,44,-12,32
+2023,Regular Season - 31,18,133,Vasco DA Gama,30,8,7,15,30,42,-12,31
+2023,Regular Season - 31,19,147,Coritiba,30,6,5,19,34,64,-30,23
+2023,Regular Season - 31,20,125,America Mineiro,30,4,7,19,36,64,-28,19
+2023,Regular Season - 32,1,120,Botafogo,30,18,5,7,48,23,25,59
+2023,Regular Season - 32,2,121,Palmeiras,31,16,8,7,52,27,25,56
+2023,Regular Season - 32,3,794,RB Bragantino,30,15,10,5,43,26,17,55
+2023,Regular Season - 32,4,1062,Atletico-MG,32,15,8,9,40,25,15,53
+2023,Regular Season - 32,5,130,Gremio,31,16,5,10,52,46,6,53
+2023,Regular Season - 32,6,127,Flamengo,30,14,8,8,44,36,8,50
+2023,Regular Season - 32,7,134,Atletico Paranaense,31,13,10,8,45,36,9,49
+2023,Regular Season - 32,8,124,Fluminense,31,13,6,12,42,41,1,45
+2023,Regular Season - 32,9,154,Fortaleza EC,29,12,6,11,34,32,2,42
+2023,Regular Season - 32,10,126,Sao Paulo,31,11,9,11,36,35,1,42
+2023,Regular Season - 32,11,131,Corinthians,31,9,13,9,37,37,0,40
+2023,Regular Season - 32,12,1193,Cuiaba,31,11,7,13,31,34,-3,40
+2023,Regular Season - 32,13,119,Internacional,31,10,9,12,36,39,-3,39
+2023,Regular Season - 32,14,135,Cruzeiro,30,9,10,11,28,25,3,37
+2023,Regular Season - 32,15,118,Bahia,31,10,7,14,38,42,-4,37
+2023,Regular Season - 32,16,128,Santos,31,10,7,14,36,55,-19,37
+2023,Regular Season - 32,17,133,Vasco DA Gama,31,9,7,15,32,42,-10,34
+2023,Regular Season - 32,18,151,Goias,31,7,11,13,32,46,-14,32
+2023,Regular Season - 32,19,147,Coritiba,31,6,5,20,35,66,-31,23
+2023,Regular Season - 32,20,125,America Mineiro,32,4,9,19,38,66,-28,21
+2023,Regular Season - 33,1,121,Palmeiras,32,17,8,7,53,27,26,59
+2023,Regular Season - 33,2,120,Botafogo,31,18,5,8,48,24,24,59
+2023,Regular Season - 33,3,794,RB Bragantino,31,16,10,5,44,26,18,58
+2023,Regular Season - 33,4,130,Gremio,32,17,5,10,53,46,7,56
+2023,Regular Season - 33,5,1062,Atletico-MG,32,15,8,9,40,25,15,53
+2023,Regular Season - 33,6,127,Flamengo,31,15,8,8,46,36,10,53
+2023,Regular Season - 33,7,134,Atletico Paranaense,32,13,10,9,45,37,8,49
+2023,Regular Season - 33,8,124,Fluminense,32,13,7,12,42,41,1,46
+2023,Regular Season - 33,9,119,Internacional,33,11,10,12,38,40,-2,43
+2023,Regular Season - 33,10,126,Sao Paulo,31,11,9,11,36,35,1,42
+2023,Regular Season - 33,11,154,Fortaleza EC,30,12,6,12,34,34,0,42
+2023,Regular Season - 33,12,1193,Cuiaba,32,11,8,13,31,34,-3,41
+2023,Regular Season - 33,13,131,Corinthians,32,9,13,10,37,38,-1,40
+2023,Regular Season - 33,14,128,Santos,32,10,8,14,36,55,-19,38
+2023,Regular Season - 33,15,135,Cruzeiro,31,9,10,12,29,27,2,37
+2023,Regular Season - 33,16,118,Bahia,32,10,7,15,38,43,-5,37
+2023,Regular Season - 33,17,133,Vasco DA Gama,32,10,7,15,33,42,-9,37
+2023,Regular Season - 33,18,151,Goias,32,8,11,13,33,46,-13,35
+2023,Regular Season - 33,19,147,Coritiba,32,6,5,21,35,67,-32,23
+2023,Regular Season - 33,20,125,America Mineiro,32,4,9,19,38,66,-28,21
+2023,Regular Season - 34,1,120,Botafogo,32,18,5,9,51,28,23,59
+2023,Regular Season - 34,2,121,Palmeiras,33,17,8,8,53,30,23,59
+2023,Regular Season - 34,3,130,Gremio,33,18,5,10,57,49,8,59
+2023,Regular Season - 34,4,794,RB Bragantino,32,16,10,6,44,27,17,58
+2023,Regular Season - 34,5,127,Flamengo,32,16,8,8,49,36,13,56
+2023,Regular Season - 34,6,1062,Atletico-MG,33,15,9,9,41,26,15,54
+2023,Regular Season - 34,7,134,Atletico Paranaense,33,13,11,9,46,38,8,50
+2023,Regular Season - 34,8,124,Fluminense,32,13,7,12,42,41,1,46
+2023,Regular Season - 34,9,126,Sao Paulo,32,12,9,11,37,35,2,45
+2023,Regular Season - 34,10,1193,Cuiaba,33,12,8,13,34,34,0,44
+2023,Regular Season - 34,11,154,Fortaleza EC,31,12,7,12,35,35,0,43
+2023,Regular Season - 34,12,119,Internacional,33,11,10,12,38,40,-2,43
+2023,Regular Season - 34,13,131,Corinthians,33,9,14,10,38,39,-1,41
+2023,Regular Season - 34,14,128,Santos,33,11,8,14,37,55,-18,41
+2023,Regular Season - 34,15,135,Cruzeiro,32,9,10,13,29,28,1,37
+2023,Regular Season - 34,16,118,Bahia,33,10,7,16,38,46,-8,37
+2023,Regular Season - 34,17,133,Vasco DA Gama,32,10,7,15,33,42,-9,37
+2023,Regular Season - 34,18,151,Goias,33,8,11,14,33,47,-14,35
+2023,Regular Season - 34,19,147,Coritiba,34,8,5,21,39,67,-28,29
+2023,Regular Season - 34,20,125,America Mineiro,33,4,9,20,38,69,-31,21
+2023,Regular Season - 35,1,121,Palmeiras,34,18,8,8,56,30,26,62
+2023,Regular Season - 35,2,120,Botafogo,34,18,7,9,55,32,23,61
+2023,Regular Season - 35,3,127,Flamengo,34,17,9,8,51,37,14,60
+2023,Regular Season - 35,4,794,RB Bragantino,34,16,11,7,46,30,16,59
+2023,Regular Season - 35,5,130,Gremio,34,18,5,11,57,50,7,59
+2023,Regular Season - 35,6,1062,Atletico-MG,34,16,9,9,43,27,16,57
+2023,Regular Season - 35,7,134,Atletico Paranaense,34,13,12,9,47,39,8,51
+2023,Regular Season - 35,8,124,Fluminense,34,14,8,12,44,42,2,50
+2023,Regular Season - 35,9,1193,Cuiaba,34,13,8,13,36,35,1,47
+2023,Regular Season - 35,10,126,Sao Paulo,34,12,10,12,37,36,1,46
+2023,Regular Season - 35,11,154,Fortaleza EC,34,12,8,14,38,40,-2,44
+2023,Regular Season - 35,12,131,Corinthians,35,10,14,11,40,44,-4,44
+2023,Regular Season - 35,13,119,Internacional,34,11,10,13,38,43,-5,43
+2023,Regular Season - 35,14,128,Santos,34,11,9,14,37,55,-18,42
+2023,Regular Season - 35,15,135,Cruzeiro,34,10,11,13,32,30,2,41
+2023,Regular Season - 35,16,118,Bahia,35,11,8,16,44,48,-4,41
+2023,Regular Season - 35,17,133,Vasco DA Gama,34,11,8,15,37,45,-8,41
+2023,Regular Season - 35,18,151,Goias,34,8,11,15,34,49,-15,35
+2023,Regular Season - 35,19,147,Coritiba,34,8,5,21,39,67,-28,29
+2023,Regular Season - 35,20,125,America Mineiro,34,4,9,21,39,71,-32,21
+2023,Regular Season - 36,1,121,Palmeiras,35,18,9,8,58,32,26,63
+2023,Regular Season - 36,2,127,Flamengo,35,18,9,8,54,37,17,63
+2023,Regular Season - 36,3,120,Botafogo,35,18,8,9,56,33,23,62
+2023,Regular Season - 36,4,1062,Atletico-MG,35,17,9,9,46,27,19,60
+2023,Regular Season - 36,5,794,RB Bragantino,35,16,11,8,46,31,15,59
+2023,Regular Season - 36,6,130,Gremio,35,18,5,12,57,53,4,59
+2023,Regular Season - 36,7,124,Fluminense,35,15,8,12,46,43,3,53
+2023,Regular Season - 36,8,134,Atletico Paranaense,35,13,13,9,47,39,8,52
+2023,Regular Season - 36,9,1193,Cuiaba,35,13,9,13,36,35,1,48
+2023,Regular Season - 36,10,126,Sao Paulo,35,12,11,12,37,36,1,47
+2023,Regular Season - 36,11,131,Corinthians,36,11,14,11,44,46,-2,47
+2023,Regular Season - 36,12,119,Internacional,35,12,10,13,39,43,-4,46
+2023,Regular Season - 36,13,154,Fortaleza EC,35,12,9,14,40,42,-2,45
+2023,Regular Season - 36,14,135,Cruzeiro,35,11,11,13,33,30,3,44
+2023,Regular Season - 36,15,128,Santos,35,11,10,14,38,56,-18,43
+2023,Regular Season - 36,16,133,Vasco DA Gama,36,11,9,16,39,49,-10,42
+2023,Regular Season - 36,17,118,Bahia,35,11,8,16,44,48,-4,41
+2023,Regular Season - 36,18,151,Goias,35,8,11,16,34,50,-16,35
+2023,Regular Season - 36,19,147,Coritiba,35,8,5,22,40,69,-29,29
+2023,Regular Season - 36,20,125,America Mineiro,35,4,9,22,39,74,-35,21
+2023,Regular Season - 37,1,121,Palmeiras,36,19,9,8,62,32,30,66
+2023,Regular Season - 37,2,120,Botafogo,36,18,9,9,57,34,23,63
+2023,Regular Season - 37,3,1062,Atletico-MG,36,18,9,9,49,27,22,63
+2023,Regular Season - 37,4,127,Flamengo,36,18,9,9,54,40,14,63
+2023,Regular Season - 37,5,130,Gremio,36,19,5,12,59,54,5,62
+2023,Regular Season - 37,6,794,RB Bragantino,36,16,11,9,47,33,14,59
+2023,Regular Season - 37,7,124,Fluminense,36,16,8,12,49,43,6,56
+2023,Regular Season - 37,8,134,Atletico Paranaense,36,13,14,9,48,40,8,53
+2023,Regular Season - 37,9,119,Internacional,37,14,10,13,43,44,-1,52
+2023,Regular Season - 37,10,126,Sao Paulo,36,13,11,12,38,36,2,50
+2023,Regular Season - 37,11,154,Fortaleza EC,36,13,9,14,42,43,-1,48
+2023,Regular Season - 37,12,1193,Cuiaba,36,13,9,14,36,37,-1,48
+2023,Regular Season - 37,13,131,Corinthians,37,11,14,12,45,48,-3,47
+2023,Regular Season - 37,14,135,Cruzeiro,36,11,12,13,34,31,3,45
+2023,Regular Season - 37,15,128,Santos,36,11,10,15,38,59,-21,43
+2023,Regular Season - 37,16,133,Vasco DA Gama,36,11,9,16,39,49,-10,42
+2023,Regular Season - 37,17,118,Bahia,36,11,8,17,44,49,-5,41
+2023,Regular Season - 37,18,151,Goias,36,8,11,17,35,52,-17,35
+2023,Regular Season - 37,19,147,Coritiba,36,8,6,22,41,70,-29,30
+2023,Regular Season - 37,20,125,America Mineiro,36,4,9,23,39,78,-39,21
+2023,Regular Season - 38,1,121,Palmeiras,37,20,9,8,63,32,31,69
+2023,Regular Season - 38,2,1062,Atletico-MG,37,19,9,9,51,28,23,66
+2023,Regular Season - 38,3,127,Flamengo,37,19,9,9,56,41,15,66
+2023,Regular Season - 38,4,130,Gremio,37,20,5,12,60,54,6,65
+2023,Regular Season - 38,5,120,Botafogo,37,18,10,9,57,34,23,64
+2023,Regular Season - 38,6,794,RB Bragantino,37,17,11,9,48,33,15,62
+2023,Regular Season - 38,7,134,Atletico Paranaense,37,14,14,9,51,40,11,56
+2023,Regular Season - 38,8,124,Fluminense,37,16,8,13,49,44,5,56
+2023,Regular Season - 38,9,119,Internacional,37,14,10,13,43,44,-1,52
+2023,Regular Season - 38,10,154,Fortaleza EC,37,14,9,14,43,43,0,51
+2023,Regular Season - 38,11,126,Sao Paulo,37,13,11,13,39,38,1,50
+2023,Regular Season - 38,12,1193,Cuiaba,37,13,9,15,37,39,-2,48
+2023,Regular Season - 38,13,131,Corinthians,37,11,14,12,45,48,-3,47
+2023,Regular Season - 38,14,135,Cruzeiro,37,11,13,13,34,31,3,46
+2023,Regular Season - 38,15,128,Santos,37,11,10,16,38,62,-24,43
+2023,Regular Season - 38,16,133,Vasco DA Gama,37,11,9,17,39,50,-11,42
+2023,Regular Season - 38,17,118,Bahia,37,11,8,18,46,52,-6,41
+2023,Regular Season - 38,18,151,Goias,38,9,11,18,36,53,-17,38
+2023,Regular Season - 38,19,147,Coritiba,37,8,6,23,41,71,-30,30
+2023,Regular Season - 38,20,125,America Mineiro,38,5,9,24,42,81,-39,24
+2024,Regular Season - 1,1,119,Internacional,1,1,0,0,2,1,1,3
+2024,Regular Season - 1,2,120,Botafogo,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,3,121,Palmeiras,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,4,124,Fluminense,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,5,126,Sao Paulo,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,6,127,Flamengo,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,7,130,Gremio,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,8,131,Corinthians,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,9,133,Vasco DA Gama,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,10,134,Atletico Paranaense,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,11,135,Cruzeiro,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,12,136,Vitoria,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,13,140,Criciuma,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,14,144,Atletico Goianiense,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,15,152,Juventude,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,16,154,Fortaleza EC,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,17,794,RB Bragantino,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,18,1062,Atletico-MG,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,19,1193,Cuiaba,0,0,0,0,0,0,0,0
+2024,Regular Season - 1,20,118,Bahia,1,0,0,1,1,2,-1,0
+2024,Regular Season - 2,1,134,Atletico Paranaense,1,1,0,0,4,0,4,3
+2024,Regular Season - 2,2,119,Internacional,1,1,0,0,2,1,1,3
+2024,Regular Season - 2,3,121,Palmeiras,1,1,0,0,1,0,1,3
+2024,Regular Season - 2,4,127,Flamengo,1,1,0,0,2,1,1,3
+2024,Regular Season - 2,5,133,Vasco DA Gama,1,1,0,0,2,1,1,3
+2024,Regular Season - 2,6,135,Cruzeiro,1,1,0,0,3,2,1,3
+2024,Regular Season - 2,7,154,Fortaleza EC,1,1,0,0,2,1,1,3
+2024,Regular Season - 2,8,118,Bahia,2,1,0,1,3,3,0,3
+2024,Regular Season - 2,9,131,Corinthians,1,0,1,0,0,0,0,1
+2024,Regular Season - 2,10,140,Criciuma,1,0,1,0,1,1,0,1
+2024,Regular Season - 2,11,152,Juventude,1,0,1,0,1,1,0,1
+2024,Regular Season - 2,12,794,RB Bragantino,1,0,1,0,2,2,0,1
+2024,Regular Season - 2,13,1062,Atletico-MG,1,0,1,0,0,0,0,1
+2024,Regular Season - 2,14,124,Fluminense,2,0,1,1,3,4,-1,1
+2024,Regular Season - 2,15,120,Botafogo,1,0,0,1,2,3,-1,0
+2024,Regular Season - 2,16,126,Sao Paulo,1,0,0,1,1,2,-1,0
+2024,Regular Season - 2,17,130,Gremio,1,0,0,1,1,2,-1,0
+2024,Regular Season - 2,18,136,Vitoria,1,0,0,1,0,1,-1,0
+2024,Regular Season - 2,19,144,Atletico Goianiense,1,0,0,1,1,2,-1,0
+2024,Regular Season - 2,20,1193,Cuiaba,1,0,0,1,0,4,-4,0
+2024,Regular Season - 3,1,119,Internacional,2,2,0,0,3,1,2,6
+2024,Regular Season - 3,2,127,Flamengo,2,2,0,0,4,2,2,6
+2024,Regular Season - 3,3,152,Juventude,2,1,1,0,3,1,2,4
+2024,Regular Season - 3,4,135,Cruzeiro,2,1,1,0,4,3,1,4
+2024,Regular Season - 3,5,154,Fortaleza EC,2,1,1,0,3,2,1,4
+2024,Regular Season - 3,6,794,RB Bragantino,2,1,1,0,4,3,1,4
+2024,Regular Season - 3,7,124,Fluminense,3,1,1,1,5,5,0,4
+2024,Regular Season - 3,8,134,Atletico Paranaense,2,1,0,1,4,2,2,3
+2024,Regular Season - 3,9,130,Gremio,2,1,0,1,3,2,1,3
+2024,Regular Season - 3,10,118,Bahia,2,1,0,1,3,3,0,3
+2024,Regular Season - 3,11,120,Botafogo,2,1,0,1,3,3,0,3
+2024,Regular Season - 3,12,121,Palmeiras,2,1,0,1,1,1,0,3
+2024,Regular Season - 3,13,133,Vasco DA Gama,3,1,0,2,4,5,-1,3
+2024,Regular Season - 3,14,140,Criciuma,2,0,2,0,2,2,0,2
+2024,Regular Season - 3,15,1062,Atletico-MG,2,0,2,0,1,1,0,2
+2024,Regular Season - 3,16,131,Corinthians,2,0,1,1,0,2,-2,1
+2024,Regular Season - 3,17,136,Vitoria,1,0,0,1,0,1,-1,0
+2024,Regular Season - 3,18,126,Sao Paulo,2,0,0,2,2,4,-2,0
+2024,Regular Season - 3,19,144,Atletico Goianiense,2,0,0,2,1,3,-2,0
+2024,Regular Season - 3,20,1193,Cuiaba,1,0,0,1,0,4,-4,0
+2024,Regular Season - 4,1,127,Flamengo,3,2,1,0,4,2,2,7
+2024,Regular Season - 4,2,794,RB Bragantino,3,2,1,0,5,3,2,7
+2024,Regular Season - 4,3,120,Botafogo,3,2,0,1,8,4,4,6
+2024,Regular Season - 4,4,134,Atletico Paranaense,3,2,0,1,5,2,3,6
+2024,Regular Season - 4,5,130,Gremio,3,2,0,1,4,2,2,6
+2024,Regular Season - 4,6,119,Internacional,3,2,0,1,3,2,1,6
+2024,Regular Season - 4,7,140,Criciuma,3,1,2,0,6,2,4,5
+2024,Regular Season - 4,8,1062,Atletico-MG,3,1,2,0,4,1,3,5
+2024,Regular Season - 4,9,154,Fortaleza EC,2,1,1,0,3,2,1,4
+2024,Regular Season - 4,10,118,Bahia,3,1,1,1,5,5,0,4
+2024,Regular Season - 4,11,121,Palmeiras,3,1,1,1,1,1,0,4
+2024,Regular Season - 4,12,124,Fluminense,3,1,1,1,5,5,0,4
+2024,Regular Season - 4,13,135,Cruzeiro,3,1,1,1,4,6,-2,4
+2024,Regular Season - 4,14,152,Juventude,3,1,1,1,4,6,-2,4
+2024,Regular Season - 4,15,126,Sao Paulo,3,1,0,2,5,4,1,3
+2024,Regular Season - 4,16,133,Vasco DA Gama,4,1,0,3,4,9,-5,3
+2024,Regular Season - 4,17,136,Vitoria,2,0,1,1,2,3,-1,1
+2024,Regular Season - 4,18,131,Corinthians,3,0,1,2,0,3,-3,1
+2024,Regular Season - 4,19,144,Atletico Goianiense,3,0,0,3,1,6,-5,0
+2024,Regular Season - 4,20,1193,Cuiaba,2,0,0,2,0,5,-5,0
+2024,Regular Season - 5,1,120,Botafogo,4,3,0,1,10,4,6,9
+2024,Regular Season - 5,2,1062,Atletico-MG,5,2,3,0,9,3,6,9
+2024,Regular Season - 5,3,794,RB Bragantino,4,2,2,0,6,4,2,8
+2024,Regular Season - 5,4,134,Atletico Paranaense,4,2,1,1,6,3,3,7
+2024,Regular Season - 5,5,118,Bahia,4,2,1,1,6,5,1,7
+2024,Regular Season - 5,6,119,Internacional,4,2,1,1,4,3,1,7
+2024,Regular Season - 5,7,127,Flamengo,4,2,1,1,4,4,0,7
+2024,Regular Season - 5,8,135,Cruzeiro,4,2,1,1,7,7,0,7
+2024,Regular Season - 5,9,130,Gremio,4,2,0,2,4,3,1,6
+2024,Regular Season - 5,10,140,Criciuma,3,1,2,0,6,2,4,5
+2024,Regular Season - 5,11,154,Fortaleza EC,3,1,2,0,4,3,1,5
+2024,Regular Season - 5,12,121,Palmeiras,4,1,2,1,1,1,0,5
+2024,Regular Season - 5,13,152,Juventude,4,1,2,1,5,7,-2,5
+2024,Regular Season - 5,14,124,Fluminense,5,1,2,2,7,10,-3,5
+2024,Regular Season - 5,15,126,Sao Paulo,4,1,1,2,5,4,1,4
+2024,Regular Season - 5,16,131,Corinthians,4,1,1,2,3,3,0,4
+2024,Regular Season - 5,17,133,Vasco DA Gama,4,1,0,3,4,9,-5,3
+2024,Regular Season - 5,18,136,Vitoria,3,0,1,2,3,6,-3,1
+2024,Regular Season - 5,19,144,Atletico Goianiense,4,0,1,3,2,7,-5,1
+2024,Regular Season - 5,20,1193,Cuiaba,3,0,0,3,0,8,-8,0
+2024,Regular Season - 6,1,127,Flamengo,6,3,2,1,7,5,2,11
+2024,Regular Season - 6,2,134,Atletico Paranaense,5,3,1,1,7,3,4,10
+2024,Regular Season - 6,3,118,Bahia,5,3,1,1,8,6,2,10
+2024,Regular Season - 6,4,1062,Atletico-MG,5,2,3,0,9,3,6,9
+2024,Regular Season - 6,5,120,Botafogo,5,3,0,2,11,6,5,9
+2024,Regular Season - 6,6,794,RB Bragantino,5,2,3,0,7,5,2,9
+2024,Regular Season - 6,7,121,Palmeiras,5,2,2,1,3,1,2,8
+2024,Regular Season - 6,8,126,Sao Paulo,5,2,1,2,8,5,3,7
+2024,Regular Season - 6,9,119,Internacional,4,2,1,1,4,3,1,7
+2024,Regular Season - 6,10,135,Cruzeiro,4,2,1,1,7,7,0,7
+2024,Regular Season - 6,11,130,Gremio,4,2,0,2,4,3,1,6
+2024,Regular Season - 6,12,154,Fortaleza EC,4,1,3,0,4,3,1,6
+2024,Regular Season - 6,13,140,Criciuma,3,1,2,0,6,2,4,5
+2024,Regular Season - 6,14,131,Corinthians,6,1,2,3,3,5,-2,5
+2024,Regular Season - 6,15,152,Juventude,4,1,2,1,5,7,-2,5
+2024,Regular Season - 6,16,124,Fluminense,5,1,2,2,7,10,-3,5
+2024,Regular Season - 6,17,133,Vasco DA Gama,5,1,0,4,4,10,-6,3
+2024,Regular Season - 6,18,136,Vitoria,4,0,1,3,4,9,-5,1
+2024,Regular Season - 6,19,144,Atletico Goianiense,4,0,1,3,2,7,-5,1
+2024,Regular Season - 6,20,1193,Cuiaba,4,0,0,4,0,10,-10,0
+2024,Regular Season - 7,1,134,Atletico Paranaense,6,4,1,1,9,3,6,13
+2024,Regular Season - 7,2,118,Bahia,6,4,1,1,9,6,3,13
+2024,Regular Season - 7,3,794,RB Bragantino,7,3,3,1,9,6,3,12
+2024,Regular Season - 7,4,127,Flamengo,6,3,2,1,7,5,2,11
+2024,Regular Season - 7,5,120,Botafogo,6,3,1,2,12,7,5,10
+2024,Regular Season - 7,6,126,Sao Paulo,6,3,1,2,10,6,4,10
+2024,Regular Season - 7,7,135,Cruzeiro,5,3,1,1,8,7,1,10
+2024,Regular Season - 7,8,1062,Atletico-MG,5,2,3,0,9,3,6,9
+2024,Regular Season - 7,9,121,Palmeiras,6,2,2,2,3,3,0,8
+2024,Regular Season - 7,10,119,Internacional,4,2,1,1,4,3,1,7
+2024,Regular Season - 7,11,154,Fortaleza EC,5,1,4,0,5,4,1,7
+2024,Regular Season - 7,12,130,Gremio,5,2,0,3,4,5,-1,6
+2024,Regular Season - 7,13,133,Vasco DA Gama,6,2,0,4,6,11,-5,6
+2024,Regular Season - 7,14,140,Criciuma,3,1,2,0,6,2,4,5
+2024,Regular Season - 7,15,131,Corinthians,6,1,2,3,3,5,-2,5
+2024,Regular Season - 7,16,152,Juventude,4,1,2,1,5,7,-2,5
+2024,Regular Season - 7,17,124,Fluminense,6,1,2,3,8,12,-4,5
+2024,Regular Season - 7,18,136,Vitoria,5,0,1,4,5,11,-6,1
+2024,Regular Season - 7,19,144,Atletico Goianiense,5,0,1,4,2,8,-6,1
+2024,Regular Season - 7,20,1193,Cuiaba,4,0,0,4,0,10,-10,0
+2024,Regular Season - 8,1,127,Flamengo,7,4,2,1,13,6,7,14
+2024,Regular Season - 8,2,118,Bahia,7,4,2,1,10,7,3,14
+2024,Regular Season - 8,3,120,Botafogo,7,4,1,2,13,7,6,13
+2024,Regular Season - 8,4,126,Sao Paulo,7,4,1,2,12,6,6,13
+2024,Regular Season - 8,5,134,Atletico Paranaense,7,4,1,2,9,4,5,13
+2024,Regular Season - 8,6,794,RB Bragantino,7,3,3,1,9,6,3,12
+2024,Regular Season - 8,7,121,Palmeiras,7,3,2,2,5,4,1,11
+2024,Regular Season - 8,8,1062,Atletico-MG,6,2,4,0,10,4,6,10
+2024,Regular Season - 8,9,119,Internacional,5,3,1,1,5,3,2,10
+2024,Regular Season - 8,10,154,Fortaleza EC,6,2,4,0,6,4,2,10
+2024,Regular Season - 8,11,135,Cruzeiro,6,3,1,2,8,9,-1,10
+2024,Regular Season - 8,12,152,Juventude,6,2,3,1,7,8,-1,9
+2024,Regular Season - 8,13,130,Gremio,5,2,0,3,4,5,-1,6
+2024,Regular Season - 8,14,131,Corinthians,8,1,3,4,5,8,-3,6
+2024,Regular Season - 8,15,124,Fluminense,7,1,3,3,9,13,-4,6
+2024,Regular Season - 8,16,133,Vasco DA Gama,7,2,0,5,7,17,-10,6
+2024,Regular Season - 8,17,140,Criciuma,5,1,2,2,9,9,0,5
+2024,Regular Season - 8,18,144,Atletico Goianiense,8,1,2,5,6,11,-5,5
+2024,Regular Season - 8,19,1193,Cuiaba,7,1,1,5,5,13,-8,4
+2024,Regular Season - 8,20,136,Vitoria,7,0,2,5,5,13,-8,2
+2024,Regular Season - 9,1,127,Flamengo,8,5,2,1,15,7,8,17
+2024,Regular Season - 9,2,118,Bahia,8,5,2,1,11,7,4,17
+2024,Regular Season - 9,3,120,Botafogo,8,5,1,2,14,7,7,16
+2024,Regular Season - 9,4,134,Atletico Paranaense,8,5,1,2,12,5,7,16
+2024,Regular Season - 9,5,794,RB Bragantino,9,4,3,2,12,9,3,15
+2024,Regular Season - 9,6,126,Sao Paulo,8,4,2,2,12,6,6,14
+2024,Regular Season - 9,7,121,Palmeiras,8,4,2,2,7,4,3,14
+2024,Regular Season - 9,8,1062,Atletico-MG,7,3,4,0,12,5,7,13
+2024,Regular Season - 9,9,135,Cruzeiro,7,4,1,2,10,10,0,13
+2024,Regular Season - 9,10,119,Internacional,6,3,2,1,5,3,2,11
+2024,Regular Season - 9,11,154,Fortaleza EC,7,2,4,1,6,5,1,10
+2024,Regular Season - 9,12,152,Juventude,8,2,4,2,9,11,-2,10
+2024,Regular Season - 9,13,130,Gremio,6,2,0,4,5,7,-2,6
+2024,Regular Season - 9,14,131,Corinthians,8,1,3,4,5,8,-3,6
+2024,Regular Season - 9,15,124,Fluminense,8,1,3,4,9,14,-5,6
+2024,Regular Season - 9,16,133,Vasco DA Gama,8,2,0,6,7,19,-12,6
+2024,Regular Season - 9,17,140,Criciuma,6,1,2,3,10,12,-2,5
+2024,Regular Season - 9,18,144,Atletico Goianiense,8,1,2,5,6,11,-5,5
+2024,Regular Season - 9,19,1193,Cuiaba,8,1,1,6,6,15,-9,4
+2024,Regular Season - 9,20,136,Vitoria,8,0,3,5,6,14,-8,3
+2024,Regular Season - 10,1,120,Botafogo,10,6,2,2,17,9,8,20
+2024,Regular Season - 10,2,127,Flamengo,9,5,3,1,16,8,8,18
+2024,Regular Season - 10,3,134,Atletico Paranaense,10,5,3,2,14,7,7,18
+2024,Regular Season - 10,4,118,Bahia,9,5,3,1,13,9,4,18
+2024,Regular Season - 10,5,121,Palmeiras,9,5,2,2,11,4,7,17
+2024,Regular Season - 10,6,126,Sao Paulo,9,4,3,2,14,8,6,15
+2024,Regular Season - 10,7,794,RB Bragantino,9,4,3,2,12,9,3,15
+2024,Regular Season - 10,8,135,Cruzeiro,8,4,2,2,10,10,0,14
+2024,Regular Season - 10,9,1062,Atletico-MG,8,3,4,1,12,9,3,13
+2024,Regular Season - 10,10,119,Internacional,7,3,2,2,6,5,1,11
+2024,Regular Season - 10,11,152,Juventude,8,2,4,2,9,11,-2,10
+2024,Regular Season - 10,12,154,Fortaleza EC,8,2,4,2,6,10,-4,10
+2024,Regular Season - 10,13,144,Atletico Goianiense,9,2,2,5,8,12,-4,8
+2024,Regular Season - 10,14,131,Corinthians,9,1,4,4,7,10,-3,7
+2024,Regular Season - 10,15,1193,Cuiaba,9,2,1,6,11,15,-4,7
+2024,Regular Season - 10,16,133,Vasco DA Gama,9,2,1,6,7,19,-12,7
+2024,Regular Season - 10,17,140,Criciuma,7,1,3,3,12,14,-2,6
+2024,Regular Season - 10,18,130,Gremio,7,2,0,5,6,9,-3,6
+2024,Regular Season - 10,19,124,Fluminense,9,1,3,5,10,16,-6,6
+2024,Regular Season - 10,20,136,Vitoria,9,1,3,5,8,15,-7,6
+2024,Regular Season - 11,1,127,Flamengo,10,6,3,1,18,9,9,21
+2024,Regular Season - 11,2,121,Palmeiras,10,6,2,2,13,5,8,20
+2024,Regular Season - 11,3,120,Botafogo,11,6,2,3,18,11,7,20
+2024,Regular Season - 11,4,134,Atletico Paranaense,10,5,3,2,14,7,7,18
+2024,Regular Season - 11,5,118,Bahia,10,5,3,2,14,11,3,18
+2024,Regular Season - 11,6,135,Cruzeiro,9,5,2,2,12,10,2,17
+2024,Regular Season - 11,7,126,Sao Paulo,10,4,3,3,14,9,5,15
+2024,Regular Season - 11,8,794,RB Bragantino,10,4,3,3,13,11,2,15
+2024,Regular Season - 11,9,119,Internacional,8,4,2,2,7,5,2,14
+2024,Regular Season - 11,10,1062,Atletico-MG,9,3,4,2,14,13,1,13
+2024,Regular Season - 11,11,152,Juventude,9,3,4,2,11,11,0,13
+2024,Regular Season - 11,12,154,Fortaleza EC,9,3,4,2,7,10,-3,13
+2024,Regular Season - 11,13,140,Criciuma,9,3,3,3,16,16,0,12
+2024,Regular Season - 11,14,1193,Cuiaba,10,3,1,6,12,15,-3,10
+2024,Regular Season - 11,15,136,Vitoria,10,2,3,5,12,17,-5,9
+2024,Regular Season - 11,16,144,Atletico Goianiense,10,2,2,6,9,14,-5,8
+2024,Regular Season - 11,17,131,Corinthians,10,1,4,5,7,11,-4,7
+2024,Regular Season - 11,18,133,Vasco DA Gama,10,2,1,7,7,21,-14,7
+2024,Regular Season - 11,19,130,Gremio,8,2,0,6,6,10,-4,6
+2024,Regular Season - 11,20,124,Fluminense,10,1,3,6,10,18,-8,6
+2024,Regular Season - 12,1,127,Flamengo,11,7,3,1,19,9,10,24
+2024,Regular Season - 12,2,121,Palmeiras,11,7,2,2,16,6,10,23
+2024,Regular Season - 12,3,120,Botafogo,12,7,2,3,20,12,8,23
+2024,Regular Season - 12,4,118,Bahia,11,6,3,2,18,12,6,21
+2024,Regular Season - 12,5,134,Atletico Paranaense,11,5,4,2,15,8,7,19
+2024,Regular Season - 12,6,794,RB Bragantino,12,5,3,4,16,14,2,18
+2024,Regular Season - 12,7,119,Internacional,9,5,2,2,8,5,3,17
+2024,Regular Season - 12,8,135,Cruzeiro,10,5,2,3,13,14,-1,17
+2024,Regular Season - 12,9,126,Sao Paulo,11,4,3,4,15,13,2,15
+2024,Regular Season - 12,10,1062,Atletico-MG,10,3,5,2,15,14,1,14
+2024,Regular Season - 12,11,154,Fortaleza EC,10,3,5,2,8,11,-3,14
+2024,Regular Season - 12,12,152,Juventude,10,3,4,3,12,14,-2,13
+2024,Regular Season - 12,13,140,Criciuma,9,3,3,3,16,16,0,12
+2024,Regular Season - 12,14,1193,Cuiaba,11,3,2,6,12,15,-3,11
+2024,Regular Season - 12,15,133,Vasco DA Gama,11,3,1,7,11,22,-11,10
+2024,Regular Season - 12,16,144,Atletico Goianiense,11,2,3,6,9,14,-5,9
+2024,Regular Season - 12,17,136,Vitoria,11,2,3,6,13,19,-6,9
+2024,Regular Season - 12,18,131,Corinthians,11,1,5,5,8,12,-4,8
+2024,Regular Season - 12,19,130,Gremio,9,2,0,7,6,11,-5,6
+2024,Regular Season - 12,20,124,Fluminense,11,1,3,7,10,19,-9,6
+2024,Regular Season - 13,1,127,Flamengo,12,7,3,2,20,11,9,24
+2024,Regular Season - 13,2,120,Botafogo,13,7,3,3,21,13,8,24
+2024,Regular Season - 13,3,118,Bahia,12,7,3,2,20,13,7,24
+2024,Regular Season - 13,4,121,Palmeiras,12,7,2,3,16,9,7,23
+2024,Regular Season - 13,5,135,Cruzeiro,11,6,2,3,15,14,1,20
+2024,Regular Season - 13,6,134,Atletico Paranaense,12,5,4,3,15,10,5,19
+2024,Regular Season - 13,7,126,Sao Paulo,12,5,3,4,17,14,3,18
+2024,Regular Season - 13,8,794,RB Bragantino,12,5,3,4,16,14,2,18
+2024,Regular Season - 13,9,119,Internacional,10,5,2,3,9,7,2,17
+2024,Regular Season - 13,10,1062,Atletico-MG,11,4,5,2,17,15,2,17
+2024,Regular Season - 13,11,154,Fortaleza EC,11,4,5,2,11,11,0,17
+2024,Regular Season - 13,12,152,Juventude,11,4,4,3,14,15,-1,16
+2024,Regular Season - 13,13,140,Criciuma,10,3,3,4,17,18,-1,12
+2024,Regular Season - 13,14,1193,Cuiaba,12,3,3,6,13,16,-3,12
+2024,Regular Season - 13,15,136,Vitoria,12,3,3,6,14,19,-5,12
+2024,Regular Season - 13,16,133,Vasco DA Gama,13,3,2,8,13,25,-12,11
+2024,Regular Season - 13,17,144,Atletico Goianiense,12,2,4,6,10,15,-5,10
+2024,Regular Season - 13,18,131,Corinthians,12,1,6,5,9,13,-4,9
+2024,Regular Season - 13,19,130,Gremio,10,2,1,7,7,12,-5,7
+2024,Regular Season - 13,20,124,Fluminense,12,1,3,8,10,20,-10,6
+2024,Regular Season - 14,1,127,Flamengo,13,8,3,2,22,12,10,27
+2024,Regular Season - 14,2,120,Botafogo,14,8,3,3,23,14,9,27
+2024,Regular Season - 14,3,121,Palmeiras,13,8,2,3,18,9,9,26
+2024,Regular Season - 14,4,118,Bahia,13,7,3,3,21,16,5,24
+2024,Regular Season - 14,5,134,Atletico Paranaense,13,6,4,3,16,10,6,22
+2024,Regular Season - 14,6,126,Sao Paulo,13,6,3,4,20,15,5,21
+2024,Regular Season - 14,7,154,Fortaleza EC,12,5,5,2,13,12,1,20
+2024,Regular Season - 14,8,135,Cruzeiro,12,6,2,4,16,16,0,20
+2024,Regular Season - 14,9,794,RB Bragantino,13,5,4,4,17,15,2,19
+2024,Regular Season - 14,10,119,Internacional,11,5,3,3,10,8,2,18
+2024,Regular Season - 14,11,1062,Atletico-MG,12,4,6,2,18,16,2,18
+2024,Regular Season - 14,12,152,Juventude,12,4,4,4,15,17,-2,16
+2024,Regular Season - 14,13,140,Criciuma,11,3,4,4,18,19,-1,13
+2024,Regular Season - 14,14,1193,Cuiaba,14,3,4,7,15,19,-4,13
+2024,Regular Season - 14,15,136,Vitoria,13,3,3,7,14,20,-6,12
+2024,Regular Season - 14,16,144,Atletico Goianiense,13,2,5,6,11,16,-5,11
+2024,Regular Season - 14,17,133,Vasco DA Gama,13,3,2,8,13,25,-12,11
+2024,Regular Season - 14,18,130,Gremio,11,3,1,7,8,12,-4,10
+2024,Regular Season - 14,19,131,Corinthians,13,1,6,6,9,15,-6,9
+2024,Regular Season - 14,20,124,Fluminense,13,1,3,9,10,21,-11,6
+2024,Regular Season - 15,1,127,Flamengo,14,9,3,2,26,14,12,30
+2024,Regular Season - 15,2,120,Botafogo,14,8,3,3,23,14,9,27
+2024,Regular Season - 15,3,121,Palmeiras,14,8,3,3,20,11,9,27
+2024,Regular Season - 15,4,126,Sao Paulo,15,8,3,4,24,16,8,27
+2024,Regular Season - 15,5,118,Bahia,14,8,3,3,23,16,7,27
+2024,Regular Season - 15,6,134,Atletico Paranaense,14,6,4,4,17,12,5,22
+2024,Regular Season - 15,7,794,RB Bragantino,15,6,4,5,20,18,2,22
+2024,Regular Season - 15,8,135,Cruzeiro,13,6,2,5,16,17,-1,20
+2024,Regular Season - 15,9,154,Fortaleza EC,13,5,5,3,13,14,-1,20
+2024,Regular Season - 15,10,119,Internacional,12,5,4,3,11,9,2,19
+2024,Regular Season - 15,11,1062,Atletico-MG,13,4,6,3,20,20,0,18
+2024,Regular Season - 15,12,140,Criciuma,12,4,4,4,19,19,0,16
+2024,Regular Season - 15,13,152,Juventude,13,4,4,5,15,19,-4,16
+2024,Regular Season - 15,14,133,Vasco DA Gama,14,4,2,8,15,25,-10,14
+2024,Regular Season - 15,15,1193,Cuiaba,14,3,4,7,15,19,-4,13
+2024,Regular Season - 15,16,131,Corinthians,14,2,6,6,12,17,-5,12
+2024,Regular Season - 15,17,136,Vitoria,14,3,3,8,16,23,-7,12
+2024,Regular Season - 15,18,130,Gremio,12,3,2,7,10,14,-4,11
+2024,Regular Season - 15,19,144,Atletico Goianiense,14,2,5,7,12,19,-7,11
+2024,Regular Season - 15,20,124,Fluminense,14,1,4,9,11,22,-11,7
+2024,Regular Season - 16,1,127,Flamengo,15,9,4,2,27,15,12,31
+2024,Regular Season - 16,2,120,Botafogo,15,9,3,3,26,14,12,30
+2024,Regular Season - 16,3,121,Palmeiras,15,9,3,3,22,11,11,30
+2024,Regular Season - 16,4,126,Sao Paulo,15,8,3,4,24,16,8,27
+2024,Regular Season - 16,5,118,Bahia,15,8,3,4,23,18,5,27
+2024,Regular Season - 16,6,135,Cruzeiro,15,8,2,5,21,17,4,26
+2024,Regular Season - 16,7,134,Atletico Paranaense,15,7,4,4,19,13,6,25
+2024,Regular Season - 16,8,154,Fortaleza EC,14,6,5,3,14,14,0,23
+2024,Regular Season - 16,9,794,RB Bragantino,15,6,4,5,20,18,2,22
+2024,Regular Season - 16,10,119,Internacional,13,5,4,4,12,11,1,19
+2024,Regular Season - 16,11,152,Juventude,14,5,4,5,18,19,-1,19
+2024,Regular Season - 16,12,1062,Atletico-MG,14,4,6,4,20,23,-3,18
+2024,Regular Season - 16,13,133,Vasco DA Gama,15,5,2,8,17,26,-9,17
+2024,Regular Season - 16,14,140,Criciuma,13,4,4,5,20,21,-1,16
+2024,Regular Season - 16,15,136,Vitoria,15,4,3,8,18,24,-6,15
+2024,Regular Season - 16,16,1193,Cuiaba,15,3,5,7,16,20,-4,14
+2024,Regular Season - 16,17,131,Corinthians,15,2,6,7,12,20,-8,12
+2024,Regular Season - 16,18,144,Atletico Goianiense,15,2,5,8,13,21,-8,11
+2024,Regular Season - 16,19,130,Gremio,14,3,2,9,10,19,-9,11
+2024,Regular Season - 16,20,124,Fluminense,15,1,4,10,11,23,-12,7
+2024,Regular Season - 17,1,120,Botafogo,16,10,3,3,27,14,13,33
+2024,Regular Season - 17,2,121,Palmeiras,16,10,3,3,25,12,13,33
+2024,Regular Season - 17,3,127,Flamengo,16,9,4,3,28,17,11,31
+2024,Regular Season - 17,4,118,Bahia,17,9,3,5,27,21,6,30
+2024,Regular Season - 17,5,126,Sao Paulo,16,8,3,5,25,18,7,27
+2024,Regular Season - 17,6,135,Cruzeiro,15,8,2,5,21,17,4,26
+2024,Regular Season - 17,7,154,Fortaleza EC,15,7,5,3,16,15,1,26
+2024,Regular Season - 17,8,134,Atletico Paranaense,16,7,4,5,20,16,4,25
+2024,Regular Season - 17,9,794,RB Bragantino,15,6,4,5,20,18,2,22
+2024,Regular Season - 17,10,1062,Atletico-MG,15,5,6,4,22,24,-2,21
+2024,Regular Season - 17,11,133,Vasco DA Gama,16,6,2,8,19,26,-7,20
+2024,Regular Season - 17,12,119,Internacional,13,5,4,4,12,11,1,19
+2024,Regular Season - 17,13,152,Juventude,14,5,4,5,18,19,-1,19
+2024,Regular Season - 17,14,140,Criciuma,14,4,5,5,21,22,-1,17
+2024,Regular Season - 17,15,1193,Cuiaba,16,4,5,7,18,21,-3,17
+2024,Regular Season - 17,16,136,Vitoria,16,4,3,9,18,25,-7,15
+2024,Regular Season - 17,17,131,Corinthians,16,2,6,8,12,22,-10,12
+2024,Regular Season - 17,18,130,Gremio,14,3,2,9,10,19,-9,11
+2024,Regular Season - 17,19,144,Atletico Goianiense,16,2,5,9,14,24,-10,11
+2024,Regular Season - 17,20,124,Fluminense,16,1,5,10,12,24,-12,8
+2024,Regular Season - 18,1,120,Botafogo,17,11,3,3,28,14,14,36
+2024,Regular Season - 18,2,127,Flamengo,17,10,4,3,30,18,12,34
+2024,Regular Season - 18,3,121,Palmeiras,17,10,3,4,25,13,12,33
+2024,Regular Season - 18,4,126,Sao Paulo,17,9,3,5,26,18,8,30
+2024,Regular Season - 18,5,118,Bahia,17,9,3,5,27,21,6,30
+2024,Regular Season - 18,6,135,Cruzeiro,16,9,2,5,23,18,5,29
+2024,Regular Season - 18,7,154,Fortaleza EC,16,8,5,3,19,16,3,29
+2024,Regular Season - 18,8,134,Atletico Paranaense,16,7,4,5,20,16,4,25
+2024,Regular Season - 18,9,133,Vasco DA Gama,17,7,2,8,20,26,-6,23
+2024,Regular Season - 18,10,794,RB Bragantino,16,6,4,6,21,20,1,22
+2024,Regular Season - 18,11,1062,Atletico-MG,16,5,7,4,23,25,-2,22
+2024,Regular Season - 18,12,152,Juventude,15,5,5,5,19,20,-1,20
+2024,Regular Season - 18,13,119,Internacional,13,5,4,4,12,11,1,19
+2024,Regular Season - 18,14,140,Criciuma,16,4,5,7,23,26,-3,17
+2024,Regular Season - 18,15,1193,Cuiaba,16,4,5,7,18,21,-3,17
+2024,Regular Season - 18,16,131,Corinthians,17,3,6,8,14,23,-9,15
+2024,Regular Season - 18,17,136,Vitoria,17,4,3,10,19,28,-9,15
+2024,Regular Season - 18,18,130,Gremio,15,3,2,10,10,20,-10,11
+2024,Regular Season - 18,19,144,Atletico Goianiense,17,2,5,10,14,25,-11,11
+2024,Regular Season - 18,20,124,Fluminense,16,1,5,10,12,24,-12,8
+2024,Regular Season - 19,1,120,Botafogo,18,12,3,3,29,14,15,39
+2024,Regular Season - 19,2,121,Palmeiras,18,11,3,4,27,13,14,36
+2024,Regular Season - 19,3,127,Flamengo,17,10,4,3,30,18,12,34
+2024,Regular Season - 19,4,135,Cruzeiro,18,10,2,6,25,20,5,32
+2024,Regular Season - 19,5,154,Fortaleza EC,17,9,5,3,22,17,5,32
+2024,Regular Season - 19,6,126,Sao Paulo,18,9,4,5,26,18,8,31
+2024,Regular Season - 19,7,118,Bahia,18,9,3,6,27,22,5,30
+2024,Regular Season - 19,8,134,Atletico Paranaense,17,7,4,6,20,17,3,25
+2024,Regular Season - 19,9,794,RB Bragantino,17,7,4,6,22,20,2,25
+2024,Regular Season - 19,10,1062,Atletico-MG,17,6,7,4,25,25,0,25
+2024,Regular Season - 19,11,133,Vasco DA Gama,18,7,2,9,20,28,-8,23
+2024,Regular Season - 19,12,152,Juventude,17,5,6,6,19,22,-3,21
+2024,Regular Season - 19,13,119,Internacional,14,5,4,5,12,12,0,19
+2024,Regular Season - 19,14,131,Corinthians,18,4,6,8,15,23,-8,18
+2024,Regular Season - 19,15,140,Criciuma,16,4,5,7,23,26,-3,17
+2024,Regular Season - 19,16,1193,Cuiaba,17,4,5,8,18,22,-4,17
+2024,Regular Season - 19,17,136,Vitoria,18,4,3,11,19,30,-11,15
+2024,Regular Season - 19,18,130,Gremio,16,4,2,10,12,20,-8,14
+2024,Regular Season - 19,19,124,Fluminense,17,2,5,10,13,24,-11,11
+2024,Regular Season - 19,20,144,Atletico Goianiense,18,2,5,11,15,28,-13,11
+2024,Regular Season - 20,1,120,Botafogo,19,12,4,3,31,16,15,40
+2024,Regular Season - 20,2,127,Flamengo,18,11,4,3,32,19,13,37
+2024,Regular Season - 20,3,121,Palmeiras,20,11,3,6,27,16,11,36
+2024,Regular Season - 20,4,154,Fortaleza EC,18,9,6,3,23,18,5,33
+2024,Regular Season - 20,5,126,Sao Paulo,19,9,5,5,28,20,8,32
+2024,Regular Season - 20,6,135,Cruzeiro,18,10,2,6,25,20,5,32
+2024,Regular Season - 20,7,118,Bahia,19,9,4,6,28,23,5,31
+2024,Regular Season - 20,8,134,Atletico Paranaense,17,7,4,6,20,17,3,25
+2024,Regular Season - 20,9,794,RB Bragantino,17,7,4,6,22,20,2,25
+2024,Regular Season - 20,10,1062,Atletico-MG,17,6,7,4,25,25,0,25
+2024,Regular Season - 20,11,133,Vasco DA Gama,18,7,2,9,20,28,-8,23
+2024,Regular Season - 20,12,152,Juventude,17,5,6,6,19,22,-3,21
+2024,Regular Season - 20,13,119,Internacional,14,5,4,5,12,12,0,19
+2024,Regular Season - 20,14,131,Corinthians,19,4,7,8,17,25,-8,19
+2024,Regular Season - 20,15,140,Criciuma,17,4,6,7,24,27,-3,18
+2024,Regular Season - 20,16,136,Vitoria,20,5,3,12,22,32,-10,18
+2024,Regular Season - 20,17,1193,Cuiaba,17,4,5,8,18,22,-4,17
+2024,Regular Season - 20,18,130,Gremio,17,4,3,10,14,22,-8,15
+2024,Regular Season - 20,19,124,Fluminense,18,3,5,10,14,24,-10,14
+2024,Regular Season - 20,20,144,Atletico Goianiense,19,2,6,11,16,29,-13,12
+2024,Regular Season - 21,1,127,Flamengo,19,12,4,3,34,19,15,40
+2024,Regular Season - 21,2,120,Botafogo,20,12,4,4,31,19,12,40
+2024,Regular Season - 21,3,121,Palmeiras,20,11,3,6,27,16,11,36
+2024,Regular Season - 21,4,154,Fortaleza EC,19,10,6,3,24,18,6,36
+2024,Regular Season - 21,5,135,Cruzeiro,19,11,2,6,28,20,8,35
+2024,Regular Season - 21,6,126,Sao Paulo,20,9,5,6,28,21,7,32
+2024,Regular Season - 21,7,118,Bahia,20,9,5,6,29,24,5,32
+2024,Regular Season - 21,8,134,Atletico Paranaense,18,8,4,6,22,18,4,28
+2024,Regular Season - 21,9,1062,Atletico-MG,18,7,7,4,27,26,1,28
+2024,Regular Season - 21,10,794,RB Bragantino,18,7,4,7,22,21,1,25
+2024,Regular Season - 21,11,133,Vasco DA Gama,19,7,2,10,20,29,-9,23
+2024,Regular Season - 21,12,140,Criciuma,18,5,6,7,26,28,-2,21
+2024,Regular Season - 21,13,152,Juventude,18,5,6,7,20,24,-4,21
+2024,Regular Season - 21,14,136,Vitoria,21,6,3,12,23,32,-9,21
+2024,Regular Season - 21,15,119,Internacional,15,5,5,5,13,13,0,20
+2024,Regular Season - 21,16,131,Corinthians,20,4,7,9,18,27,-9,19
+2024,Regular Season - 21,17,130,Gremio,18,5,3,10,15,22,-7,18
+2024,Regular Season - 21,18,1193,Cuiaba,19,4,5,10,19,25,-6,17
+2024,Regular Season - 21,19,124,Fluminense,19,4,5,10,15,24,-9,17
+2024,Regular Season - 21,20,144,Atletico Goianiense,20,2,6,12,16,31,-15,12
+2024,Regular Season - 22,1,120,Botafogo,21,13,4,4,35,20,15,43
+2024,Regular Season - 22,2,154,Fortaleza EC,21,12,6,3,27,19,8,42
+2024,Regular Season - 22,3,127,Flamengo,20,12,4,4,34,20,14,40
+2024,Regular Season - 22,4,121,Palmeiras,21,11,4,6,28,17,11,37
+2024,Regular Season - 22,5,126,Sao Paulo,21,10,5,6,29,21,8,35
+2024,Regular Season - 22,6,135,Cruzeiro,20,11,2,7,29,22,7,35
+2024,Regular Season - 22,7,118,Bahia,21,9,5,7,29,25,4,32
+2024,Regular Season - 22,8,134,Atletico Paranaense,19,8,4,7,22,20,2,28
+2024,Regular Season - 22,9,1062,Atletico-MG,19,7,7,5,28,28,0,28
+2024,Regular Season - 22,10,794,RB Bragantino,19,7,5,7,24,23,1,26
+2024,Regular Season - 22,11,140,Criciuma,20,6,6,8,28,30,-2,24
+2024,Regular Season - 22,12,133,Vasco DA Gama,20,7,3,10,22,31,-9,24
+2024,Regular Season - 22,13,152,Juventude,19,5,7,7,21,25,-4,22
+2024,Regular Season - 22,14,119,Internacional,16,5,6,5,14,14,0,21
+2024,Regular Season - 22,15,130,Gremio,19,6,3,10,17,22,-5,21
+2024,Regular Season - 22,16,136,Vitoria,21,6,3,12,23,32,-9,21
+2024,Regular Season - 22,17,124,Fluminense,20,5,5,10,16,24,-8,20
+2024,Regular Season - 22,18,131,Corinthians,21,4,8,9,19,28,-9,20
+2024,Regular Season - 22,19,1193,Cuiaba,19,4,5,10,19,25,-6,17
+2024,Regular Season - 22,20,144,Atletico Goianiense,21,2,6,13,17,35,-18,12
+2024,Regular Season - 23,1,120,Botafogo,22,13,4,5,37,23,14,43
+2024,Regular Season - 23,2,154,Fortaleza EC,21,12,6,3,27,19,8,42
+2024,Regular Season - 23,3,127,Flamengo,21,12,5,4,35,21,14,41
+2024,Regular Season - 23,4,121,Palmeiras,22,11,5,6,29,18,11,38
+2024,Regular Season - 23,5,126,Sao Paulo,22,11,5,6,30,21,9,38
+2024,Regular Season - 23,6,118,Bahia,23,11,5,7,33,25,8,38
+2024,Regular Season - 23,7,135,Cruzeiro,21,11,3,7,29,22,7,36
+2024,Regular Season - 23,8,134,Atletico Paranaense,20,8,5,7,24,22,2,29
+2024,Regular Season - 23,9,1062,Atletico-MG,20,7,8,5,28,28,0,29
+2024,Regular Season - 23,10,794,RB Bragantino,20,7,6,7,25,24,1,27
+2024,Regular Season - 23,11,133,Vasco DA Gama,21,8,3,10,24,31,-7,27
+2024,Regular Season - 23,12,119,Internacional,18,6,7,5,18,17,1,25
+2024,Regular Season - 23,13,152,Juventude,21,6,7,8,25,29,-4,25
+2024,Regular Season - 23,14,140,Criciuma,20,6,6,8,28,30,-2,24
+2024,Regular Season - 23,15,130,Gremio,21,7,3,11,20,25,-5,24
+2024,Regular Season - 23,16,131,Corinthians,22,4,9,9,20,29,-9,21
+2024,Regular Season - 23,17,136,Vitoria,22,6,3,13,23,34,-11,21
+2024,Regular Season - 23,18,124,Fluminense,21,5,5,11,16,26,-10,20
+2024,Regular Season - 23,19,1193,Cuiaba,20,4,5,11,20,28,-8,17
+2024,Regular Season - 23,20,144,Atletico Goianiense,22,2,6,14,17,36,-19,12
+2024,Regular Season - 24,1,120,Botafogo,23,14,4,5,41,24,17,46
+2024,Regular Season - 24,2,154,Fortaleza EC,22,13,6,3,29,20,9,45
+2024,Regular Season - 24,3,121,Palmeiras,23,12,5,6,31,19,12,41
+2024,Regular Season - 24,4,127,Flamengo,22,12,5,5,36,25,11,41
+2024,Regular Season - 24,5,118,Bahia,23,11,5,7,33,25,8,38
+2024,Regular Season - 24,6,126,Sao Paulo,23,11,5,7,31,23,8,38
+2024,Regular Season - 24,7,135,Cruzeiro,22,11,4,7,31,24,7,37
+2024,Regular Season - 24,8,1062,Atletico-MG,21,7,9,5,29,29,0,30
+2024,Regular Season - 24,9,134,Atletico Paranaense,21,8,5,8,25,24,1,29
+2024,Regular Season - 24,10,152,Juventude,23,7,7,9,28,32,-4,28
+2024,Regular Season - 24,11,133,Vasco DA Gama,22,8,4,10,26,33,-7,28
+2024,Regular Season - 24,12,794,RB Bragantino,21,7,6,8,26,26,0,27
+2024,Regular Season - 24,13,119,Internacional,19,6,7,6,18,18,0,25
+2024,Regular Season - 24,14,140,Criciuma,21,6,7,8,30,32,-2,25
+2024,Regular Season - 24,15,130,Gremio,21,7,3,11,20,25,-5,24
+2024,Regular Season - 24,16,131,Corinthians,23,4,10,9,20,29,-9,22
+2024,Regular Season - 24,17,136,Vitoria,23,6,4,13,25,36,-11,22
+2024,Regular Season - 24,18,124,Fluminense,22,5,6,11,16,26,-10,21
+2024,Regular Season - 24,19,1193,Cuiaba,21,4,6,11,21,29,-8,18
+2024,Regular Season - 24,20,144,Atletico Goianiense,24,4,6,14,20,37,-17,18
+2024,Regular Season - 25,1,154,Fortaleza EC,23,14,6,3,30,20,10,48
+2024,Regular Season - 25,2,120,Botafogo,24,14,5,5,41,24,17,47
+2024,Regular Season - 25,3,121,Palmeiras,24,13,5,6,36,19,17,44
+2024,Regular Season - 25,4,127,Flamengo,23,13,5,5,38,26,12,44
+2024,Regular Season - 25,5,126,Sao Paulo,24,12,5,7,33,24,9,41
+2024,Regular Season - 25,6,118,Bahia,24,11,6,7,33,25,8,39
+2024,Regular Season - 25,7,135,Cruzeiro,24,11,5,8,31,25,6,38
+2024,Regular Season - 25,8,133,Vasco DA Gama,23,9,4,10,28,34,-6,31
+2024,Regular Season - 25,9,1062,Atletico-MG,22,7,9,6,29,31,-2,30
+2024,Regular Season - 25,10,119,Internacional,21,7,8,6,19,18,1,29
+2024,Regular Season - 25,11,134,Atletico Paranaense,22,8,5,9,26,26,0,29
+2024,Regular Season - 25,12,140,Criciuma,24,7,7,10,32,35,-3,28
+2024,Regular Season - 25,13,152,Juventude,23,7,7,9,28,32,-4,28
+2024,Regular Season - 25,14,794,RB Bragantino,23,7,6,10,27,29,-2,27
+2024,Regular Season - 25,15,130,Gremio,22,8,3,11,21,25,-4,27
+2024,Regular Season - 25,16,124,Fluminense,23,6,6,11,18,26,-8,24
+2024,Regular Season - 25,17,131,Corinthians,24,4,10,10,20,30,-10,22
+2024,Regular Season - 25,18,136,Vitoria,24,6,4,14,26,38,-12,22
+2024,Regular Season - 25,19,1193,Cuiaba,23,5,6,12,23,35,-12,21
+2024,Regular Season - 25,20,144,Atletico Goianiense,24,4,6,14,20,37,-17,18
+2024,Regular Season - 26,1,120,Botafogo,25,15,5,5,43,24,19,50
+2024,Regular Season - 26,2,154,Fortaleza EC,25,14,6,5,31,24,7,48
+2024,Regular Season - 26,3,121,Palmeiras,25,14,5,6,38,19,19,47
+2024,Regular Season - 26,4,127,Flamengo,24,13,5,6,39,28,11,44
+2024,Regular Season - 26,5,135,Cruzeiro,25,12,5,8,34,26,8,41
+2024,Regular Season - 26,6,126,Sao Paulo,25,12,5,8,33,26,7,41
+2024,Regular Season - 26,7,118,Bahia,25,11,6,8,34,27,7,39
+2024,Regular Season - 26,8,119,Internacional,23,9,8,6,24,20,4,35
+2024,Regular Season - 26,9,133,Vasco DA Gama,24,10,4,10,29,34,-5,34
+2024,Regular Season - 26,10,1062,Atletico-MG,23,8,9,6,32,33,-1,33
+2024,Regular Season - 26,11,794,RB Bragantino,24,8,6,10,29,30,-1,30
+2024,Regular Season - 26,12,134,Atletico Paranaense,23,8,5,10,26,28,-2,29
+2024,Regular Season - 26,13,152,Juventude,25,7,8,10,29,35,-6,29
+2024,Regular Season - 26,14,140,Criciuma,24,7,7,10,32,35,-3,28
+2024,Regular Season - 26,15,130,Gremio,23,8,3,12,23,28,-5,27
+2024,Regular Season - 26,16,124,Fluminense,24,7,6,11,20,26,-6,27
+2024,Regular Season - 26,17,131,Corinthians,25,5,10,10,22,31,-9,25
+2024,Regular Season - 26,18,136,Vitoria,26,7,4,15,28,39,-11,25
+2024,Regular Season - 26,19,1193,Cuiaba,24,5,7,12,23,35,-12,22
+2024,Regular Season - 26,20,144,Atletico Goianiense,26,4,6,16,21,42,-21,18
+2024,Regular Season - 27,1,120,Botafogo,26,16,5,5,45,25,20,53
+2024,Regular Season - 27,2,121,Palmeiras,26,15,5,6,43,19,24,50
+2024,Regular Season - 27,3,154,Fortaleza EC,26,14,7,5,32,25,7,49
+2024,Regular Season - 27,4,127,Flamengo,25,13,6,6,40,29,11,45
+2024,Regular Season - 27,5,126,Sao Paulo,26,13,5,8,34,26,8,44
+2024,Regular Season - 27,6,118,Bahia,26,12,6,8,37,27,10,42
+2024,Regular Season - 27,7,135,Cruzeiro,26,12,5,9,34,27,7,41
+2024,Regular Season - 27,8,119,Internacional,24,10,8,6,27,20,7,38
+2024,Regular Season - 27,9,133,Vasco DA Gama,25,10,5,10,30,35,-5,35
+2024,Regular Season - 27,10,1062,Atletico-MG,24,8,9,7,32,36,-4,33
+2024,Regular Season - 27,11,152,Juventude,26,8,8,10,31,36,-5,32
+2024,Regular Season - 27,12,794,RB Bragantino,25,8,7,10,31,32,-1,31
+2024,Regular Season - 27,13,134,Atletico Paranaense,24,8,6,10,27,29,-2,30
+2024,Regular Season - 27,14,130,Gremio,24,8,4,12,25,30,-5,28
+2024,Regular Season - 27,15,131,Corinthians,27,6,10,11,26,33,-7,28
+2024,Regular Season - 27,16,140,Criciuma,25,7,7,11,32,40,-8,28
+2024,Regular Season - 27,17,124,Fluminense,25,7,6,12,21,28,-7,27
+2024,Regular Season - 27,18,136,Vitoria,26,7,4,15,28,39,-11,25
+2024,Regular Season - 27,19,1193,Cuiaba,25,5,7,13,23,38,-15,22
+2024,Regular Season - 27,20,144,Atletico Goianiense,27,4,6,17,21,45,-24,18
+2024,Regular Season - 28,1,121,Palmeiras,28,17,5,6,46,20,26,56
+2024,Regular Season - 28,2,120,Botafogo,27,17,5,5,46,25,21,56
+2024,Regular Season - 28,3,154,Fortaleza EC,27,15,7,5,36,26,10,52
+2024,Regular Season - 28,4,127,Flamengo,26,13,6,7,42,32,10,45
+2024,Regular Season - 28,5,126,Sao Paulo,27,13,5,9,35,29,6,44
+2024,Regular Season - 28,6,119,Internacional,26,11,9,6,32,23,9,42
+2024,Regular Season - 28,7,118,Bahia,27,12,6,9,38,31,7,42
+2024,Regular Season - 28,8,135,Cruzeiro,27,12,6,9,34,27,7,42
+2024,Regular Season - 28,9,1062,Atletico-MG,26,9,9,8,36,38,-2,36
+2024,Regular Season - 28,10,133,Vasco DA Gama,26,10,5,11,30,36,-6,35
+2024,Regular Season - 28,11,794,RB Bragantino,27,8,8,11,33,37,-4,32
+2024,Regular Season - 28,12,152,Juventude,27,8,8,11,31,37,-6,32
+2024,Regular Season - 28,13,140,Criciuma,27,8,8,11,34,41,-7,32
+2024,Regular Season - 28,14,134,Atletico Paranaense,25,8,7,10,27,29,-2,31
+2024,Regular Season - 28,15,130,Gremio,26,9,4,13,29,34,-5,31
+2024,Regular Season - 28,16,131,Corinthians,27,6,10,11,26,33,-7,28
+2024,Regular Season - 28,17,136,Vitoria,27,8,4,15,29,39,-10,28
+2024,Regular Season - 28,18,124,Fluminense,26,7,6,13,21,29,-8,27
+2024,Regular Season - 28,19,1193,Cuiaba,26,5,8,13,23,38,-15,23
+2024,Regular Season - 28,20,144,Atletico Goianiense,27,4,6,17,21,45,-24,18
+2024,Regular Season - 29,1,120,Botafogo,28,17,6,5,46,25,21,57
+2024,Regular Season - 29,2,121,Palmeiras,28,17,5,6,46,20,26,56
+2024,Regular Season - 29,3,154,Fortaleza EC,28,16,7,5,37,26,11,55
+2024,Regular Season - 29,4,127,Flamengo,27,14,6,7,43,32,11,48
+2024,Regular Season - 29,5,126,Sao Paulo,28,14,5,9,38,30,8,47
+2024,Regular Season - 29,6,119,Internacional,27,12,9,6,35,24,11,45
+2024,Regular Season - 29,7,118,Bahia,28,13,6,9,39,31,8,45
+2024,Regular Season - 29,8,135,Cruzeiro,28,12,7,9,35,28,7,43
+2024,Regular Season - 29,9,1062,Atletico-MG,26,9,9,8,36,38,-2,36
+2024,Regular Season - 29,10,133,Vasco DA Gama,27,10,6,11,31,37,-6,36
+2024,Regular Season - 29,11,140,Criciuma,29,9,8,12,36,42,-6,35
+2024,Regular Season - 29,12,794,RB Bragantino,28,8,9,11,34,38,-4,33
+2024,Regular Season - 29,13,152,Juventude,28,8,9,11,32,38,-6,33
+2024,Regular Season - 29,14,130,Gremio,27,9,5,13,29,34,-5,32
+2024,Regular Season - 29,15,134,Atletico Paranaense,26,8,7,11,27,30,-3,31
+2024,Regular Season - 29,16,131,Corinthians,28,6,10,12,27,36,-9,28
+2024,Regular Season - 29,17,136,Vitoria,28,8,4,16,30,42,-12,28
+2024,Regular Season - 29,18,124,Fluminense,27,7,6,14,21,30,-9,27
+2024,Regular Season - 29,19,1193,Cuiaba,27,5,8,14,23,39,-16,23
+2024,Regular Season - 29,20,144,Atletico Goianiense,29,5,6,18,22,47,-25,21
+2024,Regular Season - 30,1,120,Botafogo,29,18,6,5,47,25,22,60
+2024,Regular Season - 30,2,121,Palmeiras,29,17,6,6,46,20,26,57
+2024,Regular Season - 30,3,154,Fortaleza EC,29,16,7,6,38,29,9,55
+2024,Regular Season - 30,4,127,Flamengo,28,15,6,7,45,32,13,51
+2024,Regular Season - 30,5,126,Sao Paulo,30,15,5,10,41,32,9,50
+2024,Regular Season - 30,6,119,Internacional,28,12,10,6,37,26,11,46
+2024,Regular Season - 30,7,118,Bahia,29,13,6,10,39,33,6,45
+2024,Regular Season - 30,8,135,Cruzeiro,29,12,7,10,35,29,6,43
+2024,Regular Season - 30,9,1062,Atletico-MG,28,10,10,8,40,41,-1,40
+2024,Regular Season - 30,10,133,Vasco DA Gama,29,10,7,12,32,41,-9,37
+2024,Regular Season - 30,11,130,Gremio,29,10,5,14,33,37,-4,35
+2024,Regular Season - 30,12,140,Criciuma,29,9,8,12,36,42,-6,35
+2024,Regular Season - 30,13,794,RB Bragantino,29,8,10,11,34,38,-4,34
+2024,Regular Season - 30,14,152,Juventude,29,8,10,11,33,39,-6,34
+2024,Regular Season - 30,15,134,Atletico Paranaense,27,8,7,12,27,31,-4,31
+2024,Regular Season - 30,16,124,Fluminense,28,8,6,14,22,30,-8,30
+2024,Regular Season - 30,17,131,Corinthians,29,6,11,12,29,38,-9,29
+2024,Regular Season - 30,18,136,Vitoria,29,8,5,16,32,44,-12,29
+2024,Regular Season - 30,19,1193,Cuiaba,28,6,8,14,25,39,-14,26
+2024,Regular Season - 30,20,144,Atletico Goianiense,29,5,6,18,22,47,-25,21
+2024,Regular Season - 31,1,121,Palmeiras,31,18,7,6,53,25,28,61
+2024,Regular Season - 31,2,120,Botafogo,30,18,7,5,48,26,22,61
+2024,Regular Season - 31,3,154,Fortaleza EC,31,16,9,6,41,32,9,57
+2024,Regular Season - 31,4,127,Flamengo,29,15,6,8,45,34,11,51
+2024,Regular Season - 31,5,126,Sao Paulo,30,15,5,10,41,32,9,50
+2024,Regular Season - 31,6,119,Internacional,29,13,10,6,38,26,12,49
+2024,Regular Season - 31,7,118,Bahia,30,13,7,10,40,34,6,46
+2024,Regular Season - 31,8,135,Cruzeiro,30,12,8,10,36,30,6,44
+2024,Regular Season - 31,9,1062,Atletico-MG,29,10,11,8,41,42,-1,41
+2024,Regular Season - 31,10,133,Vasco DA Gama,30,11,7,12,33,41,-8,40
+2024,Regular Season - 31,11,124,Fluminense,30,10,6,14,25,30,-5,36
+2024,Regular Season - 31,12,140,Criciuma,30,9,9,12,37,43,-6,36
+2024,Regular Season - 31,13,130,Gremio,30,10,5,15,33,38,-5,35
+2024,Regular Season - 31,14,794,RB Bragantino,30,8,10,12,34,39,-5,34
+2024,Regular Season - 31,15,152,Juventude,30,8,10,12,36,44,-8,34
+2024,Regular Season - 31,16,131,Corinthians,30,7,11,12,34,40,-6,32
+2024,Regular Season - 31,17,136,Vitoria,30,9,5,16,33,44,-11,32
+2024,Regular Season - 31,18,134,Atletico Paranaense,29,8,7,14,29,37,-8,31
+2024,Regular Season - 31,19,1193,Cuiaba,30,6,9,15,25,40,-15,27
+2024,Regular Season - 31,20,144,Atletico Goianiense,30,5,7,18,22,47,-25,22
+2024,Regular Season - 32,1,120,Botafogo,31,19,7,5,49,26,23,64
+2024,Regular Season - 32,2,121,Palmeiras,31,18,7,6,53,25,28,61
+2024,Regular Season - 32,3,154,Fortaleza EC,31,16,9,6,41,32,9,57
+2024,Regular Season - 32,4,127,Flamengo,31,16,7,8,50,37,13,55
+2024,Regular Season - 32,5,119,Internacional,31,14,11,6,42,28,14,53
+2024,Regular Season - 32,6,126,Sao Paulo,31,15,6,10,42,33,9,51
+2024,Regular Season - 32,7,118,Bahia,31,13,7,11,42,37,5,46
+2024,Regular Season - 32,8,135,Cruzeiro,31,12,8,11,36,33,3,44
+2024,Regular Season - 32,9,133,Vasco DA Gama,31,12,7,12,36,43,-7,43
+2024,Regular Season - 32,10,1062,Atletico-MG,30,10,11,9,42,45,-3,41
+2024,Regular Season - 32,11,130,Gremio,32,11,6,15,38,41,-3,39
+2024,Regular Season - 32,12,124,Fluminense,32,10,7,15,28,34,-6,37
+2024,Regular Season - 32,13,140,Criciuma,31,9,10,12,38,44,-6,37
+2024,Regular Season - 32,14,131,Corinthians,31,8,11,12,35,40,-5,35
+2024,Regular Season - 32,15,136,Vitoria,31,10,5,16,35,45,-10,35
+2024,Regular Season - 32,16,134,Atletico Paranaense,30,9,7,14,32,37,-5,34
+2024,Regular Season - 32,17,794,RB Bragantino,31,8,10,13,34,40,-6,34
+2024,Regular Season - 32,18,152,Juventude,31,8,10,13,38,48,-10,34
+2024,Regular Season - 32,19,1193,Cuiaba,31,6,9,16,25,41,-16,27
+2024,Regular Season - 32,20,144,Atletico Goianiense,31,5,7,19,23,50,-27,22
+2024,Regular Season - 33,1,120,Botafogo,32,20,7,5,52,26,26,67
+2024,Regular Season - 33,2,121,Palmeiras,32,18,7,7,53,27,26,61
+2024,Regular Season - 33,3,154,Fortaleza EC,32,17,9,6,44,32,12,60
+2024,Regular Season - 33,4,119,Internacional,33,16,11,6,46,28,18,59
+2024,Regular Season - 33,5,127,Flamengo,32,17,7,8,51,37,14,58
+2024,Regular Season - 33,6,126,Sao Paulo,32,16,6,10,45,33,12,54
+2024,Regular Season - 33,7,118,Bahia,32,13,7,12,42,40,2,46
+2024,Regular Season - 33,8,135,Cruzeiro,32,12,8,12,36,34,2,44
+2024,Regular Season - 33,9,133,Vasco DA Gama,32,12,7,13,36,46,-10,43
+2024,Regular Season - 33,10,1062,Atletico-MG,31,10,11,10,42,46,-4,41
+2024,Regular Season - 33,11,130,Gremio,32,11,6,15,38,41,-3,39
+2024,Regular Season - 33,12,131,Corinthians,32,9,11,12,37,40,-3,38
+2024,Regular Season - 33,13,136,Vitoria,32,11,5,16,37,46,-9,38
+2024,Regular Season - 33,14,124,Fluminense,33,10,7,16,28,36,-8,37
+2024,Regular Season - 33,15,140,Criciuma,32,9,10,13,38,46,-8,37
+2024,Regular Season - 33,16,794,RB Bragantino,32,8,11,13,34,40,-6,35
+2024,Regular Season - 33,17,134,Atletico Paranaense,31,9,7,15,33,39,-6,34
+2024,Regular Season - 33,18,152,Juventude,32,8,10,14,38,51,-13,34
+2024,Regular Season - 33,19,1193,Cuiaba,32,6,10,16,25,41,-16,28
+2024,Regular Season - 33,20,144,Atletico Goianiense,32,6,7,19,24,50,-26,25
+2024,Regular Season - 34,1,120,Botafogo,33,20,8,5,52,26,26,68
+2024,Regular Season - 34,2,121,Palmeiras,33,19,7,7,54,27,27,64
+2024,Regular Season - 34,3,154,Fortaleza EC,33,18,9,6,47,32,15,63
+2024,Regular Season - 34,4,119,Internacional,33,16,11,6,46,28,18,59
+2024,Regular Season - 34,5,127,Flamengo,33,17,8,8,51,37,14,59
+2024,Regular Season - 34,6,126,Sao Paulo,33,17,6,10,47,34,13,57
+2024,Regular Season - 34,7,135,Cruzeiro,34,13,8,13,39,37,2,47
+2024,Regular Season - 34,8,118,Bahia,33,13,7,13,43,42,1,46
+2024,Regular Season - 34,9,131,Corinthians,34,11,11,12,41,42,-1,44
+2024,Regular Season - 34,10,133,Vasco DA Gama,33,12,7,14,36,49,-13,43
+2024,Regular Season - 34,11,1062,Atletico-MG,33,10,12,11,42,47,-5,42
+2024,Regular Season - 34,12,130,Gremio,33,11,6,16,38,42,-4,39
+2024,Regular Season - 34,13,136,Vitoria,33,11,5,17,38,48,-10,38
+2024,Regular Season - 34,14,134,Atletico Paranaense,33,10,7,16,35,41,-6,37
+2024,Regular Season - 34,15,124,Fluminense,33,10,7,16,28,36,-8,37
+2024,Regular Season - 34,16,140,Criciuma,33,9,10,14,39,48,-9,37
+2024,Regular Season - 34,17,152,Juventude,33,9,10,14,40,52,-12,37
+2024,Regular Season - 34,18,794,RB Bragantino,33,8,12,13,34,40,-6,36
+2024,Regular Season - 34,19,1193,Cuiaba,33,6,11,16,25,41,-16,29
+2024,Regular Season - 34,20,144,Atletico Goianiense,33,6,8,19,24,50,-26,26
+2024,Regular Season - 35,1,120,Botafogo,35,20,10,5,53,27,26,70
+2024,Regular Season - 35,2,121,Palmeiras,34,20,7,7,56,28,28,67
+2024,Regular Season - 35,3,154,Fortaleza EC,34,18,10,6,49,34,15,64
+2024,Regular Season - 35,4,119,Internacional,34,17,11,6,47,28,19,62
+2024,Regular Season - 35,5,127,Flamengo,34,18,8,8,53,38,15,62
+2024,Regular Season - 35,6,126,Sao Paulo,34,17,7,10,48,35,13,58
+2024,Regular Season - 35,7,135,Cruzeiro,34,13,8,13,39,37,2,47
+2024,Regular Season - 35,8,118,Bahia,34,13,7,14,44,44,0,46
+2024,Regular Season - 35,9,131,Corinthians,34,11,11,12,41,42,-1,44
+2024,Regular Season - 35,10,1062,Atletico-MG,34,10,13,11,42,47,-5,43
+2024,Regular Season - 35,11,133,Vasco DA Gama,34,12,7,15,36,50,-14,43
+2024,Regular Season - 35,12,136,Vitoria,35,12,6,17,40,49,-9,42
+2024,Regular Season - 35,13,130,Gremio,34,11,7,16,40,44,-4,40
+2024,Regular Season - 35,14,134,Atletico Paranaense,34,11,7,16,37,41,-4,40
+2024,Regular Season - 35,15,124,Fluminense,34,10,8,16,30,38,-8,38
+2024,Regular Season - 35,16,152,Juventude,34,9,11,14,42,54,-12,38
+2024,Regular Season - 35,17,794,RB Bragantino,34,8,13,13,35,41,-6,37
+2024,Regular Season - 35,18,140,Criciuma,34,9,10,15,39,49,-10,37
+2024,Regular Season - 35,19,1193,Cuiaba,34,6,11,17,26,43,-17,29
+2024,Regular Season - 35,20,144,Atletico Goianiense,34,6,8,20,24,52,-28,26
+2024,Regular Season - 36,1,120,Botafogo,36,21,10,5,56,28,28,73
+2024,Regular Season - 36,2,121,Palmeiras,36,21,7,8,58,31,27,70
+2024,Regular Season - 36,3,119,Internacional,35,18,11,6,51,29,22,65
+2024,Regular Season - 36,4,154,Fortaleza EC,35,18,11,6,49,34,15,65
+2024,Regular Season - 36,5,127,Flamengo,35,18,9,8,53,38,15,63
+2024,Regular Season - 36,6,126,Sao Paulo,35,17,8,10,50,37,13,59
+2024,Regular Season - 36,7,135,Cruzeiro,34,13,8,13,39,37,2,47
+2024,Regular Season - 36,8,131,Corinthians,35,12,11,12,44,43,1,47
+2024,Regular Season - 36,9,118,Bahia,35,13,8,14,45,45,0,47
+2024,Regular Season - 36,10,1062,Atletico-MG,35,10,14,11,44,49,-5,44
+2024,Regular Season - 36,11,133,Vasco DA Gama,35,12,7,16,37,53,-16,43
+2024,Regular Season - 36,12,136,Vitoria,35,12,6,17,40,49,-9,42
+2024,Regular Season - 36,13,134,Atletico Paranaense,35,11,8,16,38,42,-4,41
+2024,Regular Season - 36,14,130,Gremio,34,11,7,16,40,44,-4,40
+2024,Regular Season - 36,15,124,Fluminense,35,10,9,16,30,38,-8,39
+2024,Regular Season - 36,16,152,Juventude,35,9,12,14,43,55,-12,39
+2024,Regular Season - 36,17,140,Criciuma,35,9,11,15,39,49,-10,38
+2024,Regular Season - 36,18,794,RB Bragantino,35,8,13,14,36,45,-9,37
+2024,Regular Season - 36,19,1193,Cuiaba,35,6,12,17,27,44,-17,30
+2024,Regular Season - 36,20,144,Atletico Goianiense,35,6,8,21,24,53,-29,26
+2024,Regular Season - 37,1,120,Botafogo,36,21,10,5,56,28,28,73
+2024,Regular Season - 37,2,121,Palmeiras,36,21,7,8,58,31,27,70
+2024,Regular Season - 37,3,127,Flamengo,36,19,9,8,56,40,16,66
+2024,Regular Season - 37,4,119,Internacional,36,18,11,7,53,32,21,65
+2024,Regular Season - 37,5,154,Fortaleza EC,36,18,11,7,49,36,13,65
+2024,Regular Season - 37,6,126,Sao Paulo,36,17,8,11,51,39,12,59
+2024,Regular Season - 37,7,131,Corinthians,37,14,11,12,51,45,6,53
+2024,Regular Season - 37,8,118,Bahia,37,14,8,15,47,49,-2,50
+2024,Regular Season - 37,9,135,Cruzeiro,36,13,10,13,41,39,2,49
+2024,Regular Season - 37,10,136,Vitoria,36,13,6,17,42,49,-7,45
+2024,Regular Season - 37,11,130,Gremio,36,12,8,16,43,46,-3,44
+2024,Regular Season - 37,12,1062,Atletico-MG,36,10,14,12,46,52,-6,44
+2024,Regular Season - 37,13,133,Vasco DA Gama,36,12,8,16,39,55,-16,44
+2024,Regular Season - 37,14,134,Atletico Paranaense,36,11,9,16,39,43,-4,42
+2024,Regular Season - 37,15,152,Juventude,36,10,12,14,46,57,-11,42
+2024,Regular Season - 37,16,124,Fluminense,36,10,10,16,31,39,-8,40
+2024,Regular Season - 37,17,794,RB Bragantino,36,8,14,14,37,46,-9,38
+2024,Regular Season - 37,18,140,Criciuma,36,9,11,16,41,53,-12,38
+2024,Regular Season - 37,19,1193,Cuiaba,36,6,12,18,28,46,-18,30
+2024,Regular Season - 37,20,144,Atletico Goianiense,36,6,9,21,26,55,-29,27
+2024,Regular Season - 38,1,120,Botafogo,37,22,10,5,57,28,29,76
+2024,Regular Season - 38,2,121,Palmeiras,37,22,7,8,60,32,28,73
+2024,Regular Season - 38,3,127,Flamengo,37,20,9,8,59,40,19,69
+2024,Regular Season - 38,4,119,Internacional,37,18,11,8,53,33,20,65
+2024,Regular Season - 38,5,154,Fortaleza EC,37,18,11,8,50,39,11,65
+2024,Regular Season - 38,6,126,Sao Paulo,37,17,8,12,52,41,11,59
+2024,Regular Season - 38,7,131,Corinthians,37,14,11,12,51,45,6,53
+2024,Regular Season - 38,8,118,Bahia,38,15,8,15,49,49,0,53
+2024,Regular Season - 38,9,135,Cruzeiro,37,13,10,14,42,41,1,49
+2024,Regular Season - 38,10,133,Vasco DA Gama,37,13,8,16,41,55,-14,47
+2024,Regular Season - 38,11,136,Vitoria,37,13,7,17,43,50,-7,46
+2024,Regular Season - 38,12,130,Gremio,37,12,9,16,44,47,-3,45
+2024,Regular Season - 38,13,152,Juventude,37,11,12,14,48,58,-10,45
+2024,Regular Season - 38,14,1062,Atletico-MG,37,10,14,13,46,54,-8,44
+2024,Regular Season - 38,15,124,Fluminense,37,11,10,16,32,39,-7,43
+2024,Regular Season - 38,16,134,Atletico Paranaense,37,11,9,17,40,45,-5,42
+2024,Regular Season - 38,17,794,RB Bragantino,37,9,14,14,39,47,-8,41
+2024,Regular Season - 38,18,140,Criciuma,37,9,11,17,41,56,-15,38
+2024,Regular Season - 38,19,1193,Cuiaba,37,6,12,19,28,47,-19,30
+2024,Regular Season - 38,20,144,Atletico Goianiense,38,7,9,22,29,58,-29,30
