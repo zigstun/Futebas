@@ -31,7 +31,7 @@ python collect_multi_season.py
 ## Scripts
 
 - `collect_multi_season.py` - Principal (2022-2024 com cache)
-- `gerar_classificacao_rodada.py` - Reconstrói rodadas da rodada
+- `gerar_classificacao_rodada.py` - Reconstrói a classificação de cada rodada
 - `main.py` - Versão v1 (reference)
 
 **Detalhes técnicos, exemplos de dados e explicações estão nos comentários do código.**
